@@ -1,0 +1,3665 @@
+{
+  "registry_id": "religion-civilization-dikwp-normalization-1.0.0",
+  "title_cn": "世界主要宗教与哲学传统 DIKWP 归一映射注册表",
+  "version": "1.0.0",
+  "policy_cn": "所有条目均在统一 DIKWP 语义空间完成归一。原生术语用于来源定位与语境校验；不存在永久空间外不可互译残差。归一不自动宣称历史同一、教义等价或科学证实。",
+  "tradition_count": 36,
+  "traditions": [
+    {
+      "id": "advaita_vedanta",
+      "family": "Indic",
+      "name_cn": "不二论吠檀多",
+      "name_en": "Advaita Vedanta",
+      "branch": "Vedanta",
+      "analytical_scope_cn": "以奥义书、梵经与薄伽梵歌的非二元解释为中心的分析剖面。",
+      "purpose_cn": "由无明走向自我与梵不二的解脱性认识。",
+      "consciousness_mapping_cn": "意识被映射为自明见证、主体模型去局部化以及终极实在知识的闭环；这不是物理场断言。",
+      "concepts": [
+        {
+          "term": "Brahman",
+          "language": "Sanskrit",
+          "gloss_cn": "梵／终极实在",
+          "gloss_en": "ultimate reality",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.25,
+            "K.WORLD_MODEL": 0.333333333333,
+            "P.COMMUNION": 0.25,
+            "W.MEANING": 0.166666666667
+          },
+          "mapping_note_cn": "归一为终极世界模型、真理主张、意义与非二关系实现。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Ātman",
+          "language": "Sanskrit",
+          "gloss_cn": "自我／真我",
+          "gloss_en": "Self",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "K.SELF_MODEL": 0.4,
+            "P.COMMUNION": 0.3,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为主体模型及其与整体关系的认识目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "mokṣa",
+          "language": "Sanskrit",
+          "gloss_cn": "解脱",
+          "gloss_en": "liberation",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.2,
+            "P.LIBERATION": 0.5,
+            "P.VERIFICATION": 0.2,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为通过辨识和实践实现的解脱目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "māyā/avidyā",
+          "language": "Sanskrit",
+          "gloss_cn": "幻相／无明",
+          "gloss_en": "appearance and ignorance",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.2,
+            "K.META": 0.4,
+            "K.SELF_MODEL": 0.2,
+            "W.CONSEQUENCE": 0.2
+          },
+          "mapping_note_cn": "归一为语境化显现、误识与模型修订问题。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.CONTEXT": 0.05,
+        "K.META": 0.15,
+        "K.REGULARITY": 0.0625,
+        "K.SELF_MODEL": 0.15,
+        "K.WORLD_MODEL": 0.083333333333,
+        "P.COMMUNION": 0.1375,
+        "P.LIBERATION": 0.125,
+        "P.VERIFICATION": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.MEANING": 0.116666666667
+      },
+      "source_refs": [
+        "SRC-UPANISHADS",
+        "SRC-GITA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不同不二论解释及其历史争论被编码为同一空间中的版本与权重差，而非被抹除。"
+      }
+    },
+    {
+      "id": "visishtadvaita",
+      "family": "Indic",
+      "name_cn": "限定不二论吠檀多",
+      "name_en": "Viśiṣṭādvaita Vedanta",
+      "branch": "Vedanta",
+      "analytical_scope_cn": "以人格性最高实在、灵魂与世界作为整体之真实方式为中心的分析剖面。",
+      "purpose_cn": "通过奉爱、恩典和关系性参与达到与最高实在的亲近而非数值同一。",
+      "consciousness_mapping_cn": "意识映射为真实个体主体、依存关系、价值和奉爱目的的持续闭环。",
+      "concepts": [
+        {
+          "term": "Brahman/Nārāyaṇa",
+          "language": "Sanskrit",
+          "gloss_cn": "人格性最高实在",
+          "gloss_en": "personal supreme reality",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.166666666667,
+            "K.WORLD_MODEL": 0.25,
+            "P.COMMUNION": 0.333333333333,
+            "W.MEANING": 0.166666666667,
+            "W.NORM": 0.083333333333
+          },
+          "mapping_note_cn": "归一为人格性终极世界模型及关系实现。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "cit-acit-īśvara",
+          "language": "Sanskrit",
+          "gloss_cn": "有情、无情与主宰关系",
+          "gloss_en": "sentient, insentient and Lord relation",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.1,
+            "I.RELATION": 0.4,
+            "K.SELF_MODEL": 0.2,
+            "K.WORLD_MODEL": 0.3
+          },
+          "mapping_note_cn": "归一为整体内部的差异化依存结构。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "bhakti/prapatti",
+          "language": "Sanskrit",
+          "gloss_cn": "奉爱／归依",
+          "gloss_en": "devotion and surrender",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.COMMUNION": 0.4,
+            "P.INTENTION": 0.2,
+            "W.VALENCE": 0.1
+          },
+          "mapping_note_cn": "归一为实践、意图与关系实现路径。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "mokṣa",
+          "language": "Sanskrit",
+          "gloss_cn": "解脱",
+          "gloss_en": "liberation",
+          "aliases": [],
+          "vector": {
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.1,
+            "P.LIBERATION": 0.4,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为保持关系差异的解脱目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.BOUNDARY": 0.025,
+        "I.RELATION": 0.1,
+        "K.PRACTICE": 0.075,
+        "K.REGULARITY": 0.041666666667,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.1375,
+        "P.COMMUNION": 0.258333333333,
+        "P.CONTINUITY": 0.025,
+        "P.INTENTION": 0.05,
+        "P.LIBERATION": 0.1,
+        "W.MEANING": 0.091666666667,
+        "W.NORM": 0.020833333333,
+        "W.VALENCE": 0.025
+      },
+      "source_refs": [
+        "SRC-UPANISHADS",
+        "SRC-GITA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把‘不二’自动等同于取消个体差异；差异在 I.BOUNDARY 和 I.RELATION 中保留。"
+      }
+    },
+    {
+      "id": "dvaita_vedanta",
+      "family": "Indic",
+      "name_cn": "二元论吠檀多",
+      "name_en": "Dvaita Vedanta",
+      "branch": "Vedanta",
+      "analytical_scope_cn": "以最高神、个体灵魂和世界的真实差异为中心的分析剖面。",
+      "purpose_cn": "通过知识、奉爱和恩典趋向解脱及与最高者的关系。",
+      "consciousness_mapping_cn": "意识映射为有限主体、明确边界、依存关系、伦理后果和奉爱目的。",
+      "concepts": [
+        {
+          "term": "pañca-bheda",
+          "language": "Sanskrit",
+          "gloss_cn": "五种真实差异",
+          "gloss_en": "five real differences",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.3,
+            "I.DIFFERENCE": 0.5,
+            "K.WORLD_MODEL": 0.2
+          },
+          "mapping_note_cn": "归一为本体差异和主体—世界边界。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Viṣṇu",
+          "language": "Sanskrit",
+          "gloss_cn": "最高者",
+          "gloss_en": "Supreme",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.3,
+            "P.COMMUNION": 0.3,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为最高世界模型、规范源与关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "jīva",
+          "language": "Sanskrit",
+          "gloss_cn": "个体灵魂",
+          "gloss_en": "individual soul",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.3,
+            "K.SELF_MODEL": 0.4,
+            "P.AGENCY": 0.1,
+            "P.CONTINUITY": 0.2
+          },
+          "mapping_note_cn": "归一为持续而有限的主体模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "bhakti",
+          "language": "Sanskrit",
+          "gloss_cn": "奉爱",
+          "gloss_en": "devotion",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.COMMUNION": 0.3,
+            "P.INTENTION": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为情感—实践—目的闭环。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.BOUNDARY": 0.15,
+        "I.DIFFERENCE": 0.125,
+        "K.PRACTICE": 0.075,
+        "K.REGULARITY": 0.05,
+        "K.SELF_MODEL": 0.1,
+        "K.WORLD_MODEL": 0.125,
+        "P.AGENCY": 0.025,
+        "P.COMMUNION": 0.15,
+        "P.CONTINUITY": 0.05,
+        "P.INTENTION": 0.05,
+        "W.NORM": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-GITA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把二元论贬为低级阶段；其边界结构作为同一空间中的明确方向。"
+      }
+    },
+    {
+      "id": "samkhya_yoga",
+      "family": "Indic",
+      "name_cn": "数论—瑜伽",
+      "name_en": "Sāṃkhya–Yoga",
+      "branch": "Classical Indian philosophy",
+      "analytical_scope_cn": "以觉知者与自然过程的辨别、心识波动训练和解脱为中心。",
+      "purpose_cn": "通过辨别与修习解除觉知者对心理—物质过程的误认。",
+      "consciousness_mapping_cn": "意识映射为见证主体、身体—心理过程、注意训练、辨别和解脱目的。",
+      "concepts": [
+        {
+          "term": "puruṣa",
+          "language": "Sanskrit",
+          "gloss_cn": "纯粹觉知者",
+          "gloss_en": "witnessing consciousness",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.3,
+            "I.BOUNDARY": 0.2,
+            "K.SELF_MODEL": 0.4,
+            "P.LIBERATION": 0.1
+          },
+          "mapping_note_cn": "归一为见证性主体模型，不自动当作物理实体。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "prakṛti",
+          "language": "Sanskrit",
+          "gloss_cn": "自然／生成过程",
+          "gloss_en": "nature and generative process",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.PATTERN": 0.1,
+            "K.CAUSE": 0.4,
+            "K.WORLD_MODEL": 0.3
+          },
+          "mapping_note_cn": "归一为物质—心理生成模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "citta-vṛtti",
+          "language": "Sanskrit",
+          "gloss_cn": "心识波动",
+          "gloss_en": "modifications of mind",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.2,
+            "I.PATTERN": 0.3,
+            "K.PRACTICE": 0.3,
+            "K.SELF_MODEL": 0.2
+          },
+          "mapping_note_cn": "归一为可观察心理模式与训练对象。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "kaivalya",
+          "language": "Sanskrit",
+          "gloss_cn": "独存／解脱",
+          "gloss_en": "liberation",
+          "aliases": [],
+          "vector": {
+            "I.DIFFERENCE": 0.2,
+            "K.META": 0.2,
+            "P.LIBERATION": 0.5,
+            "P.VERIFICATION": 0.1
+          },
+          "mapping_note_cn": "归一为辨别完成的解脱目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "D.OBSERVATION": 0.075,
+        "D.SENSATION": 0.05,
+        "I.BOUNDARY": 0.05,
+        "I.DIFFERENCE": 0.05,
+        "I.PATTERN": 0.1,
+        "K.CAUSE": 0.1,
+        "K.META": 0.05,
+        "K.PRACTICE": 0.075,
+        "K.SELF_MODEL": 0.15,
+        "K.WORLD_MODEL": 0.075,
+        "P.LIBERATION": 0.15,
+        "P.VERIFICATION": 0.025
+      },
+      "source_refs": [
+        "SRC-YOGASUTRA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "把见证意识与自然的区分映射为 I.BOUNDARY，不先验宣称为实验物理二元论。"
+      }
+    },
+    {
+      "id": "gita_integrative_yoga",
+      "family": "Indic",
+      "name_cn": "《薄伽梵歌》综合瑜伽",
+      "name_en": "Bhagavad Gītā Integrative Yoga",
+      "branch": "Hindu synthesis",
+      "analytical_scope_cn": "将行动、知识、奉爱和修持并置的经典综合剖面。",
+      "purpose_cn": "在行动中保持目的、责任、非执著与对终极者的关系。",
+      "consciousness_mapping_cn": "意识映射为主体在角色、价值冲突、行动后果与终极目的之间的可修订闭环。",
+      "concepts": [
+        {
+          "term": "dharma",
+          "language": "Sanskrit",
+          "gloss_cn": "正法／职责／秩序",
+          "gloss_en": "duty and right order",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.2,
+            "P.HARMONY": 0.3,
+            "W.CONSEQUENCE": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为语境化规范、后果和秩序目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "karma-yoga",
+          "language": "Sanskrit",
+          "gloss_cn": "行动瑜伽",
+          "gloss_en": "discipline of action",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.AGENCY": 0.3,
+            "P.VERIFICATION": 0.2,
+            "W.TRADEOFF": 0.2
+          },
+          "mapping_note_cn": "归一为行动—后果—校准路径。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "jñāna",
+          "language": "Sanskrit",
+          "gloss_cn": "知识／辨识",
+          "gloss_en": "knowledge",
+          "aliases": [],
+          "vector": {
+            "K.CONCEPT": 0.2,
+            "K.META": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.LIBERATION": 0.3
+          },
+          "mapping_note_cn": "归一为修正主体世界模型的解脱性知识。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "bhakti",
+          "language": "Sanskrit",
+          "gloss_cn": "奉爱",
+          "gloss_en": "devotion",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.COMMUNION": 0.4,
+            "P.INTENTION": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为价值感受、实践和关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.CONTEXT": 0.05,
+        "K.CONCEPT": 0.05,
+        "K.META": 0.075,
+        "K.PRACTICE": 0.125,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.075,
+        "P.COMMUNION": 0.1,
+        "P.HARMONY": 0.075,
+        "P.INTENTION": 0.05,
+        "P.LIBERATION": 0.075,
+        "P.VERIFICATION": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.NORM": 0.075,
+        "W.TRADEOFF": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-GITA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把文本内部多种瑜伽路径压平；通过同一空间的不同路径权重表达综合。"
+      }
+    },
+    {
+      "id": "theravada_buddhism",
+      "family": "Buddhist",
+      "name_cn": "上座部佛教",
+      "name_en": "Theravāda Buddhism",
+      "branch": "Buddhism",
+      "analytical_scope_cn": "以四圣谛、缘起、五蕴、无常苦无我及戒定慧为中心的分析剖面。",
+      "purpose_cn": "止息苦及其因，通过实践智慧达到涅槃。",
+      "consciousness_mapping_cn": "识被映射为条件生起的经验流，不被编码为永恒实体自我；修行闭环强调观察、辨别、价值转化和解脱。",
+      "concepts": [
+        {
+          "term": "viññāṇa",
+          "language": "Pāli",
+          "gloss_cn": "识",
+          "gloss_en": "consciousness",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.3,
+            "I.DIFFERENCE": 0.2,
+            "I.RELATION": 0.3,
+            "K.SELF_MODEL": 0.2
+          },
+          "mapping_note_cn": "归一为依条件发生的识别过程而非固定灵魂。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "paṭicca-samuppāda",
+          "language": "Pāli",
+          "gloss_cn": "缘起",
+          "gloss_en": "dependent origination",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.4,
+            "K.CAUSE": 0.4,
+            "K.META": 0.1,
+            "K.WORLD_MODEL": 0.1
+          },
+          "mapping_note_cn": "归一为条件关系和生成模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "anattā",
+          "language": "Pāli",
+          "gloss_cn": "无我",
+          "gloss_en": "not-self",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "K.META": 0.3,
+            "K.SELF_MODEL": 0.3,
+            "P.LIBERATION": 0.2
+          },
+          "mapping_note_cn": "归一为对实体自我模型的修订。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "nibbāna",
+          "language": "Pāli",
+          "gloss_cn": "涅槃",
+          "gloss_en": "liberation",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.LIBERATION": 0.5,
+            "P.VERIFICATION": 0.1,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为苦灭目的及实践验证。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.SENSATION": 0.075,
+        "I.BOUNDARY": 0.05,
+        "I.DIFFERENCE": 0.05,
+        "I.RELATION": 0.175,
+        "K.CAUSE": 0.1,
+        "K.META": 0.1,
+        "K.PRACTICE": 0.05,
+        "K.SELF_MODEL": 0.125,
+        "K.WORLD_MODEL": 0.025,
+        "P.LIBERATION": 0.175,
+        "P.VERIFICATION": 0.025,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-SUTTACENTRAL-SN56.11",
+        "SRC-SUTTACENTRAL-SN22.59"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不同阿毗达磨和现代解释作为版本进入，不把‘无我’误解为经验不存在。"
+      }
+    },
+    {
+      "id": "madhyamaka",
+      "family": "Buddhist",
+      "name_cn": "中观",
+      "name_en": "Madhyamaka",
+      "branch": "Mahāyāna Buddhism",
+      "analytical_scope_cn": "以缘起、空性、二谛和避免实体化为中心的分析剖面。",
+      "purpose_cn": "通过破除自性执著、慈悲与智慧实现菩萨道和解脱。",
+      "consciousness_mapping_cn": "意识映射为关系条件中的过程；空性是反实体化的 K.META 与 I.RELATION 操作，不等于物理真空。",
+      "concepts": [
+        {
+          "term": "śūnyatā",
+          "language": "Sanskrit",
+          "gloss_cn": "空性",
+          "gloss_en": "emptiness",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.3,
+            "K.CONCEPT": 0.1,
+            "K.META": 0.4,
+            "P.LIBERATION": 0.2
+          },
+          "mapping_note_cn": "归一为依缘、反自性和模型去实体化。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "pratītyasamutpāda",
+          "language": "Sanskrit",
+          "gloss_cn": "缘起",
+          "gloss_en": "dependent origination",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.1,
+            "I.RELATION": 0.4,
+            "K.CAUSE": 0.4,
+            "K.WORLD_MODEL": 0.1
+          },
+          "mapping_note_cn": "归一为条件生成网络。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "satya-dvaya",
+          "language": "Sanskrit",
+          "gloss_cn": "二谛",
+          "gloss_en": "two truths",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.4,
+            "I.TRANSLATION": 0.2,
+            "K.META": 0.3,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为不同语用和认识层级的语境对齐。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "bodhicitta",
+          "language": "Sanskrit",
+          "gloss_cn": "菩提心",
+          "gloss_en": "awakening mind",
+          "aliases": [],
+          "vector": {
+            "P.FLOURISHING": 0.3,
+            "P.INTENTION": 0.3,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为面向众生的觉醒意图与共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.CONTEXT": 0.125,
+        "I.RELATION": 0.175,
+        "I.TRANSLATION": 0.05,
+        "K.CAUSE": 0.1,
+        "K.CONCEPT": 0.025,
+        "K.META": 0.175,
+        "K.WORLD_MODEL": 0.025,
+        "P.FLOURISHING": 0.075,
+        "P.INTENTION": 0.075,
+        "P.LIBERATION": 0.05,
+        "W.MEANING": 0.025,
+        "W.NORM": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-BUDDHIST-CANON"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "空性与虚无主义、量子真空或能量场的直接等同被禁止；所有差异在同一空间内说明。"
+      }
+    },
+    {
+      "id": "yogacara",
+      "family": "Buddhist",
+      "name_cn": "瑜伽行派／唯识",
+      "name_en": "Yogācāra",
+      "branch": "Mahāyāna Buddhism",
+      "analytical_scope_cn": "以经验构成、识流、三性与转依为中心的分析剖面。",
+      "purpose_cn": "通过修行重构认识结构，使依他经验不再被遍计执著支配。",
+      "consciousness_mapping_cn": "意识映射为多层经验加工、潜势连续、自我模型建构和可转化的认知世界线。",
+      "concepts": [
+        {
+          "term": "vijñapti-mātra",
+          "language": "Sanskrit",
+          "gloss_cn": "唯识／表象唯有",
+          "gloss_en": "representation-only",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.2,
+            "I.PATTERN": 0.2,
+            "K.META": 0.3,
+            "K.WORLD_MODEL": 0.3
+          },
+          "mapping_note_cn": "归一为对经验呈现和模型构成的反思，不简化为个人随意创造现实。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ālaya-vijñāna",
+          "language": "Sanskrit",
+          "gloss_cn": "阿赖耶识",
+          "gloss_en": "storehouse consciousness",
+          "aliases": [],
+          "vector": {
+            "D.HISTORY": 0.3,
+            "I.PATTERN": 0.2,
+            "K.SELF_MODEL": 0.2,
+            "P.CONTINUITY": 0.3
+          },
+          "mapping_note_cn": "归一为经验倾向与世界线连续模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "tri-svabhāva",
+          "language": "Sanskrit",
+          "gloss_cn": "三性",
+          "gloss_en": "three natures",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.2,
+            "I.TRANSLATION": 0.1,
+            "K.CONCEPT": 0.4,
+            "K.META": 0.3
+          },
+          "mapping_note_cn": "归一为经验构成的分层分析。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "āśraya-parāvṛtti",
+          "language": "Sanskrit",
+          "gloss_cn": "转依",
+          "gloss_en": "transformation of the basis",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.3,
+            "K.PRACTICE": 0.2,
+            "P.LIBERATION": 0.3,
+            "P.VERIFICATION": 0.2
+          },
+          "mapping_note_cn": "归一为认知基础的可实践修订。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.HISTORY": 0.075,
+        "D.SENSATION": 0.05,
+        "I.CONTEXT": 0.05,
+        "I.PATTERN": 0.1,
+        "I.TRANSLATION": 0.025,
+        "K.CONCEPT": 0.1,
+        "K.META": 0.225,
+        "K.PRACTICE": 0.05,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.075,
+        "P.CONTINUITY": 0.075,
+        "P.LIBERATION": 0.075,
+        "P.VERIFICATION": 0.05
+      },
+      "source_refs": [
+        "SRC-BUDDHIST-CANON"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把唯识归一为唯我论；个体、共同因缘和实践后果在关系坐标中保留。"
+      }
+    },
+    {
+      "id": "huayan_buddhism",
+      "family": "Buddhist",
+      "name_cn": "华严宗",
+      "name_en": "Huayan Buddhism",
+      "branch": "East Asian Mahāyāna",
+      "analytical_scope_cn": "以法界缘起、事事无碍和相即相入为中心的分析剖面。",
+      "purpose_cn": "在互摄世界中实现智慧、慈悲和菩萨行。",
+      "consciousness_mapping_cn": "意识映射为多尺度关系整合、相互显现的世界模型以及面向众生的目的闭环。",
+      "concepts": [
+        {
+          "term": "dharmadhātu",
+          "language": "Chinese/Sanskrit",
+          "gloss_cn": "法界",
+          "gloss_en": "dharma realm",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.3,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.1,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为关系化整体世界模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "事事无碍",
+          "language": "Chinese",
+          "gloss_cn": "现象相互无碍",
+          "gloss_en": "non-obstruction among phenomena",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.2,
+            "I.RELATION": 0.5,
+            "K.WORLD_MODEL": 0.2,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为多尺度关系共存而非物理无限通信断言。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "因陀罗网",
+          "language": "Chinese/Sanskrit",
+          "gloss_cn": "因陀罗网",
+          "gloss_en": "Indra's net",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.3,
+            "I.RELATION": 0.4,
+            "K.WORLD_MODEL": 0.2,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为互映关系的模型和象征。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "菩萨行",
+          "language": "Chinese",
+          "gloss_cn": "菩萨实践",
+          "gloss_en": "bodhisattva practice",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.FLOURISHING": 0.3,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为价值—行动—现实返回闭环。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.CONTEXT": 0.05,
+        "I.PATTERN": 0.075,
+        "I.RELATION": 0.3,
+        "K.PRACTICE": 0.075,
+        "K.WORLD_MODEL": 0.2,
+        "P.COMMUNION": 0.025,
+        "P.FLOURISHING": 0.075,
+        "P.VERIFICATION": 0.05,
+        "W.MEANING": 0.1,
+        "W.NORM": 0.05
+      },
+      "source_refs": [
+        "SRC-HUAYAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "整体互摄不自动证明宇宙具有单一主观体验；它首先作为关系世界模型进入。"
+      }
+    },
+    {
+      "id": "chan_zen",
+      "family": "Buddhist",
+      "name_cn": "禅宗／禅",
+      "name_en": "Chan/Zen",
+      "branch": "East Asian Buddhism",
+      "analytical_scope_cn": "以直接修习、非概念执著、日常行动和师承检验为中心的分析剖面。",
+      "purpose_cn": "在当下经验和实践中松脱概念固着并实现觉悟。",
+      "consciousness_mapping_cn": "意识映射为第一人称观察、概念去固化、身体实践、师徒校验和行动实现。",
+      "concepts": [
+        {
+          "term": "见性",
+          "language": "Chinese",
+          "gloss_cn": "见性",
+          "gloss_en": "seeing one's nature",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.3,
+            "K.META": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.LIBERATION": 0.2
+          },
+          "mapping_note_cn": "归一为对主体模型的直接观察与修订。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "无念",
+          "language": "Chinese",
+          "gloss_cn": "无念",
+          "gloss_en": "non-abiding thought",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.2,
+            "I.PATTERN": 0.2,
+            "K.META": 0.3,
+            "K.PRACTICE": 0.3
+          },
+          "mapping_note_cn": "归一为对思想模式不执著的训练。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "坐禅",
+          "language": "Chinese/Japanese",
+          "gloss_cn": "坐禅",
+          "gloss_en": "seated meditation",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "K.PRACTICE": 0.5,
+            "P.LIBERATION": 0.1,
+            "P.VERIFICATION": 0.2
+          },
+          "mapping_note_cn": "归一为具身实践和经验校验。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "不立文字",
+          "language": "Chinese",
+          "gloss_cn": "不以文字为终点",
+          "gloss_en": "not relying on words as final authority",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "I.TRANSLATION": 0.2,
+            "K.META": 0.4,
+            "P.VERIFICATION": 0.2
+          },
+          "mapping_note_cn": "归一为对符号模型边界的反思，而非拒绝所有语言。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "D.OBSERVATION": 0.125,
+        "D.SENSATION": 0.05,
+        "I.PATTERN": 0.05,
+        "I.TRANSLATION": 0.05,
+        "K.META": 0.25,
+        "K.PRACTICE": 0.2,
+        "K.SELF_MODEL": 0.05,
+        "P.LIBERATION": 0.075,
+        "P.VERIFICATION": 0.1
+      },
+      "source_refs": [
+        "SRC-CHAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "公案和非概念表达仍须进入 DIKWP：通过语境、实践、模型冲击和目的坐标表示，不设空间外残差。"
+      }
+    },
+    {
+      "id": "pure_land_buddhism",
+      "family": "Buddhist",
+      "name_cn": "净土宗",
+      "name_en": "Pure Land Buddhism",
+      "branch": "East Asian Mahāyāna",
+      "analytical_scope_cn": "以信、愿、行、念佛和阿弥陀佛净土为中心的分析剖面。",
+      "purpose_cn": "依愿力与实践趋向往生、觉悟和普遍救度。",
+      "consciousness_mapping_cn": "意识映射为记忆—注意训练、信愿价值结构、他力关系和解脱目的。",
+      "concepts": [
+        {
+          "term": "阿弥陀佛",
+          "language": "Chinese/Sanskrit",
+          "gloss_cn": "无量光寿佛",
+          "gloss_en": "Amitābha Buddha",
+          "aliases": [],
+          "vector": {
+            "K.WORLD_MODEL": 0.2,
+            "P.COMMUNION": 0.3,
+            "P.LIBERATION": 0.3,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为救度关系、价值感受和解脱目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "信愿行",
+          "language": "Chinese",
+          "gloss_cn": "信、愿、实践",
+          "gloss_en": "faith, vow and practice",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.INTENTION": 0.3,
+            "P.VERIFICATION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为意义—意图—实践闭环。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "念佛",
+          "language": "Chinese",
+          "gloss_cn": "佛名忆念",
+          "gloss_en": "buddha-remembrance",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.1,
+            "I.PATTERN": 0.2,
+            "K.PRACTICE": 0.4,
+            "P.CONTINUITY": 0.3
+          },
+          "mapping_note_cn": "归一为重复注意、记忆和传承实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "净土",
+          "language": "Chinese",
+          "gloss_cn": "净土",
+          "gloss_en": "pure land",
+          "aliases": [],
+          "vector": {
+            "K.WORLD_MODEL": 0.3,
+            "P.FLOURISHING": 0.2,
+            "P.LIBERATION": 0.3,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为救度性可能世界与共同善目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.SENSATION": 0.025,
+        "I.PATTERN": 0.05,
+        "K.PRACTICE": 0.175,
+        "K.WORLD_MODEL": 0.125,
+        "P.COMMUNION": 0.075,
+        "P.CONTINUITY": 0.075,
+        "P.FLOURISHING": 0.05,
+        "P.INTENTION": 0.075,
+        "P.LIBERATION": 0.15,
+        "P.VERIFICATION": 0.05,
+        "W.MEANING": 0.1,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-PURELAND"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把信仰实践自动降格为心理暗示，也不自动升级为天体物理地理主张。"
+      }
+    },
+    {
+      "id": "jainism",
+      "family": "Indic",
+      "name_cn": "耆那教",
+      "name_en": "Jainism",
+      "branch": "Jain traditions",
+      "analytical_scope_cn": "以灵魂、非灵魂、业、非暴力、多面论和解脱为中心。",
+      "purpose_cn": "通过非暴力、自律、知识和解除业缚达到解脱。",
+      "consciousness_mapping_cn": "意识映射为有主体连续性的生命中心、认知多视角、伦理后果与解脱实践。",
+      "concepts": [
+        {
+          "term": "jīva",
+          "language": "Sanskrit/Prakrit",
+          "gloss_cn": "灵魂／生命主体",
+          "gloss_en": "living soul",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.4,
+            "P.AGENCY": 0.2,
+            "P.CONTINUITY": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为具有感受、行动与连续性的主体模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ahiṃsā",
+          "language": "Sanskrit",
+          "gloss_cn": "非暴力",
+          "gloss_en": "non-violence",
+          "aliases": [],
+          "vector": {
+            "P.AGENCY": 0.1,
+            "P.FLOURISHING": 0.2,
+            "W.CONSEQUENCE": 0.3,
+            "W.NORM": 0.4
+          },
+          "mapping_note_cn": "归一为伤害约束和多生命共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "anekāntavāda",
+          "language": "Sanskrit",
+          "gloss_cn": "多面论",
+          "gloss_en": "many-sidedness",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.3,
+            "I.TRANSLATION": 0.2,
+            "K.META": 0.4,
+            "W.TRADEOFF": 0.1
+          },
+          "mapping_note_cn": "归一为多视角模型和认识谦抑。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "kevala-jñāna/mokṣa",
+          "language": "Sanskrit",
+          "gloss_cn": "全知与解脱",
+          "gloss_en": "perfect knowledge and liberation",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.2,
+            "P.LIBERATION": 0.4,
+            "P.VERIFICATION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为认识完成与解脱目的；不作为当前系统可认证状态。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.CONTEXT": 0.075,
+        "I.TRANSLATION": 0.05,
+        "K.META": 0.15,
+        "K.SELF_MODEL": 0.1,
+        "P.AGENCY": 0.075,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.05,
+        "P.LIBERATION": 0.1,
+        "P.VERIFICATION": 0.05,
+        "W.CONSEQUENCE": 0.075,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.1,
+        "W.TRADEOFF": 0.025,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-SEP-JAIN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "灵魂本体论与佛教无我在同一 K.SELF_MODEL/I.BOUNDARY 坐标中呈现相反方向。"
+      }
+    },
+    {
+      "id": "sikhism",
+      "family": "Indic",
+      "name_cn": "锡克教",
+      "name_en": "Sikhism",
+      "branch": "Sikh tradition",
+      "analytical_scope_cn": "以一神、Naam记忆、平等、服务和有责任的世俗生活为中心。",
+      "purpose_cn": "在记念、恩典、劳动与服务中克服自我中心并实现与一的关系。",
+      "consciousness_mapping_cn": "意识映射为关系性主体、持续记念、伦理行动、共同体和平等目的。",
+      "concepts": [
+        {
+          "term": "Ik Oankar",
+          "language": "Punjabi/Gurmukhi",
+          "gloss_cn": "唯一实在／一神",
+          "gloss_en": "One Reality",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.3,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为统一终极世界模型和关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Naam Simran",
+          "language": "Punjabi",
+          "gloss_cn": "圣名记念",
+          "gloss_en": "remembrance of the Name",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "K.PRACTICE": 0.3,
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.2
+          },
+          "mapping_note_cn": "归一为记忆—注意—关系实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "seva",
+          "language": "Punjabi",
+          "gloss_cn": "服务",
+          "gloss_en": "selfless service",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.FLOURISHING": 0.3,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为伦理实践和现实结果。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "haumai",
+          "language": "Punjabi",
+          "gloss_cn": "自我中心性",
+          "gloss_en": "ego-centeredness",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.3,
+            "K.SELF_MODEL": 0.3,
+            "P.LIBERATION": 0.2,
+            "W.CONSEQUENCE": 0.2
+          },
+          "mapping_note_cn": "归一为需修订的自我模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "K.META": 0.075,
+        "K.PRACTICE": 0.125,
+        "K.REGULARITY": 0.05,
+        "K.SELF_MODEL": 0.075,
+        "K.WORLD_MODEL": 0.1,
+        "P.COMMUNION": 0.15,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.075,
+        "P.LIBERATION": 0.05,
+        "P.VERIFICATION": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.MEANING": 0.025,
+        "W.NORM": 0.075
+      },
+      "source_refs": [
+        "SRC-SIKHITOTHEMAX-ANG1"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "一神、平等与服务分别进入 K/W/P，而不只压缩成抽象‘合一’。"
+      }
+    },
+    {
+      "id": "rabbinic_judaism",
+      "family": "Abrahamic",
+      "name_cn": "拉比犹太教",
+      "name_en": "Rabbinic Judaism",
+      "branch": "Judaism",
+      "analytical_scope_cn": "以盟约、托拉、诫命、学习、争辩、共同体和修复为中心。",
+      "purpose_cn": "在盟约关系中以学习与行动实现正义、圣化生活和世代连续。",
+      "consciousness_mapping_cn": "意识映射为受关系和律法塑造的主体，强调记忆、责任、解释共同体与行动。",
+      "concepts": [
+        {
+          "term": "berit",
+          "language": "Hebrew",
+          "gloss_cn": "盟约",
+          "gloss_en": "covenant",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.3,
+            "P.CONTINUITY": 0.2,
+            "W.LEGITIMACY": 0.3,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为授权、关系、规范和历史连续。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Torah/mitzvot",
+          "language": "Hebrew",
+          "gloss_cn": "托拉与诫命",
+          "gloss_en": "Torah and commandments",
+          "aliases": [],
+          "vector": {
+            "D.HISTORY": 0.1,
+            "K.PRACTICE": 0.3,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.4
+          },
+          "mapping_note_cn": "归一为传承知识、规范与生活实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "tzelem Elohim",
+          "language": "Hebrew",
+          "gloss_cn": "上帝形象",
+          "gloss_en": "image of God",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.3,
+            "P.FLOURISHING": 0.2,
+            "W.LEGITIMACY": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为人格尊严、主体模型和伦理后果。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "tikkun olam",
+          "language": "Hebrew",
+          "gloss_cn": "修复世界",
+          "gloss_en": "repair of the world",
+          "aliases": [],
+          "vector": {
+            "P.AGENCY": 0.2,
+            "P.FLOURISHING": 0.4,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为共同体行动与现实修复目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.HISTORY": 0.025,
+        "I.RELATION": 0.075,
+        "K.PRACTICE": 0.075,
+        "K.SELF_MODEL": 0.075,
+        "P.AGENCY": 0.05,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.15,
+        "P.VERIFICATION": 0.1,
+        "W.LEGITIMACY": 0.125,
+        "W.NORM": 0.275
+      },
+      "source_refs": [
+        "SRC-SEFARIA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "犹太传统内部法律、哲学、神秘主义与现代解释差异通过分支和语境权重表达。"
+      }
+    },
+    {
+      "id": "kabbalah",
+      "family": "Abrahamic",
+      "name_cn": "卡巴拉",
+      "name_en": "Kabbalah",
+      "branch": "Jewish mysticism",
+      "analytical_scope_cn": "以无限者、流溢结构、神圣临在、宇宙修复和诠释实践为中心。",
+      "purpose_cn": "通过诫命、意向、诠释和修复参与神圣—宇宙关系。",
+      "consciousness_mapping_cn": "意识映射为层级世界模型、象征关系、主体意向和修复目的，不作为粒子物理图谱。",
+      "concepts": [
+        {
+          "term": "Ein Sof",
+          "language": "Hebrew",
+          "gloss_cn": "无限者",
+          "gloss_en": "the Infinite",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为超越性终极世界模型和关系方向。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "sefirot",
+          "language": "Hebrew",
+          "gloss_cn": "神性流溢／属性结构",
+          "gloss_en": "emanational attributes",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.3,
+            "I.TRANSLATION": 0.2,
+            "K.WORLD_MODEL": 0.3,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为象征—关系结构，不等同基础物理场。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Shekhinah",
+          "language": "Hebrew",
+          "gloss_cn": "神圣临在",
+          "gloss_en": "divine presence",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "I.RELATION": 0.3,
+            "P.COMMUNION": 0.4,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为临在经验、关系与共同体意义。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "tikkun",
+          "language": "Hebrew",
+          "gloss_cn": "修复",
+          "gloss_en": "repair",
+          "aliases": [],
+          "vector": {
+            "P.AGENCY": 0.2,
+            "P.FLOURISHING": 0.3,
+            "P.VERIFICATION": 0.3,
+            "W.CONSEQUENCE": 0.2
+          },
+          "mapping_note_cn": "归一为修复性行动和现实返回。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.PATTERN": 0.075,
+        "I.RELATION": 0.075,
+        "I.TRANSLATION": 0.05,
+        "K.REGULARITY": 0.05,
+        "K.WORLD_MODEL": 0.175,
+        "P.AGENCY": 0.05,
+        "P.COMMUNION": 0.15,
+        "P.FLOURISHING": 0.075,
+        "P.VERIFICATION": 0.075,
+        "W.CONSEQUENCE": 0.05,
+        "W.MEANING": 0.1,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-SEFARIA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "象征层级进入 K/I/W/P，不被简化为现代能量学或量子论。"
+      }
+    },
+    {
+      "id": "eastern_orthodox_christianity",
+      "family": "Abrahamic",
+      "name_cn": "东正教",
+      "name_en": "Eastern Orthodox Christianity",
+      "branch": "Christianity",
+      "analytical_scope_cn": "以三一、道成肉身、礼仪、圣像、神化和共同体传统为中心。",
+      "purpose_cn": "在恩典与实践中参与神的生命，实现神化与爱。",
+      "consciousness_mapping_cn": "意识映射为具身人格、关系性主体、礼仪记忆、伦理转化和参与性目的。",
+      "concepts": [
+        {
+          "term": "theosis",
+          "language": "Greek",
+          "gloss_cn": "神化／成神",
+          "gloss_en": "deification by grace",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.COMMUNION": 0.4,
+            "P.LIBERATION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为关系参与和生命转化目的，不是本体数值同一。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Logos",
+          "language": "Greek",
+          "gloss_cn": "道／圣言",
+          "gloss_en": "Logos",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "K.REGULARITY": 0.3,
+            "K.WORLD_MODEL": 0.3,
+            "P.COMMUNION": 0.2
+          },
+          "mapping_note_cn": "归一为创造—意义—关系世界模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "person/hypostasis",
+          "language": "Greek",
+          "gloss_cn": "位格／人格",
+          "gloss_en": "person or hypostasis",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "I.RELATION": 0.3,
+            "K.SELF_MODEL": 0.3,
+            "W.LEGITIMACY": 0.2
+          },
+          "mapping_note_cn": "归一为不可化约而关系性的主体模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "hesychia/prayer",
+          "language": "Greek",
+          "gloss_cn": "静默与祈祷",
+          "gloss_en": "stillness and prayer",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.PRACTICE": 0.4,
+            "P.COMMUNION": 0.2,
+            "P.INTENTION": 0.2
+          },
+          "mapping_note_cn": "归一为具身祈祷、注意和关系实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.05,
+        "I.BOUNDARY": 0.05,
+        "I.RELATION": 0.125,
+        "K.PRACTICE": 0.15,
+        "K.REGULARITY": 0.075,
+        "K.SELF_MODEL": 0.075,
+        "K.WORLD_MODEL": 0.075,
+        "P.COMMUNION": 0.2,
+        "P.INTENTION": 0.05,
+        "P.LIBERATION": 0.05,
+        "W.LEGITIMACY": 0.05,
+        "W.MEANING": 0.05
+      },
+      "source_refs": [
+        "SRC-BIBLE",
+        "SRC-ORTHODOX"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "神化、能量与本质等术语不得被直接等同为物理能量或工程意识指标。"
+      }
+    },
+    {
+      "id": "roman_catholic_christianity",
+      "family": "Abrahamic",
+      "name_cn": "罗马天主教",
+      "name_en": "Roman Catholic Christianity",
+      "branch": "Christianity",
+      "analytical_scope_cn": "以创造、位格尊严、道成肉身、圣事、德性、自然法和救赎为中心。",
+      "purpose_cn": "在信、望、爱、恩典和共同体实践中实现与神和邻人的和好与圆满。",
+      "consciousness_mapping_cn": "意识映射为灵魂—身体统一的人格、理性与自由、良知、关系责任和救赎目的。",
+      "concepts": [
+        {
+          "term": "imago Dei",
+          "language": "Latin",
+          "gloss_cn": "天主肖像／上帝形象",
+          "gloss_en": "image of God",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.3,
+            "P.FLOURISHING": 0.2,
+            "W.LEGITIMACY": 0.3,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为人格尊严、主体性和伦理授权。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "anima forma corporis",
+          "language": "Latin",
+          "gloss_cn": "灵魂为身体形式",
+          "gloss_en": "soul as form of body",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.RELATION": 0.3,
+            "K.SELF_MODEL": 0.3,
+            "P.CONTINUITY": 0.2
+          },
+          "mapping_note_cn": "归一为身心统一的人格模型，不等于可测物质成分。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "caritas",
+          "language": "Latin",
+          "gloss_cn": "爱德",
+          "gloss_en": "charity",
+          "aliases": [],
+          "vector": {
+            "P.COMMUNION": 0.3,
+            "P.FLOURISHING": 0.2,
+            "W.NORM": 0.3,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为价值、规范与共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "salvation/sacrament",
+          "language": "Latin/English",
+          "gloss_cn": "救赎与圣事",
+          "gloss_en": "salvation and sacrament",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.2,
+            "P.LIBERATION": 0.3
+          },
+          "mapping_note_cn": "归一为救赎目的、实践与传统连续。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "I.RELATION": 0.075,
+        "K.PRACTICE": 0.05,
+        "K.SELF_MODEL": 0.15,
+        "P.COMMUNION": 0.15,
+        "P.CONTINUITY": 0.1,
+        "P.FLOURISHING": 0.1,
+        "P.LIBERATION": 0.075,
+        "W.LEGITIMACY": 0.075,
+        "W.NORM": 0.125,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-VATICAN-CATECHISM"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "灵魂、恩典和圣事作为神学模型进入，不被宣称已由神经科学证实或证伪。"
+      }
+    },
+    {
+      "id": "protestant_christianity",
+      "family": "Abrahamic",
+      "name_cn": "新教／宗教改革传统",
+      "name_en": "Protestant Christianity",
+      "branch": "Christianity",
+      "analytical_scope_cn": "以圣经、信仰、恩典、召命和多样教会传统为中心的综合分析剖面。",
+      "purpose_cn": "通过恩典、信仰、悔改、召命和爱邻人实现与神和好。",
+      "consciousness_mapping_cn": "意识映射为在话语、良知、信任、悔改和生活实践中持续修订的主体。",
+      "concepts": [
+        {
+          "term": "sola gratia/fides",
+          "language": "Latin",
+          "gloss_cn": "唯独恩典／因信",
+          "gloss_en": "grace and faith",
+          "aliases": [],
+          "vector": {
+            "P.COMMUNION": 0.3,
+            "P.INTENTION": 0.2,
+            "P.LIBERATION": 0.3,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为信任、救赎和关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "vocation",
+          "language": "Latin/English",
+          "gloss_cn": "召命",
+          "gloss_en": "calling",
+          "aliases": [],
+          "vector": {
+            "P.AGENCY": 0.3,
+            "P.FLOURISHING": 0.3,
+            "P.INTENTION": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为角色、行动和共同善目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "conscience",
+          "language": "English",
+          "gloss_cn": "良知",
+          "gloss_en": "conscience",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.2,
+            "K.SELF_MODEL": 0.2,
+            "P.VERIFICATION": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为自我评估、规范和行动校验。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "repentance",
+          "language": "English",
+          "gloss_cn": "悔改",
+          "gloss_en": "repentance",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.3,
+            "P.LIBERATION": 0.2,
+            "P.VERIFICATION": 0.3,
+            "W.CONSEQUENCE": 0.2
+          },
+          "mapping_note_cn": "归一为错误承认、模型修订和生活转向。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "K.META": 0.125,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.075,
+        "P.COMMUNION": 0.075,
+        "P.FLOURISHING": 0.075,
+        "P.INTENTION": 0.1,
+        "P.LIBERATION": 0.125,
+        "P.VERIFICATION": 0.15,
+        "W.CONSEQUENCE": 0.05,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.125
+      },
+      "source_refs": [
+        "SRC-BIBLE"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "新教内部差异巨大；本条只给出共同轴，具体宗派通过扩展条目表达。"
+      }
+    },
+    {
+      "id": "sunni_islam",
+      "family": "Abrahamic",
+      "name_cn": "逊尼派伊斯兰",
+      "name_en": "Sunni Islam",
+      "branch": "Islam",
+      "analytical_scope_cn": "以真主独一、启示、先知传统、礼拜、伦理和共同体为中心的分析剖面。",
+      "purpose_cn": "以顺服、敬畏、慈悯、公正和善行趋向真主的喜悦与后世善果。",
+      "consciousness_mapping_cn": "意识映射为受造主体的认知、意向、责任、记忆和面对超越者的目的。",
+      "concepts": [
+        {
+          "term": "tawḥīd",
+          "language": "Arabic",
+          "gloss_cn": "认主独一",
+          "gloss_en": "divine unity",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.2
+          },
+          "mapping_note_cn": "归一为终极一神世界模型、创造者—受造物边界与关系方向。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "niyyah",
+          "language": "Arabic",
+          "gloss_cn": "意向",
+          "gloss_en": "intention",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.1,
+            "P.INTENTION": 0.5,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为行动前的目的与道德可评估性。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ʿadl/raḥma",
+          "language": "Arabic",
+          "gloss_cn": "公正与慈悯",
+          "gloss_en": "justice and mercy",
+          "aliases": [],
+          "vector": {
+            "P.FLOURISHING": 0.2,
+            "W.NORM": 0.4,
+            "W.TRADEOFF": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为价值、规范与社会后果。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ʿibāda",
+          "language": "Arabic",
+          "gloss_cn": "崇拜／侍奉",
+          "gloss_en": "worship and service",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.3,
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.2,
+            "P.INTENTION": 0.2
+          },
+          "mapping_note_cn": "归一为实践、记忆和关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.BOUNDARY": 0.05,
+        "K.PRACTICE": 0.075,
+        "K.REGULARITY": 0.05,
+        "K.SELF_MODEL": 0.025,
+        "K.WORLD_MODEL": 0.1,
+        "P.COMMUNION": 0.125,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.05,
+        "P.INTENTION": 0.175,
+        "P.VERIFICATION": 0.05,
+        "W.NORM": 0.15,
+        "W.TRADEOFF": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-QURAN-2-255",
+        "SRC-QURAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "真主独一与其他传统的一体概念在同一空间比较，但绝不因此宣称神学对象历史同一。"
+      }
+    },
+    {
+      "id": "twelver_shia_islam",
+      "family": "Abrahamic",
+      "name_cn": "十二伊玛目什叶派",
+      "name_en": "Twelver Shia Islam",
+      "branch": "Islam",
+      "analytical_scope_cn": "以真主独一、先知、伊玛目、正义、记忆和等待为中心的分析剖面。",
+      "purpose_cn": "通过忠诚、正义、哀悼记忆、知识和行动参与神圣引导。",
+      "consciousness_mapping_cn": "意识映射为历史记忆塑造的主体、正义价值、引导关系和未来目的。",
+      "concepts": [
+        {
+          "term": "imāmah",
+          "language": "Arabic",
+          "gloss_cn": "伊玛目引导",
+          "gloss_en": "spiritual-political guidance",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "K.PRACTICE": 0.2,
+            "P.CONTINUITY": 0.3,
+            "W.LEGITIMACY": 0.3
+          },
+          "mapping_note_cn": "归一为权威、传承和引导关系。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ʿadl",
+          "language": "Arabic",
+          "gloss_cn": "神圣正义",
+          "gloss_en": "divine justice",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "P.HARMONY": 0.2,
+            "W.CONSEQUENCE": 0.2,
+            "W.NORM": 0.4
+          },
+          "mapping_note_cn": "归一为宇宙—伦理秩序。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "shahāda/Karbala memory",
+          "language": "Arabic",
+          "gloss_cn": "见证与卡尔巴拉记忆",
+          "gloss_en": "witness and memory",
+          "aliases": [],
+          "vector": {
+            "D.HISTORY": 0.3,
+            "P.CONTINUITY": 0.3,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为历史记录、苦难价值和共同体连续。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "intizār",
+          "language": "Arabic",
+          "gloss_cn": "等待与希望",
+          "gloss_en": "expectation",
+          "aliases": [],
+          "vector": {
+            "P.CONTINUITY": 0.3,
+            "P.HARMONY": 0.3,
+            "P.INTENTION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为面向未来正义的目的结构。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.HISTORY": 0.075,
+        "I.RELATION": 0.05,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.05,
+        "P.CONTINUITY": 0.225,
+        "P.HARMONY": 0.125,
+        "P.INTENTION": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.075,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.15,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-QURAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "政治历史与神学主张分层进入 D/K/W/P，避免把任何当代制度自动代表全部传统。"
+      }
+    },
+    {
+      "id": "sufism",
+      "family": "Abrahamic",
+      "name_cn": "苏菲主义",
+      "name_en": "Sufism",
+      "branch": "Islamic mysticism",
+      "analytical_scope_cn": "以记念、净化、爱、灵性道路和对真主的亲近为中心的跨教团分析剖面。",
+      "purpose_cn": "通过记念、伦理净化、爱与引导克服自我中心并趋向亲近。",
+      "consciousness_mapping_cn": "意识映射为注意—记忆训练、自我模型修订、价值感受和关系性目的。",
+      "concepts": [
+        {
+          "term": "dhikr",
+          "language": "Arabic",
+          "gloss_cn": "记主",
+          "gloss_en": "remembrance",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "K.PRACTICE": 0.3,
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.2
+          },
+          "mapping_note_cn": "归一为重复记忆、注意和关系实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "nafs",
+          "language": "Arabic",
+          "gloss_cn": "自我／欲性层面",
+          "gloss_en": "self or egoic soul",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.3,
+            "K.SELF_MODEL": 0.4,
+            "P.LIBERATION": 0.2,
+            "W.VALENCE": 0.1
+          },
+          "mapping_note_cn": "归一为可训练和修订的主体结构。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "fanāʾ/baqāʾ",
+          "language": "Arabic",
+          "gloss_cn": "消融与存续",
+          "gloss_en": "passing away and abiding",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.2,
+            "P.COMMUNION": 0.3,
+            "P.CONTINUITY": 0.2,
+            "P.LIBERATION": 0.3
+          },
+          "mapping_note_cn": "归一为自我中心消解和在关系中持续，不等同物理消失。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "maḥabba",
+          "language": "Arabic",
+          "gloss_cn": "神爱",
+          "gloss_en": "divine love",
+          "aliases": [],
+          "vector": {
+            "P.COMMUNION": 0.4,
+            "P.INTENTION": 0.1,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.3
+          },
+          "mapping_note_cn": "归一为价值感受、伦理和关系目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "K.META": 0.075,
+        "K.PRACTICE": 0.075,
+        "K.SELF_MODEL": 0.15,
+        "P.COMMUNION": 0.25,
+        "P.CONTINUITY": 0.1,
+        "P.INTENTION": 0.025,
+        "P.LIBERATION": 0.125,
+        "W.NORM": 0.05,
+        "W.VALENCE": 0.1
+      },
+      "source_refs": [
+        "SRC-QURAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "神秘经验不被自动证明为脑外物理场；其第一人称、实践和意义证据分别编码。"
+      }
+    },
+    {
+      "id": "zoroastrianism",
+      "family": "Iranian",
+      "name_cn": "琐罗亚斯德教",
+      "name_en": "Zoroastrianism",
+      "branch": "Iranian religion",
+      "analytical_scope_cn": "以阿胡拉·马兹达、Asha、善思善言善行和宇宙更新为中心。",
+      "purpose_cn": "以自由选择和善行维护真理秩序并参与最终更新。",
+      "consciousness_mapping_cn": "意识映射为可辨善恶后果的主体、真理秩序、责任行动和宇宙更新目的。",
+      "concepts": [
+        {
+          "term": "Ahura Mazda",
+          "language": "Avestan",
+          "gloss_cn": "智慧之主",
+          "gloss_en": "Wise Lord",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.3,
+            "P.HARMONY": 0.3,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为智慧、真理秩序和终极世界模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Asha",
+          "language": "Avestan",
+          "gloss_cn": "真理／正序",
+          "gloss_en": "truth and right order",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.1,
+            "K.REGULARITY": 0.3,
+            "P.HARMONY": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为描述—规范—目的相连的正序。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Vohu Manah",
+          "language": "Avestan",
+          "gloss_cn": "善思",
+          "gloss_en": "Good Mind",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.2,
+            "P.AGENCY": 0.2,
+            "P.INTENTION": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为认知、价值意向和行动能力。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "frashokereti",
+          "language": "Avestan",
+          "gloss_cn": "宇宙更新",
+          "gloss_en": "final renovation",
+          "aliases": [],
+          "vector": {
+            "P.CONTINUITY": 0.2,
+            "P.FLOURISHING": 0.3,
+            "P.HARMONY": 0.3,
+            "P.LIBERATION": 0.2
+          },
+          "mapping_note_cn": "归一为未来整体修复目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.025,
+        "K.REGULARITY": 0.125,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.075,
+        "P.AGENCY": 0.05,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.075,
+        "P.HARMONY": 0.225,
+        "P.INTENTION": 0.075,
+        "P.LIBERATION": 0.05,
+        "W.NORM": 0.2
+      },
+      "source_refs": [
+        "SRC-AVESTA-YASNA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "Asha 可与道、dharma比较，但其真理—伦理—末世结构保持为空间中的特定组合。"
+      }
+    },
+    {
+      "id": "bahai_faith",
+      "family": "Abrahamic",
+      "name_cn": "巴哈伊信仰",
+      "name_en": "Bahá’í Faith",
+      "branch": "Bahá’í",
+      "analytical_scope_cn": "以神的一体、人类一体、宗教渐进启示、独立求真和世界和平为中心。",
+      "purpose_cn": "通过知识、服务、磋商和制度实践推进人类统一与精神成长。",
+      "consciousness_mapping_cn": "意识映射为可教育主体、历史渐进模型、共同体磋商和普遍繁荣目的。",
+      "concepts": [
+        {
+          "term": "oneness of humanity",
+          "language": "English/Persian",
+          "gloss_cn": "人类一体",
+          "gloss_en": "oneness of humanity",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.3,
+            "P.FLOURISHING": 0.3,
+            "W.LEGITIMACY": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为关系、平等规范和全球共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "progressive revelation",
+          "language": "English",
+          "gloss_cn": "渐进启示",
+          "gloss_en": "progressive revelation",
+          "aliases": [],
+          "vector": {
+            "D.HISTORY": 0.2,
+            "I.CONTEXT": 0.2,
+            "K.WORLD_MODEL": 0.2,
+            "P.CONTINUITY": 0.4
+          },
+          "mapping_note_cn": "归一为历史语境中的宗教知识连续模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "independent investigation",
+          "language": "English",
+          "gloss_cn": "独立求真",
+          "gloss_en": "independent investigation of truth",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.META": 0.3,
+            "P.AGENCY": 0.2,
+            "P.VERIFICATION": 0.3
+          },
+          "mapping_note_cn": "归一为主体审查与现实校验。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "consultation",
+          "language": "English",
+          "gloss_cn": "磋商",
+          "gloss_en": "consultation",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "P.FLOURISHING": 0.2,
+            "W.LEGITIMACY": 0.3,
+            "W.TRADEOFF": 0.3
+          },
+          "mapping_note_cn": "归一为集体判断、授权和共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.HISTORY": 0.05,
+        "D.OBSERVATION": 0.05,
+        "I.CONTEXT": 0.05,
+        "I.RELATION": 0.125,
+        "K.META": 0.075,
+        "K.WORLD_MODEL": 0.05,
+        "P.AGENCY": 0.05,
+        "P.CONTINUITY": 0.1,
+        "P.FLOURISHING": 0.125,
+        "P.VERIFICATION": 0.075,
+        "W.LEGITIMACY": 0.125,
+        "W.NORM": 0.05,
+        "W.TRADEOFF": 0.075
+      },
+      "source_refs": [
+        "SRC-BAHAI-WRITINGS"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "‘宗教一体’在系统内表示为历史关系和共同目的，不等于所有教义向量完全重合。"
+      }
+    },
+    {
+      "id": "philosophical_daoism",
+      "family": "Sinitic",
+      "name_cn": "哲学道家",
+      "name_en": "Philosophical Daoism",
+      "branch": "Daoist philosophy",
+      "analytical_scope_cn": "以道、德、自然、无为、语言限度和变化为中心的分析剖面。",
+      "purpose_cn": "减少强制性造作，以柔弱、适应和整体关系实现生命与治理的协调。",
+      "consciousness_mapping_cn": "意识映射为具身情境中的差异、变化、低强制行动、自我模型松动和环境耦合。",
+      "concepts": [
+        {
+          "term": "道",
+          "language": "Classical Chinese",
+          "gloss_cn": "道",
+          "gloss_en": "Dao/Way",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.3,
+            "P.HARMONY": 0.3
+          },
+          "mapping_note_cn": "归一为生成性世界秩序、关系和协调目的，不等同物理场。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "无为",
+          "language": "Classical Chinese",
+          "gloss_cn": "无为",
+          "gloss_en": "non-coercive action",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.AGENCY": 0.3,
+            "P.HARMONY": 0.2,
+            "W.TRADEOFF": 0.3
+          },
+          "mapping_note_cn": "归一为低强制、情境适应和行动权衡。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "自然",
+          "language": "Classical Chinese",
+          "gloss_cn": "自然而然",
+          "gloss_en": "self-so/naturalness",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "K.CAUSE": 0.2,
+            "P.HARMONY": 0.4,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为自发生成、模式和协调目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "齐物",
+          "language": "Classical Chinese",
+          "gloss_cn": "齐物／视角转化",
+          "gloss_en": "equalizing things/perspectives",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.3,
+            "K.META": 0.3,
+            "P.LIBERATION": 0.2,
+            "W.TRADEOFF": 0.2
+          },
+          "mapping_note_cn": "归一为视角反思与从固着分类中释放。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.CONTEXT": 0.075,
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.05,
+        "K.CAUSE": 0.05,
+        "K.META": 0.075,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.05,
+        "K.WORLD_MODEL": 0.075,
+        "P.AGENCY": 0.075,
+        "P.HARMONY": 0.225,
+        "P.LIBERATION": 0.05,
+        "W.MEANING": 0.05,
+        "W.TRADEOFF": 0.125
+      },
+      "source_refs": [
+        "SRC-CTP-DAODEJING"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "道、气、无为均归入 DIKWP，但不得由此自动宣布为量子场、暗能量或意识力。"
+      }
+    },
+    {
+      "id": "religious_daoism",
+      "family": "Sinitic",
+      "name_cn": "道教修炼与宗教传统",
+      "name_en": "Religious Daoist Cultivation",
+      "branch": "Daoism",
+      "analytical_scope_cn": "以道、气、神、身心修炼、仪式、戒律和长生／超越谱系为中心的综合剖面。",
+      "purpose_cn": "通过身心、伦理、仪式和共同体实践协调生命过程并追求超越。",
+      "consciousness_mapping_cn": "意识映射为身体—环境调节、注意与意向、象征世界模型、传承和目的闭环。",
+      "concepts": [
+        {
+          "term": "气",
+          "language": "Classical Chinese",
+          "gloss_cn": "气／生命过程概念",
+          "gloss_en": "qi/vital process",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.PATTERN": 0.3,
+            "I.RELATION": 0.2,
+            "K.CAUSE": 0.2,
+            "P.HARMONY": 0.1
+          },
+          "mapping_note_cn": "归一为身体—环境过程、模式和调节概念；默认不等同标准模型力场。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "精气神",
+          "language": "Classical Chinese",
+          "gloss_cn": "精、气、神",
+          "gloss_en": "essence, qi and spirit",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.PATTERN": 0.2,
+            "K.PRACTICE": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.CONTINUITY": 0.1
+          },
+          "mapping_note_cn": "归一为修炼模型的分层变量。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "炼养",
+          "language": "Chinese",
+          "gloss_cn": "炼养／内修",
+          "gloss_en": "internal cultivation",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.PRACTICE": 0.4,
+            "P.HARMONY": 0.2,
+            "P.VERIFICATION": 0.2
+          },
+          "mapping_note_cn": "归一为具身实践和经验反馈。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "长生／得道",
+          "language": "Chinese",
+          "gloss_cn": "长生与得道",
+          "gloss_en": "longevity and realization",
+          "aliases": [],
+          "vector": {
+            "P.COMMUNION": 0.2,
+            "P.CONTINUITY": 0.2,
+            "P.LIBERATION": 0.3,
+            "W.MEANING": 0.3
+          },
+          "mapping_note_cn": "归一为生命连续和超越目的，经验范围需另行声明。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.1,
+        "D.OBSERVATION": 0.05,
+        "I.PATTERN": 0.125,
+        "I.RELATION": 0.05,
+        "K.CAUSE": 0.05,
+        "K.PRACTICE": 0.175,
+        "K.SELF_MODEL": 0.05,
+        "P.COMMUNION": 0.05,
+        "P.CONTINUITY": 0.075,
+        "P.HARMONY": 0.075,
+        "P.LIBERATION": 0.075,
+        "P.VERIFICATION": 0.05,
+        "W.MEANING": 0.075
+      },
+      "source_refs": [
+        "SRC-DAOIST-CANON"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "修炼经验可进入 D/K/P 并生成研究假说，但‘气’的医学或物理解释需独立验证。"
+      }
+    },
+    {
+      "id": "classical_confucianism",
+      "family": "Sinitic",
+      "name_cn": "古典儒家",
+      "name_en": "Classical Confucianism",
+      "branch": "Confucian",
+      "analytical_scope_cn": "以仁、义、礼、智、修身、角色关系和良政为中心。",
+      "purpose_cn": "通过学习、礼仪和关系实践实现人格完善、家庭和社会协调。",
+      "consciousness_mapping_cn": "意识映射为关系性自我、情感辨识、实践智慧、角色责任和共同繁荣。",
+      "concepts": [
+        {
+          "term": "仁",
+          "language": "Classical Chinese",
+          "gloss_cn": "仁",
+          "gloss_en": "humaneness",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "P.FLOURISHING": 0.3,
+            "W.NORM": 0.3,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为关怀价值、关系规范和共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "礼",
+          "language": "Classical Chinese",
+          "gloss_cn": "礼",
+          "gloss_en": "ritual propriety",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "K.PRACTICE": 0.3,
+            "P.HARMONY": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为实践秩序、规范和协调。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "义",
+          "language": "Classical Chinese",
+          "gloss_cn": "义",
+          "gloss_en": "rightness",
+          "aliases": [],
+          "vector": {
+            "P.AGENCY": 0.2,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.4,
+            "W.TRADEOFF": 0.2
+          },
+          "mapping_note_cn": "归一为情境正当判断和行动。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "修身",
+          "language": "Classical Chinese",
+          "gloss_cn": "修身",
+          "gloss_en": "self-cultivation",
+          "aliases": [],
+          "vector": {
+            "K.META": 0.2,
+            "K.PRACTICE": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.3
+          },
+          "mapping_note_cn": "归一为主体模型、实践与人格完善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.05,
+        "K.META": 0.05,
+        "K.PRACTICE": 0.15,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.05,
+        "P.FLOURISHING": 0.15,
+        "P.HARMONY": 0.05,
+        "P.VERIFICATION": 0.05,
+        "W.NORM": 0.25,
+        "W.TRADEOFF": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-CTP-ANALECTS"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "角色关系不等于取消个体权利；Mesh95 将 W.LEGITIMACY 与 P.AGENCY 纳入现代校准。"
+      }
+    },
+    {
+      "id": "neo_confucianism",
+      "family": "Sinitic",
+      "name_cn": "宋明理学与心学",
+      "name_en": "Neo-Confucianism",
+      "branch": "Confucian",
+      "analytical_scope_cn": "以理、气、心、性、格物或致良知等多条路线为中心的综合剖面。",
+      "purpose_cn": "通过学习、反省与实践实现天人、心性和社会秩序的贯通。",
+      "consciousness_mapping_cn": "意识映射为心—世界关系、规范模式、具身气质、反思和实践验证。",
+      "concepts": [
+        {
+          "term": "理",
+          "language": "Classical Chinese",
+          "gloss_cn": "理／模式原则",
+          "gloss_en": "pattern-principle",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.3,
+            "K.REGULARITY": 0.3,
+            "P.HARMONY": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为描述与规范交织的模式原则。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "气",
+          "language": "Classical Chinese",
+          "gloss_cn": "气／具体化过程",
+          "gloss_en": "material-vital configuration",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.3,
+            "I.CONTEXT": 0.2,
+            "I.PATTERN": 0.3,
+            "K.CAUSE": 0.2
+          },
+          "mapping_note_cn": "归一为具体化和差异条件，不等同现代物理能量。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "心",
+          "language": "Classical Chinese",
+          "gloss_cn": "心／心性主体",
+          "gloss_en": "heart-mind",
+          "aliases": [],
+          "vector": {
+            "D.SENSATION": 0.2,
+            "K.SELF_MODEL": 0.3,
+            "P.AGENCY": 0.1,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为认知—情感—规范主体模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "格物／致良知",
+          "language": "Chinese",
+          "gloss_cn": "格物或致良知",
+          "gloss_en": "investigation or realization of knowing",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.META": 0.3,
+            "K.PRACTICE": 0.2,
+            "P.VERIFICATION": 0.3
+          },
+          "mapping_note_cn": "归一为两种不同的认识—实践校准路径。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.075,
+        "D.OBSERVATION": 0.05,
+        "D.SENSATION": 0.05,
+        "I.CONTEXT": 0.05,
+        "I.PATTERN": 0.15,
+        "K.CAUSE": 0.05,
+        "K.META": 0.075,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.075,
+        "K.SELF_MODEL": 0.075,
+        "P.AGENCY": 0.025,
+        "P.HARMONY": 0.05,
+        "P.VERIFICATION": 0.075,
+        "W.NORM": 0.1,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-NEOCONFUCIAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "朱子学与阳明学不合并为同一方法；在统一空间内保留观察—内省权重差。"
+      }
+    },
+    {
+      "id": "shinto",
+      "family": "Japanese",
+      "name_cn": "神道",
+      "name_en": "Shinto",
+      "branch": "Japanese religion",
+      "analytical_scope_cn": "以kami、祭祀、洁净、地方与祖先关系、季节和共同体连续为中心。",
+      "purpose_cn": "通过祭祀、洁净和尊重地方关系维持人与kami、祖先、社会和自然的协调。",
+      "consciousness_mapping_cn": "意识映射为关系性临在、地方—身体经验、仪式记忆和协调目的，而不强制把kami定义为人类式心灵。",
+      "concepts": [
+        {
+          "term": "kami",
+          "language": "Japanese",
+          "gloss_cn": "神／灵威临在",
+          "gloss_en": "kami/presence",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "I.RELATION": 0.3,
+            "P.HARMONY": 0.2,
+            "W.MEANING": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为关系临在、敬畏和地方意义；不自动认证为独立意识体。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "harae/misogi",
+          "language": "Japanese",
+          "gloss_cn": "祓禊／洁净",
+          "gloss_en": "purification",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "K.PRACTICE": 0.4,
+            "P.HARMONY": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为边界恢复和仪式实践。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "matsuri",
+          "language": "Japanese",
+          "gloss_cn": "祭礼",
+          "gloss_en": "festival/ritual",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "K.PRACTICE": 0.3,
+            "P.CONTINUITY": 0.3,
+            "P.FLOURISHING": 0.2
+          },
+          "mapping_note_cn": "归一为共同体关系和代际连续。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "musubi",
+          "language": "Japanese",
+          "gloss_cn": "生成与联结",
+          "gloss_en": "generative binding",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "I.RELATION": 0.4,
+            "K.CAUSE": 0.2,
+            "P.HARMONY": 0.2
+          },
+          "mapping_note_cn": "归一为生成关系和协调模式。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.BOUNDARY": 0.05,
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.225,
+        "K.CAUSE": 0.05,
+        "K.PRACTICE": 0.175,
+        "P.CONTINUITY": 0.075,
+        "P.FLOURISHING": 0.05,
+        "P.HARMONY": 0.15,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.05,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-KOKUGAKUIN-SHINTO"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "kami 的多样性全部进入统一语义空间，但不压缩为单一‘神’或‘能量’。"
+      }
+    },
+    {
+      "id": "yoruba_ifa",
+      "family": "African",
+      "name_cn": "约鲁巴—伊法传统",
+      "name_en": "Yorùbá–Ifá",
+      "branch": "West African traditions",
+      "analytical_scope_cn": "以Olódùmarè、òrìṣà、命运/头、品格、占卜知识和共同体为中心的分析剖面。",
+      "purpose_cn": "通过良好品格、关系责任、仪式和咨询使个人道路与共同体及宇宙秩序协调。",
+      "consciousness_mapping_cn": "意识映射为具身—祖先—共同体关系中的主体、命运模型、咨询实践和品格目的。",
+      "concepts": [
+        {
+          "term": "ìwà pẹ̀lẹ́",
+          "language": "Yorùbá",
+          "gloss_cn": "良善温和的品格",
+          "gloss_en": "good character",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为人格、实践和共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "orí",
+          "language": "Yorùbá",
+          "gloss_cn": "内在头／个人道路",
+          "gloss_en": "inner head/destiny",
+          "aliases": [],
+          "vector": {
+            "I.CONTEXT": 0.3,
+            "K.SELF_MODEL": 0.3,
+            "P.CONTINUITY": 0.2,
+            "P.INTENTION": 0.2
+          },
+          "mapping_note_cn": "归一为个体路径、主体模型和情境条件。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "àṣẹ",
+          "language": "Yorùbá",
+          "gloss_cn": "使事物成就的效力",
+          "gloss_en": "performative efficacy",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "P.AGENCY": 0.3,
+            "P.VERIFICATION": 0.3,
+            "W.LEGITIMACY": 0.2
+          },
+          "mapping_note_cn": "归一为有授权和后果的行动效力，不等同物理新力。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Ifá divination",
+          "language": "Yorùbá",
+          "gloss_cn": "伊法咨询系统",
+          "gloss_en": "Ifá divination",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "I.PATTERN": 0.3,
+            "K.PRACTICE": 0.3,
+            "P.VERIFICATION": 0.1,
+            "W.TRADEOFF": 0.2
+          },
+          "mapping_note_cn": "归一为符号咨询和决策实践；经验有效性需按具体主张检验。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.CONTEXT": 0.075,
+        "I.PATTERN": 0.075,
+        "I.RELATION": 0.05,
+        "K.PRACTICE": 0.125,
+        "K.SELF_MODEL": 0.125,
+        "P.AGENCY": 0.075,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.075,
+        "P.INTENTION": 0.05,
+        "P.VERIFICATION": 0.1,
+        "W.LEGITIMACY": 0.05,
+        "W.NORM": 0.075,
+        "W.TRADEOFF": 0.05
+      },
+      "source_refs": [
+        "SRC-YORUBA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不把àṣẹ、òrìṣà或占卜直接等同量子因果；其社会、象征和实践作用分别映射。"
+      }
+    },
+    {
+      "id": "ubuntu",
+      "family": "African",
+      "name_cn": "Ubuntu关系伦理",
+      "name_en": "Ubuntu Relational Ethics",
+      "branch": "African philosophy",
+      "analytical_scope_cn": "以‘人通过他人而成人’、互依、修复、尊严和共同体为中心的哲学—伦理剖面。",
+      "purpose_cn": "在互惠、承认与修复关系中实现人格和共同繁荣。",
+      "consciousness_mapping_cn": "意识映射为在他者关系中形成的主体模型、价值感受、责任和共同目的。",
+      "concepts": [
+        {
+          "term": "ubuntu",
+          "language": "Nguni languages",
+          "gloss_cn": "共同人性／关系成人",
+          "gloss_en": "relational personhood",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.4,
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为关系主体、伦理与共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "recognition",
+          "language": "English",
+          "gloss_cn": "相互承认",
+          "gloss_en": "mutual recognition",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "I.RELATION": 0.3,
+            "W.LEGITIMACY": 0.3,
+            "W.VALENCE": 0.3
+          },
+          "mapping_note_cn": "归一为被看见、尊严和关系授权。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "restoration",
+          "language": "English",
+          "gloss_cn": "关系修复",
+          "gloss_en": "restoration",
+          "aliases": [],
+          "vector": {
+            "P.FLOURISHING": 0.3,
+            "P.VERIFICATION": 0.3,
+            "W.CONSEQUENCE": 0.2,
+            "W.TRADEOFF": 0.2
+          },
+          "mapping_note_cn": "归一为后果承担和修复行动。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "communal flourishing",
+          "language": "English",
+          "gloss_cn": "共同繁荣",
+          "gloss_en": "communal flourishing",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "P.CONTINUITY": 0.1,
+            "P.FLOURISHING": 0.5,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为共同体目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.RELATION": 0.225,
+        "K.SELF_MODEL": 0.05,
+        "P.CONTINUITY": 0.025,
+        "P.FLOURISHING": 0.25,
+        "P.VERIFICATION": 0.075,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.075,
+        "W.NORM": 0.1,
+        "W.TRADEOFF": 0.05,
+        "W.VALENCE": 0.075
+      },
+      "source_refs": [
+        "SRC-UBUNTU"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "关系性不能被用来强迫一致或否定拒绝权；Mesh95在同一空间加入 W.LEGITIMACY/P.AGENCY。"
+      }
+    },
+    {
+      "id": "maori_worldview",
+      "family": "Oceanic",
+      "name_cn": "毛利世界观",
+      "name_en": "Māori Worldview",
+      "branch": "Māori traditions",
+      "analytical_scope_cn": "以whakapapa、mauri、tapu/noa、mana、kaitiakitanga和土地—祖先关系为中心的分析剖面。",
+      "purpose_cn": "维护谱系连续、生命力、守护责任和人与土地、祖先及后代的关系。",
+      "consciousness_mapping_cn": "意识映射为谱系化主体、地方身体、关系价值、守护行动和代际连续。",
+      "concepts": [
+        {
+          "term": "whakapapa",
+          "language": "Māori",
+          "gloss_cn": "谱系与关系序列",
+          "gloss_en": "genealogy and layered relations",
+          "aliases": [],
+          "vector": {
+            "D.HISTORY": 0.4,
+            "I.RELATION": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.CONTINUITY": 0.1
+          },
+          "mapping_note_cn": "归一为历史—关系—身份世界线。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "mauri",
+          "language": "Māori",
+          "gloss_cn": "生命原则／活力",
+          "gloss_en": "life principle",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.PATTERN": 0.2,
+            "P.CONTINUITY": 0.2,
+            "P.HARMONY": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为生命状态、价值和连续概念；不默认等同可测能量。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "mana/tapu",
+          "language": "Māori",
+          "gloss_cn": "权威、效力与神圣边界",
+          "gloss_en": "authority and sacred restriction",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "P.AGENCY": 0.3,
+            "W.LEGITIMACY": 0.3,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为边界、授权和行动能力。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "kaitiakitanga",
+          "language": "Māori",
+          "gloss_cn": "守护责任",
+          "gloss_en": "guardianship",
+          "aliases": [],
+          "vector": {
+            "P.CONTINUITY": 0.2,
+            "P.FLOURISHING": 0.3,
+            "W.CONSEQUENCE": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为生态责任和后代连续。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "D.HISTORY": 0.1,
+        "I.BOUNDARY": 0.05,
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.075,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.075,
+        "P.CONTINUITY": 0.125,
+        "P.FLOURISHING": 0.075,
+        "P.HARMONY": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.075,
+        "W.NORM": 0.125,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-TEARA-WHAKAPAPA"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "原住民概念被完整投影到统一空间，同时避免把其土地关系抽象成无地点的普遍口号。"
+      }
+    },
+    {
+      "id": "andean_relationality",
+      "family": "Indigenous Americas",
+      "name_cn": "安第斯关系宇宙观",
+      "name_en": "Andean Relationality",
+      "branch": "Andean traditions",
+      "analytical_scope_cn": "以Pachamama、ayllu、互惠、互补和人与山川土地关系为中心的综合剖面。",
+      "purpose_cn": "通过互惠、共同劳动和生态—祖先关系维持生命共同体。",
+      "consciousness_mapping_cn": "意识映射为土地化、共同体化的主体模型，强调关系、后果和循环目的。",
+      "concepts": [
+        {
+          "term": "Pachamama",
+          "language": "Quechua/Aymara",
+          "gloss_cn": "大地—时间母体",
+          "gloss_en": "earth-time relational whole",
+          "aliases": [],
+          "vector": {
+            "D.BODY": 0.2,
+            "I.RELATION": 0.3,
+            "K.WORLD_MODEL": 0.2,
+            "P.HARMONY": 0.2,
+            "W.VALENCE": 0.1
+          },
+          "mapping_note_cn": "归一为生态—时间整体及敬重关系，不直接判定为人类式意识。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ayllu",
+          "language": "Quechua",
+          "gloss_cn": "亲族—土地共同体",
+          "gloss_en": "kin-land community",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.4,
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.2,
+            "W.LEGITIMACY": 0.2
+          },
+          "mapping_note_cn": "归一为关系主体和共同体。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "ayni",
+          "language": "Quechua",
+          "gloss_cn": "互惠",
+          "gloss_en": "reciprocity",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.2,
+            "P.FLOURISHING": 0.3,
+            "W.CONSEQUENCE": 0.2,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为互惠规范和共同繁荣。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "complementarity",
+          "language": "English",
+          "gloss_cn": "互补",
+          "gloss_en": "complementarity",
+          "aliases": [],
+          "vector": {
+            "I.DIFFERENCE": 0.2,
+            "I.RELATION": 0.3,
+            "P.HARMONY": 0.2,
+            "W.TRADEOFF": 0.3
+          },
+          "mapping_note_cn": "归一为差异共存、权衡和协调。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "I.DIFFERENCE": 0.05,
+        "I.RELATION": 0.3,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.05,
+        "P.FLOURISHING": 0.125,
+        "P.HARMONY": 0.1,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.05,
+        "W.NORM": 0.075,
+        "W.TRADEOFF": 0.075,
+        "W.VALENCE": 0.025
+      },
+      "source_refs": [
+        "SRC-ANDEAN"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "不同安第斯民族和地区不可由一个剖面代表；系统支持新增分支并在相同空间重算。"
+      }
+    },
+    {
+      "id": "neoplatonism",
+      "family": "Greco-Roman",
+      "name_cn": "新柏拉图主义",
+      "name_en": "Neoplatonism",
+      "branch": "Late antique philosophy",
+      "analytical_scope_cn": "以一者、理智、灵魂、流溢和回归为中心的哲学剖面。",
+      "purpose_cn": "通过哲学净化和沉思由多返一。",
+      "consciousness_mapping_cn": "意识映射为层级自我—世界模型、反思知识、意义和回归目的。",
+      "concepts": [
+        {
+          "term": "the One",
+          "language": "Greek/English",
+          "gloss_cn": "一者",
+          "gloss_en": "the One",
+          "aliases": [],
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.2,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为超越性统一世界模型。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "Nous",
+          "language": "Greek",
+          "gloss_cn": "理智／智性",
+          "gloss_en": "Intellect",
+          "aliases": [],
+          "vector": {
+            "K.CONCEPT": 0.2,
+            "K.REGULARITY": 0.2,
+            "K.SELF_MODEL": 0.2,
+            "K.WORLD_MODEL": 0.2,
+            "P.COMMUNION": 0.2
+          },
+          "mapping_note_cn": "归一为智性世界与认识关系。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "emanation",
+          "language": "English",
+          "gloss_cn": "流溢",
+          "gloss_en": "emanation",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "I.RELATION": 0.2,
+            "K.CAUSE": 0.4,
+            "K.WORLD_MODEL": 0.2
+          },
+          "mapping_note_cn": "归一为层级生成模型，不等同粒子发射。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "return",
+          "language": "English",
+          "gloss_cn": "回归",
+          "gloss_en": "return",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.COMMUNION": 0.3,
+            "P.LIBERATION": 0.3,
+            "W.MEANING": 0.2
+          },
+          "mapping_note_cn": "归一为哲学实践和关系实现。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.05,
+        "K.CAUSE": 0.1,
+        "K.CONCEPT": 0.05,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.1,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.2,
+        "P.COMMUNION": 0.175,
+        "P.LIBERATION": 0.075,
+        "W.MEANING": 0.1
+      },
+      "source_refs": [
+        "SRC-PLOTINUS"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "新柏拉图层级与宗教一神、梵或道可在空间中比较，但不强制历史同一。"
+      }
+    },
+    {
+      "id": "stoicism",
+      "family": "Greco-Roman",
+      "name_cn": "斯多葛主义",
+      "name_en": "Stoicism",
+      "branch": "Hellenistic philosophy",
+      "analytical_scope_cn": "以logos、自然、德性、可控与不可控、宇宙公民为中心。",
+      "purpose_cn": "以理性判断、德性和接受不可控条件实现自由与共同体责任。",
+      "consciousness_mapping_cn": "意识映射为判断结构、自我调节、世界秩序、价值选择和行动校准。",
+      "concepts": [
+        {
+          "term": "logos",
+          "language": "Greek",
+          "gloss_cn": "理性秩序",
+          "gloss_en": "rational order",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.2,
+            "K.REGULARITY": 0.3,
+            "K.WORLD_MODEL": 0.2,
+            "P.HARMONY": 0.3
+          },
+          "mapping_note_cn": "归一为世界秩序与协调目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "prohairesis",
+          "language": "Greek",
+          "gloss_cn": "选择能力",
+          "gloss_en": "moral choice",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.2,
+            "P.AGENCY": 0.4,
+            "P.VERIFICATION": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为反事实行动和责任。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "virtue",
+          "language": "English",
+          "gloss_cn": "德性",
+          "gloss_en": "virtue",
+          "aliases": [],
+          "vector": {
+            "K.PRACTICE": 0.2,
+            "P.FLOURISHING": 0.2,
+            "P.HARMONY": 0.2,
+            "W.NORM": 0.4
+          },
+          "mapping_note_cn": "归一为规范实践和完善目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "oikeiōsis",
+          "language": "Greek",
+          "gloss_cn": "亲属化／关切扩展",
+          "gloss_en": "appropriation and expanding concern",
+          "aliases": [],
+          "vector": {
+            "I.RELATION": 0.3,
+            "P.FLOURISHING": 0.3,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为关系扩展和共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.075,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.075,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.05,
+        "P.AGENCY": 0.1,
+        "P.FLOURISHING": 0.125,
+        "P.HARMONY": 0.125,
+        "P.VERIFICATION": 0.05,
+        "W.NORM": 0.2,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-STOIC"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "斯多葛自然秩序是哲学模型，不自动等同现代物理决定论。"
+      }
+    },
+    {
+      "id": "secular_humanism",
+      "family": "Modern",
+      "name_cn": "世俗人文主义",
+      "name_en": "Secular Humanism",
+      "branch": "Modern ethical philosophy",
+      "analytical_scope_cn": "以人的尊严、理性探究、自由、民主、同情和现世福祉为中心。",
+      "purpose_cn": "通过批判探究、权利制度和合作改善此世生命。",
+      "consciousness_mapping_cn": "意识映射为具身能动者、自主权、共同验证、同情和可修订目的。",
+      "concepts": [
+        {
+          "term": "human dignity",
+          "language": "English",
+          "gloss_cn": "人的尊严",
+          "gloss_en": "human dignity",
+          "aliases": [],
+          "vector": {
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.2,
+            "W.LEGITIMACY": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为主体地位、权利和共同善。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "critical inquiry",
+          "language": "English",
+          "gloss_cn": "批判探究",
+          "gloss_en": "critical inquiry",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.META": 0.3,
+            "P.AGENCY": 0.2,
+            "P.VERIFICATION": 0.3
+          },
+          "mapping_note_cn": "归一为可修订调查和现实校验。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "autonomy",
+          "language": "English",
+          "gloss_cn": "自主",
+          "gloss_en": "autonomy",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "P.AGENCY": 0.4,
+            "W.CONSEQUENCE": 0.2,
+            "W.LEGITIMACY": 0.2
+          },
+          "mapping_note_cn": "归一为边界、授权和选择。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "flourishing",
+          "language": "English",
+          "gloss_cn": "繁荣／完善生活",
+          "gloss_en": "flourishing",
+          "aliases": [],
+          "vector": {
+            "P.CONTINUITY": 0.1,
+            "P.FLOURISHING": 0.5,
+            "W.NORM": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为现世共同善目的。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.05,
+        "I.BOUNDARY": 0.05,
+        "K.META": 0.075,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.15,
+        "P.CONTINUITY": 0.025,
+        "P.FLOURISHING": 0.175,
+        "P.VERIFICATION": 0.075,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.125,
+        "W.NORM": 0.125,
+        "W.VALENCE": 0.05
+      },
+      "source_refs": [
+        "SRC-HUMANIST"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "‘世俗’不被设置为无意义；其价值和目的与宗教传统在同一 W/P 坐标中比较。"
+      }
+    },
+    {
+      "id": "scientific_naturalism",
+      "family": "Modern",
+      "name_cn": "科学自然主义",
+      "name_en": "Scientific Naturalism",
+      "branch": "Modern science-oriented worldview",
+      "analytical_scope_cn": "以公开证据、自然机制、可重复性、模型竞争和可修订性为中心。",
+      "purpose_cn": "构建预测性解释，并用观察和实验持续修订世界模型。",
+      "consciousness_mapping_cn": "意识映射为自然系统中的待解释现象，通过神经、认知、行为和计算指标竞争性研究。",
+      "concepts": [
+        {
+          "term": "empirical evidence",
+          "language": "English",
+          "gloss_cn": "经验证据",
+          "gloss_en": "empirical evidence",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.3,
+            "D.SENSATION": 0.3,
+            "K.META": 0.1,
+            "P.VERIFICATION": 0.3
+          },
+          "mapping_note_cn": "归一为测量、观察和校准。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "causal model",
+          "language": "English",
+          "gloss_cn": "因果模型",
+          "gloss_en": "causal model",
+          "aliases": [],
+          "vector": {
+            "I.PATTERN": 0.1,
+            "K.CAUSE": 0.5,
+            "K.META": 0.2,
+            "K.WORLD_MODEL": 0.2
+          },
+          "mapping_note_cn": "归一为可干预生成解释。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "falsifiability",
+          "language": "English",
+          "gloss_cn": "可否证性",
+          "gloss_en": "falsifiability",
+          "aliases": [],
+          "vector": {
+            "D.OBSERVATION": 0.2,
+            "K.META": 0.4,
+            "P.VERIFICATION": 0.3,
+            "W.LEGITIMACY": 0.1
+          },
+          "mapping_note_cn": "归一为模型退役和公共检验条件。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        },
+        {
+          "term": "methodological naturalism",
+          "language": "English",
+          "gloss_cn": "方法论自然主义",
+          "gloss_en": "methodological naturalism",
+          "aliases": [],
+          "vector": {
+            "I.BOUNDARY": 0.2,
+            "K.META": 0.4,
+            "K.WORLD_MODEL": 0.2,
+            "P.VERIFICATION": 0.2
+          },
+          "mapping_note_cn": "归一为研究方法边界，不自动等于形而上唯物主义。",
+          "normalization_status": "complete_in_dikwp_space",
+          "out_of_space_residual": 0.0
+        }
+      ],
+      "profile_vector": {
+        "D.OBSERVATION": 0.125,
+        "D.SENSATION": 0.075,
+        "I.BOUNDARY": 0.05,
+        "I.PATTERN": 0.025,
+        "K.CAUSE": 0.125,
+        "K.META": 0.275,
+        "K.WORLD_MODEL": 0.1,
+        "P.VERIFICATION": 0.2,
+        "W.LEGITIMACY": 0.025
+      },
+      "source_refs": [
+        "SRC-NATURE-CONSCIOUSNESS-2025"
+      ],
+      "normalization": {
+        "coordinate_system": "DIKWP unified semantic space",
+        "status": "complete_in_space",
+        "out_of_space_residual": 0.0,
+        "difference_policy": "Differences remain as coordinates, relation direction, scope and purpose weighting inside DIKWP.",
+        "historical_identity_claim": false,
+        "mapping_caveat_cn": "科学自然主义自身也只是空间中的一组方法与世界模型权重，不能垄断 W/P 的全部意义。"
+      }
+    }
+  ],
+  "automatic_external_action_authority": 0
+}

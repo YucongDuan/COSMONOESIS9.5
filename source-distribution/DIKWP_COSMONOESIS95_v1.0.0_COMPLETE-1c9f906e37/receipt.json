@@ -1,0 +1,867 @@
+{
+  "schema": "safe-source-preparation/v1",
+  "status": "STRUCTURALLY_PREPARED_UNTESTED",
+  "prepared_at_utc": "2026-09-07T05:13:10.280757+00:00",
+  "source": {
+    "archive_path": "DIKWP_COSMONOESIS95_v1.0.0_COMPLETE.zip",
+    "archive_bytes": 570906,
+    "sha256": "fc65ec09c9c9fd7b9b135dfe059f51203767ffd2ae2ea3967bbaacdc7ffff6b1",
+    "source_url": "https://raw.githubusercontent.com/YucongDuan/COSMONOESIS9.5/366879896172e762f8a8cdea6c02c477ee8173d8/DIKWP_COSMONOESIS95_v1.0.0_COMPLETE.zip",
+    "original_unchanged": true
+  },
+  "destination": "source-distribution/DIKWP_COSMONOESIS95_v1.0.0_COMPLETE-1c9f906e37",
+  "unwrapped_directory": "DIKWP_COSMONOESIS95_v1.0.0",
+  "project_marker_directories": [
+    "."
+  ],
+  "limits": {
+    "max_entries": 20000,
+    "max_file_bytes": 103809024,
+    "max_total_bytes": 536870912,
+    "max_archive_bytes": 104857600,
+    "max_ratio": 200.0,
+    "max_path_depth": 64,
+    "max_path_bytes": 1024
+  },
+  "workflows": {
+    "included_in_source": false,
+    "authority": "",
+    "executed": false,
+    "default": "quarantine"
+  },
+  "warnings": [
+    "GitHub workflows require explicit human review before activation."
+  ],
+  "files": [
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/.github/workflows/ci.yml",
+      "output_path": "review-quarantine/.github/workflows/ci.yml",
+      "kind": "file",
+      "bytes": 537,
+      "sha256": "b5133b4b728d6446e1f6d163cb2a11626d4c151542ad637be631114193ef40aa",
+      "original_mode": "0o644",
+      "quarantined": true
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/.gitignore",
+      "output_path": "source/.gitignore",
+      "kind": "file",
+      "bytes": 103,
+      "sha256": "bb49487e83f6ac7ed5d474d81015eb755bf3595a090bca314cd0c27fad034be4",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/CHANGELOG.md",
+      "output_path": "source/CHANGELOG.md",
+      "kind": "file",
+      "bytes": 860,
+      "sha256": "e6d7ea7c61ee49b250743d7785ee7097e7dee4554b76265549715bea287e8c23",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/CITATION.cff",
+      "output_path": "source/CITATION.cff",
+      "kind": "file",
+      "bytes": 395,
+      "sha256": "744b01304b04c9e052549b4e62350da08a6233c9079c2508d6f548f25c4c85aa",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/CONTRIBUTING.md",
+      "output_path": "source/CONTRIBUTING.md",
+      "kind": "file",
+      "bytes": 680,
+      "sha256": "3a1bdf56f683c2bdb2268f72fdeafb6fa64a965463d992245a5afcb0ec0e4039",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/Dockerfile",
+      "output_path": "source/Dockerfile",
+      "kind": "file",
+      "bytes": 122,
+      "sha256": "9a967879fe840003041bf78ba13c7983be1710941f52045cc02836b3255cc7b5",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/GOVERNANCE.md",
+      "output_path": "source/GOVERNANCE.md",
+      "kind": "file",
+      "bytes": 1172,
+      "sha256": "9ee0855fec92c310d3ce8c5a51cb98fed793d34aebac25e00e8beae5c22f993e",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/LICENSE",
+      "output_path": "source/LICENSE",
+      "kind": "file",
+      "bytes": 663,
+      "sha256": "23531838beaf1a5fda8e2464c5cb617ff24e50125805d9d5f85b8c1a80264f93",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/Makefile",
+      "output_path": "source/Makefile",
+      "kind": "file",
+      "bytes": 360,
+      "sha256": "e937bcd30f17d2a99cd56725068468c76cf03c2ce0b8fc7bc2223d659f970766",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/NOTICE",
+      "output_path": "source/NOTICE",
+      "kind": "file",
+      "bytes": 423,
+      "sha256": "12b852384c25d15b3cc8f9e42780749709fe6dd2e0df36f175bb6fe570109c55",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/PROJECT_MANIFEST.json",
+      "output_path": "source/PROJECT_MANIFEST.json",
+      "kind": "file",
+      "bytes": 15784,
+      "sha256": "75673376b9672e82065726c9e4f30a194077b70dbef7dc401204d361f5fba50b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/PROVENANCE.md",
+      "output_path": "source/PROVENANCE.md",
+      "kind": "file",
+      "bytes": 1930,
+      "sha256": "0b6ac61d06bab36c7e75d257daf6a3f47f545570ad090b3d0b9c972174156ef2",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/README.md",
+      "output_path": "source/README.md",
+      "kind": "file",
+      "bytes": 3115,
+      "sha256": "8a6d0f0e1abaeb96cf5e27272fecf4d8978f2678bb48d22d4c32af409f5f0888",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/README_CN.md",
+      "output_path": "source/README_CN.md",
+      "kind": "file",
+      "bytes": 7442,
+      "sha256": "0844df7bf0ed9b40f9e9d413938a170642c38e0e5908a678b8563a56a4202409",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/RELEASE_NOTES.md",
+      "output_path": "source/RELEASE_NOTES.md",
+      "kind": "file",
+      "bytes": 987,
+      "sha256": "d9699c3dcb2eb217e99bc131d3fd8c3d15d7a5685478368734acdf133a4c1c7f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/RELEASE_VALIDATION.json",
+      "output_path": "source/RELEASE_VALIDATION.json",
+      "kind": "file",
+      "bytes": 4682,
+      "sha256": "321a75fc84d88ef75a0ef8bbe925bb981f7a7c878bc1c0f900fe0ca1ea708d01",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/SECURITY.md",
+      "output_path": "source/SECURITY.md",
+      "kind": "file",
+      "bytes": 1087,
+      "sha256": "c2cb9326dd219ff922afc0872c4bee4a023e0a17dd4093a6fe341dccc49092ac",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/config/MESH95_DEFAULT_MODE.json",
+      "output_path": "source/config/MESH95_DEFAULT_MODE.json",
+      "kind": "file",
+      "bytes": 755,
+      "sha256": "71b3561dad24ad19daf2146f991cbda24034768a69ac871329af46cc0e6af25a",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/dashboard/",
+      "output_path": "source/dashboard",
+      "kind": "directory",
+      "bytes": 0,
+      "sha256": null,
+      "original_mode": "0o755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/dist/dikwp_cosmonoesis95-1.0.0-py3-none-any.whl",
+      "output_path": "source/dist/dikwp_cosmonoesis95-1.0.0-py3-none-any.whl",
+      "kind": "file",
+      "bytes": 89469,
+      "sha256": "791cf8c67ef0abe9bc582eed6eb0f7fbff42c0db29a91d01eb59f7bf5b683b99",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/ARCHITECTURE_CN.md",
+      "output_path": "source/docs/ARCHITECTURE_CN.md",
+      "kind": "file",
+      "bytes": 3329,
+      "sha256": "8e75c62f28fbae8dd36257b239a613da1db3646e19d2dc39500ab5118d0c5515",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/CLAIM_BOUNDARIES_CN_EN.md",
+      "output_path": "source/docs/CLAIM_BOUNDARIES_CN_EN.md",
+      "kind": "file",
+      "bytes": 1290,
+      "sha256": "b74d00877d8906e19022facd188216fd2102d8dd925584666b01bc9708fa1ffd",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/CONTACT_PROTOCOL_CN_EN.md",
+      "output_path": "source/docs/CONTACT_PROTOCOL_CN_EN.md",
+      "kind": "file",
+      "bytes": 1949,
+      "sha256": "c116850bd339b06059eef983679b602f15314dd1576e93fb7baea7920cf271c9",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/DIKWP_NORMALIZATION_THEOREMS_CN.md",
+      "output_path": "source/docs/DIKWP_NORMALIZATION_THEOREMS_CN.md",
+      "kind": "file",
+      "bytes": 1844,
+      "sha256": "53491d988e0fb745d64a90a3a1dc4b9974305b07260fad886e48bfec05069790",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/FORMAL_SPEC_CN.md",
+      "output_path": "source/docs/FORMAL_SPEC_CN.md",
+      "kind": "file",
+      "bytes": 2917,
+      "sha256": "b569e9078b5e4ec51c125d498f32547ee37545a37e10431b080150e322f4ad35",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/FULL_SYSTEM_REPORT_CN.md",
+      "output_path": "source/docs/FULL_SYSTEM_REPORT_CN.md",
+      "kind": "file",
+      "bytes": 90220,
+      "sha256": "b8e2e5c28b13ccb2de16da38dd3f9ce7a99e1358f53fb3313dfb55e0086a618f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/MEDICAL_SAFETY_CN.md",
+      "output_path": "source/docs/MEDICAL_SAFETY_CN.md",
+      "kind": "file",
+      "bytes": 1531,
+      "sha256": "455fee9aa44cd17bf3514413447b68048e615f664d73da25d20bda712db801de",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/RELIGION_CIVILIZATION_NORMALIZATION_CN_EN.md",
+      "output_path": "source/docs/RELIGION_CIVILIZATION_NORMALIZATION_CN_EN.md",
+      "kind": "file",
+      "bytes": 5669,
+      "sha256": "5f6efaeab44071567e175f25ad96567204e9eb318ed11e00c6ba29cbf4dc1f9f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/SCIENCE_AUDIT_CN.md",
+      "output_path": "source/docs/SCIENCE_AUDIT_CN.md",
+      "kind": "file",
+      "bytes": 2870,
+      "sha256": "4302aadd225bf93214358649b1eaced4d14f00885c8df12e3c4a52dce5c23cc5",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/docs/UNIVERSAL_CONSCIOUSNESS_RESEARCH_PROGRAM_CN_EN.md",
+      "output_path": "source/docs/UNIVERSAL_CONSCIOUSNESS_RESEARCH_PROGRAM_CN_EN.md",
+      "kind": "file",
+      "bytes": 4022,
+      "sha256": "121aba8f6654b2ab0de044c6822b5a99aa60230dcdcca56a4f887061d098b35a",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/examples/nonstandard_material/claims.json",
+      "output_path": "source/examples/nonstandard_material/claims.json",
+      "kind": "file",
+      "bytes": 2611,
+      "sha256": "db5a7cc5d495afd8666baded65a181c1292dc6b2962ddaf49c93a6e6f0ce6410",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/examples/nonstandard_material/concept_queries.json",
+      "output_path": "source/examples/nonstandard_material/concept_queries.json",
+      "kind": "file",
+      "bytes": 581,
+      "sha256": "45a09edc4c00f6ab3417979ef1103184f78e8016d987418e6011a6f0decaa226",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/examples/nonstandard_material/consciousness_candidate.json",
+      "output_path": "source/examples/nonstandard_material/consciousness_candidate.json",
+      "kind": "file",
+      "bytes": 816,
+      "sha256": "74f9ee857345993f5382afe459d0ea0b067b35d3f280f51be786517827d15920",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/examples/nonstandard_material/consciousness_candidates.json",
+      "output_path": "source/examples/nonstandard_material/consciousness_candidates.json",
+      "kind": "file",
+      "bytes": 1347,
+      "sha256": "220941b6c7c5dfe1b1224d7f8727f5eff93ecc25ff0832ee62e82cf33087d42a",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/examples/nonstandard_material/contact_observation.json",
+      "output_path": "source/examples/nonstandard_material/contact_observation.json",
+      "kind": "file",
+      "bytes": 474,
+      "sha256": "e9cbdff0c835060a5346be92610e1fb120635082c09a7a22affd2b61aabfdc0d",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/.gitkeep",
+      "output_path": "source/outputs/.gitkeep",
+      "kind": "file",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/FULL_SYSTEM_REPORT_CN.md",
+      "output_path": "source/outputs/cosmonoesis_demo/FULL_SYSTEM_REPORT_CN.md",
+      "kind": "file",
+      "bytes": 90220,
+      "sha256": "b8e2e5c28b13ccb2de16da38dd3f9ce7a99e1358f53fb3313dfb55e0086a618f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/MANIFEST.json",
+      "output_path": "source/outputs/cosmonoesis_demo/MANIFEST.json",
+      "kind": "file",
+      "bytes": 3365,
+      "sha256": "edcfc65d3d6497263354570908911414e5fac8a91d3259a26078b674fa22e1fd",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/OUTPUT_INFO.json",
+      "output_path": "source/outputs/cosmonoesis_demo/OUTPUT_INFO.json",
+      "kind": "file",
+      "bytes": 515,
+      "sha256": "e8c62f9dc301e023be74d6dcd685af1d9d980bbb57c27fe0d140281a9bdee603",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/VERIFY.txt",
+      "output_path": "source/outputs/cosmonoesis_demo/VERIFY.txt",
+      "kind": "file",
+      "bytes": 529,
+      "sha256": "4358def477dff8125ddf95f68b7f348d4484f5ad2c43a1858dee7fa476b77afd",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/civilization_mappings.json",
+      "output_path": "source/outputs/cosmonoesis_demo/civilization_mappings.json",
+      "kind": "file",
+      "bytes": 29813,
+      "sha256": "8c014f5df0e54bbbf97906cc2f0c1edf421d7e32e580b5c41e4ee5d1e78b64e4",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/civilization_similarity_matrix.json",
+      "output_path": "source/outputs/cosmonoesis_demo/civilization_similarity_matrix.json",
+      "kind": "file",
+      "bytes": 17599,
+      "sha256": "69a2189398e4e66245b62efa98b6c1d867d97c3f9d5a20303fa33a3ba686f6ab",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/claim_audit.json",
+      "output_path": "source/outputs/cosmonoesis_demo/claim_audit.json",
+      "kind": "file",
+      "bytes": 39586,
+      "sha256": "eb8644ecf0a9751027639e00f539b2e19cd8ee4c575459005407d2f950ff179a",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/consciousness_assessments.json",
+      "output_path": "source/outputs/cosmonoesis_demo/consciousness_assessments.json",
+      "kind": "file",
+      "bytes": 85690,
+      "sha256": "b8cf8d0adae17e1d3f73ea166cb65f867987222509d9ca5e646102be7361f15b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/consciousness_candidate_matrix.csv",
+      "output_path": "source/outputs/cosmonoesis_demo/consciousness_candidate_matrix.csv",
+      "kind": "file",
+      "bytes": 992,
+      "sha256": "3378689c5070a6704cc9afe2d0ca192e3c71d86eab636ed45f84a6d183c8ff1d",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/consciousness_model_registry.json",
+      "output_path": "source/outputs/cosmonoesis_demo/consciousness_model_registry.json",
+      "kind": "file",
+      "bytes": 25287,
+      "sha256": "67d073c10c0de43abb87bd74421fefb44cd74bd41306ac7204565aed04fa591c",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/contact_protocol_demo.json",
+      "output_path": "source/outputs/cosmonoesis_demo/contact_protocol_demo.json",
+      "kind": "file",
+      "bytes": 3225,
+      "sha256": "ea8a60cd7b01819e38389eff73eecc68081fdfb66f737b46bc92afe401d88444",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/cosmic_principles.json",
+      "output_path": "source/outputs/cosmonoesis_demo/cosmic_principles.json",
+      "kind": "file",
+      "bytes": 9488,
+      "sha256": "e6a3aed9bb413e4ceca501837ef93af877fe90b19d8dd442a20d272836d30b2f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/cosmic_world_models.json",
+      "output_path": "source/outputs/cosmonoesis_demo/cosmic_world_models.json",
+      "kind": "file",
+      "bytes": 3191,
+      "sha256": "3e754b51061feca6c2e8f5079f42a984b3a933752e004516bafad349a5e5c442",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/cosmonoesis_bundle.json",
+      "output_path": "source/outputs/cosmonoesis_demo/cosmonoesis_bundle.json",
+      "kind": "file",
+      "bytes": 601257,
+      "sha256": "3acb2600c8a3336ea6b648d19d84c518400dcfdfcb71441b11510608f4a5cfd9",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/dashboard.html",
+      "output_path": "source/outputs/cosmonoesis_demo/dashboard.html",
+      "kind": "file",
+      "bytes": 424314,
+      "sha256": "f61132b0fb7152dafd0345017e85325437ea3d18d4d4c8997aeff8ccdfe421ad",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/dikwp_ontology.json",
+      "output_path": "source/outputs/cosmonoesis_demo/dikwp_ontology.json",
+      "kind": "file",
+      "bytes": 11603,
+      "sha256": "99b5b78906af2e5bb9b97534dc3a4c5fb72a397e9fd631d799a6bf5718fd81d3",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/evidence_registry.json",
+      "output_path": "source/outputs/cosmonoesis_demo/evidence_registry.json",
+      "kind": "file",
+      "bytes": 11798,
+      "sha256": "f56bbfa931d2fc3aa2563256531f3c3670364365b2fd105705de486d5f482776",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/sample_normalizations.json",
+      "output_path": "source/outputs/cosmonoesis_demo/sample_normalizations.json",
+      "kind": "file",
+      "bytes": 51886,
+      "sha256": "79431c000466fd66558f7064809713cc037a93f582d8eb3482e3be5996219e5d",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/tradition_concept_matrix.csv",
+      "output_path": "source/outputs/cosmonoesis_demo/tradition_concept_matrix.csv",
+      "kind": "file",
+      "bytes": 37511,
+      "sha256": "913b52b419c61bf81a3255854cf73bba2aaccd4e76280a60dc1d9cb37276b85b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/tradition_mappings.json",
+      "output_path": "source/outputs/cosmonoesis_demo/tradition_mappings.json",
+      "kind": "file",
+      "bytes": 131007,
+      "sha256": "d5bf4e795bbec596dcdfbaa3b27b4d238f5a85668dbbda21e964ee1ccc3a1904",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/tradition_similarity_matrix.json",
+      "output_path": "source/outputs/cosmonoesis_demo/tradition_similarity_matrix.json",
+      "kind": "file",
+      "bytes": 135753,
+      "sha256": "e2867d9914ab7b314f229631e9879829c287fbbe7206f88507b1d21734acfb76",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/outputs/cosmonoesis_demo/universal_centroid.json",
+      "output_path": "source/outputs/cosmonoesis_demo/universal_centroid.json",
+      "kind": "file",
+      "bytes": 2512,
+      "sha256": "dfb9e360022acde1c2926d1d8f8ccca2567a88e093b926fed62783cdddf0b49f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/pyproject.toml",
+      "output_path": "source/pyproject.toml",
+      "kind": "file",
+      "bytes": 926,
+      "sha256": "b4abad71cf6990a34a6e76d9eec640fcb9f131f8c796b86914d254941dd51bf3",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/release_artifacts/",
+      "output_path": "source/release_artifacts",
+      "kind": "directory",
+      "bytes": 0,
+      "sha256": null,
+      "original_mode": "0o755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/run.py",
+      "output_path": "source/run.py",
+      "kind": "file",
+      "bytes": 256,
+      "sha256": "2497a45cd6322feb1bc006bf6b7928c5a5edbfa612ca08159eeb0f66cd2b729c",
+      "original_mode": "0o755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/schemas/claim-record.schema.json",
+      "output_path": "source/schemas/claim-record.schema.json",
+      "kind": "file",
+      "bytes": 505,
+      "sha256": "49110760888a5dfe1ba67a3f560c0ae30f08e43b6adfcd7d6d4a9adbf4d15e0b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/schemas/concept-normalization.schema.json",
+      "output_path": "source/schemas/concept-normalization.schema.json",
+      "kind": "file",
+      "bytes": 1038,
+      "sha256": "151cc538d2cbc6603f94848fb2c1171a6ba7fb74752f6f896f48335f47151c60",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/schemas/consciousness-candidate.schema.json",
+      "output_path": "source/schemas/consciousness-candidate.schema.json",
+      "kind": "file",
+      "bytes": 841,
+      "sha256": "87e6a16c7b0dbfb88b37811e27959afaa742dc9f49e819c5a6465b0c97de04ba",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/schemas/contact-observation.schema.json",
+      "output_path": "source/schemas/contact-observation.schema.json",
+      "kind": "file",
+      "bytes": 1316,
+      "sha256": "34fc9bf33e5c4b8a1f758d2804557678ff5c348eb590cfce80c609eede5e534d",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/schemas/cosmonoesis-bundle.schema.json",
+      "output_path": "source/schemas/cosmonoesis-bundle.schema.json",
+      "kind": "file",
+      "bytes": 1090,
+      "sha256": "d0756ade97d9aa9948881ab32aef9955948386b972c50b286d3a9f3e2e4d9cd1",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/scripts/run_demo.bat",
+      "output_path": "source/scripts/run_demo.bat",
+      "kind": "file",
+      "bytes": 166,
+      "sha256": "9ad23bd1eb0327542582083d47a3039c0966e25cf43a5ae0df303eaff21ddb9b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/scripts/run_demo.sh",
+      "output_path": "source/scripts/run_demo.sh",
+      "kind": "file",
+      "bytes": 143,
+      "sha256": "04307facb88f3e973f4520f93eb9ea89b39beeb4d348198b8842b45394b534e7",
+      "original_mode": "0o755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/scripts/validate_release.py",
+      "output_path": "source/scripts/validate_release.py",
+      "kind": "file",
+      "bytes": 1021,
+      "sha256": "a338bdf980d825eed58f6ea9a2d57a98881b27e52ecae872262e925757d958bd",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/__init__.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/__init__.py",
+      "kind": "file",
+      "bytes": 543,
+      "sha256": "9c5c7461e2344314378ab13c2be595064cdcfcf59a8ccc34c6abd58eb8e26bfa",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/__main__.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/__main__.py",
+      "kind": "file",
+      "bytes": 79,
+      "sha256": "307299fda7b77d22c64cb51430ec75e5f59d78e9c948786afb3b2544fe45e4b7",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/claim_audit.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/claim_audit.py",
+      "kind": "file",
+      "bytes": 5448,
+      "sha256": "6e0eb18ced08397b478ec648d395e305ab332f1ebb028f4d08df243a71504eca",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/cli.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/cli.py",
+      "kind": "file",
+      "bytes": 8228,
+      "sha256": "869e5bd88ed41eddf6109eed9f8592ccab4c2a266ffb73d115da913f04f8d440",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/compiler.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/compiler.py",
+      "kind": "file",
+      "bytes": 14750,
+      "sha256": "f93b81721238378a8f0c1714fd7261cd4b858fa07b5b191afb63d92a51778a68",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/consciousness.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/consciousness.py",
+      "kind": "file",
+      "bytes": 6699,
+      "sha256": "34229ddfe4af361ddba32cc1101f1b90f7fdee78e4fa0bdb59e6ff17101e5bd9",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/contact.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/contact.py",
+      "kind": "file",
+      "bytes": 4706,
+      "sha256": "1d0c1d3b49fc6e35a84ea09fe049c18daad2d4dc4fda07723b06f02ae3cb0e8d",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/__init__.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/__init__.py",
+      "kind": "file",
+      "bytes": 60,
+      "sha256": "c8167938a77aaa8fac09b12c6dc0f1e60723801bbcb0c771612133ffb33c3607",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/civilization_registry.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/civilization_registry.json",
+      "kind": "file",
+      "bytes": 7693,
+      "sha256": "237b9fbc0de591d8fac2927f12964db1851a676bf07e8f6db16969e4232e6b55",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/claim_rules.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/claim_rules.json",
+      "kind": "file",
+      "bytes": 15556,
+      "sha256": "32acae7444e26b62b15fdeb79f657966e853c0209e01cbfc3f14a55c59ac3b20",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/consciousness_models.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/consciousness_models.json",
+      "kind": "file",
+      "bytes": 25287,
+      "sha256": "67d073c10c0de43abb87bd74421fefb44cd74bd41306ac7204565aed04fa591c",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/cosmic_principles.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/cosmic_principles.json",
+      "kind": "file",
+      "bytes": 9488,
+      "sha256": "e6a3aed9bb413e4ceca501837ef93af877fe90b19d8dd442a20d272836d30b2f",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/dikwp_ontology.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/dikwp_ontology.json",
+      "kind": "file",
+      "bytes": 11603,
+      "sha256": "99b5b78906af2e5bb9b97534dc3a4c5fb72a397e9fd631d799a6bf5718fd81d3",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/evidence_registry.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/evidence_registry.json",
+      "kind": "file",
+      "bytes": 11798,
+      "sha256": "f56bbfa931d2fc3aa2563256531f3c3670364365b2fd105705de486d5f482776",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/data/tradition_registry.json",
+      "output_path": "source/src/dikwp_cosmonoesis95/data/tradition_registry.json",
+      "kind": "file",
+      "bytes": 131481,
+      "sha256": "a47285f75d81542772b5998182926b278c428c12e33313250a2db4e16e32e3de",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/mappings.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/mappings.py",
+      "kind": "file",
+      "bytes": 3076,
+      "sha256": "0865b5851fe5407665095b575220372d6afcb551155d7ced2eabbcd5000d423e",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/normalization.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/normalization.py",
+      "kind": "file",
+      "bytes": 11420,
+      "sha256": "975d7d8d2995913f00dede9f131a9d3f0eeca6f516f6f254e1b62b34248fee83",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/registries.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/registries.py",
+      "kind": "file",
+      "bytes": 5224,
+      "sha256": "ed5fa6ce094ba1e30c5c1cfbd946cd38493353baed74c20124f053b95c71d61b",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/render.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/render.py",
+      "kind": "file",
+      "bytes": 25662,
+      "sha256": "f53ff79a426cb32c8f770d407bbb8b415624181b306008b72819e285aaac7084",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/utils.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/utils.py",
+      "kind": "file",
+      "bytes": 4802,
+      "sha256": "8261a461ea2f966f49d855683b3fcb6cad4ab0ff8021d7f3f3f1bcda0e0c74f9",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/src/dikwp_cosmonoesis95/verify.py",
+      "output_path": "source/src/dikwp_cosmonoesis95/verify.py",
+      "kind": "file",
+      "bytes": 3475,
+      "sha256": "72210072d3d35cb9761fd260463ab4f3b7f10ae0b71c660ed31418b913be24af",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/tests/test_cli.py",
+      "output_path": "source/tests/test_cli.py",
+      "kind": "file",
+      "bytes": 2083,
+      "sha256": "a0c9a27f9ce46d8a52ac2dae76c7229651beb308d52ea760d8e6f897208234f8",
+      "original_mode": "0o644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_COSMONOESIS95_v1.0.0/tests/test_core.py",
+      "output_path": "source/tests/test_core.py",
+      "kind": "file",
+      "bytes": 11115,
+      "sha256": "a0d9a84e3ebc1f32422f5ce1924525f62743163c980d7fbda86d5219fcf6e20f",
+      "original_mode": "0o644",
+      "quarantined": false
+    }
+  ],
+  "evidence_boundary": "Safety of ZIP paths/budgets only. No code, install, build, tests, network, git operation, license reassignment, or certification was performed.",
+  "nested_archive_policy": "Each ZIP recursively inspected to bounded depth; all versions preserved; see root SOURCE_PROVENANCE.json."
+}

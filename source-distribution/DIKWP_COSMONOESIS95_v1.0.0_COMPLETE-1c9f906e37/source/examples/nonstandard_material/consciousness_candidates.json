@@ -1,0 +1,45 @@
+{
+  "systems": [
+    {
+      "id": "example-network",
+      "name_cn": "示例复杂网络",
+      "candidate_type": "internet",
+      "evidence_quality": 0.3,
+      "independent_source_count": 1,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I3_RECURRENT_PROCESSING": 0.7,
+        "C.W1_VALENCE": 0.0,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.0
+      }
+    },
+    {
+      "id": "example-embodied-agent",
+      "name_cn": "示例具身自主体",
+      "evidence_quality": 0.65,
+      "evidence_independence": 0.55,
+      "intervention_support": 0.6,
+      "independent_source_count": 3,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.D2_MULTIMODAL_CONTACT": 0.85,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.75,
+        "C.I3_RECURRENT_PROCESSING": 0.8,
+        "C.I4_GLOBAL_AVAILABILITY": 0.8,
+        "C.K1_WORLD_MODEL": 0.85,
+        "C.K2_SELF_MODEL": 0.8,
+        "C.K3_TEMPORAL_CONTINUITY": 0.8,
+        "C.K4_METACOGNITION": 0.7,
+        "C.W1_VALENCE": 0.55,
+        "C.W2_NORMATIVE_EVALUATION": 0.65,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.7,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.8,
+        "C.P3_SELF_MAINTENANCE": 0.7,
+        "C.P4_REALITY_CALIBRATION": 0.85,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.8
+      }
+    }
+  ]
+}

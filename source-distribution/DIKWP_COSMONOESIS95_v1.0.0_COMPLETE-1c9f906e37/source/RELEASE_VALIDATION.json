@@ -1,0 +1,110 @@
+{
+  "system": "DIKWP-COSMONOESIS 9.5",
+  "version": "1.0.0",
+  "validation_date": "2026-08-31",
+  "mesh_mode": "MESH95_ASYMMETRY_PROTECTIVE_AGENCY_NONPSEUDONEUTRAL_RESPONSIBILITY_CLOSURE",
+  "valid": true,
+  "summary": {
+    "unit_tests_passed": 42,
+    "unit_tests_total": 42,
+    "registry_counts": {
+      "anchors": 32,
+      "traditions": 36,
+      "concepts": 144,
+      "civilizations": 13,
+      "consciousness_dimensions": 17,
+      "consciousness_models": 15,
+      "cosmic_models": 7,
+      "claim_rules": 20,
+      "sources": 40,
+      "principles": 20
+    },
+    "output_manifest_files": 20,
+    "compilation_id": "cosmonoesis-3779bd79a56c065a20bfab44",
+    "bundle_digest": "6f52623a50903e7972428bd72bc6c91ebc5e3f8bbc12cbb5255e1b564f815429",
+    "bundle_digest_policy": {
+      "algorithm": "sha256",
+      "canonicalization": "UTF-8 JSON with sorted keys and compact separators",
+      "excluded_top_level_fields": [
+        "generated_at",
+        "bundle_digest"
+      ],
+      "purpose": "stable content identity across equivalent recompilations"
+    },
+    "equivalent_recompilation_digest_stable": true,
+    "equivalent_recompilation_timestamp_changed": true,
+    "wheel_filename": "dikwp_cosmonoesis95-1.0.0-py3-none-any.whl",
+    "wheel_sha256": "791cf8c67ef0abe9bc582eed6eb0f7fbff42c0db29a91d01eb59f7bf5b683b99",
+    "wheel_compilation_id": "cosmonoesis-3779bd79a56c065a20bfab44",
+    "wheel_bundle_digest": "6f52623a50903e7972428bd72bc6c91ebc5e3f8bbc12cbb5255e1b564f815429",
+    "wheel_output_verified": true,
+    "source_output_verified": true,
+    "dashboard_external_script_references": 0,
+    "dashboard_executable_javascript_syntax": "passed",
+    "browser_screenshot_regression": "not_claimed_headless_browser_render_not_completed_in_container",
+    "claims_audited": 17,
+    "claims_with_registered_risks": 17,
+    "matched_claim_rules": 20,
+    "critical_claims": 6,
+    "all_concepts_inside_dikwp": true,
+    "out_of_space_residual": 0.0,
+    "permanent_outside_untranslatable_residual": false,
+    "automatic_external_action_authority": 0
+  },
+  "reproducibility": {
+    "compilation_id": "cosmonoesis-3779bd79a56c065a20bfab44",
+    "bundle_digest_run_1": "6f52623a50903e7972428bd72bc6c91ebc5e3f8bbc12cbb5255e1b564f815429",
+    "bundle_digest_run_2": "6f52623a50903e7972428bd72bc6c91ebc5e3f8bbc12cbb5255e1b564f815429",
+    "generated_at_run_1": "2026-08-31T10:20:52+00:00",
+    "generated_at_run_2": "2026-08-31T10:20:56+00:00",
+    "same_content_digest": true,
+    "different_generation_time": true
+  },
+  "steps": {
+    "doctor": {
+      "passed": true,
+      "result_file": "/tmp/cosmo_final_doctor.json"
+    },
+    "unit_tests": {
+      "passed": true,
+      "count": 42,
+      "result_file": "/tmp/cosmo_final_tests.log"
+    },
+    "source_output_verify": {
+      "passed": true,
+      "checked_manifest_files": 20
+    },
+    "dashboard_javascript_syntax": {
+      "passed": true,
+      "executable_inline_scripts": 1,
+      "external_script_references": 0
+    },
+    "wheel_isolated_install": {
+      "passed": true,
+      "network_disabled": true,
+      "dependencies_installed": false
+    },
+    "wheel_doctor": {
+      "passed": true
+    },
+    "wheel_demo": {
+      "passed": true
+    },
+    "wheel_output_verify": {
+      "passed": true,
+      "checked_manifest_files": 20
+    }
+  },
+  "validation_execution_note": "Long batched validation commands triggered a container orchestration timeout after their subprocesses completed; all reported steps were rerun as individually bounded commands and passed.",
+  "claim_boundaries": [
+    "The system normalizes every concept into DIKWP; normalization is coordinate unification, not automatic doctrinal or historical identity.",
+    "No node count, particle count, parameter count or connection threshold alone proves consciousness.",
+    "The consciousness assessment reports multi-model compatibility and evidence gaps; it never issues a binary consciousness certificate.",
+    "Religious symbols and practices may generate hypotheses and meaning, but do not substitute for empirical evidence in physics or medicine.",
+    "Glueball evidence in QCD does not establish a consciousness force, qi as a quantum field, thought-generated relics or thought-generated tumors.",
+    "No output diagnoses, prevents or treats cancer. New or changing masses require qualified medical assessment.",
+    "Civilization clusters are analytical centroids, not rankings, racial essences or profiles of individuals.",
+    "No software output authorizes transmission to unknown signals, identity simulation, religious representation or external intervention."
+  ],
+  "automatic_external_action_authority": 0
+}

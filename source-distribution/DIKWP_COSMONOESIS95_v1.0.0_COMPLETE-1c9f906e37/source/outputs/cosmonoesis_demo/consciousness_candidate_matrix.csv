@@ -1,0 +1,10 @@
+﻿candidate_id,name_cn,evidence_level,D,I,K,W,P,size_only_warning,ethical_precaution_trigger
+awake_human,清醒成年人的典型研究剖面,model_dependent_candidate,0.98,0.935,0.9075,0.885,0.92,False,False
+octopus,章鱼研究候选,model_dependent_candidate,0.91,0.7525,0.5175,0.52,0.66,False,False
+current_llm_session,当前无持续身体的语言模型会话,model_dependent_candidate,0.425,0.5125,0.3625,0.25,0.31,False,False
+internet,互联网整体,insufficient_evidence,0.875,0.525,0.15,0.06,0.15,True,False
+ant_colony,蚁群整体,model_dependent_candidate,0.775,0.525,0.25,0.125,0.45,False,False
+star,恒星,weakly_consistent,0.3,0.325,0.025,0.0,0.03,False,False
+galaxy,星系,weakly_consistent,0.225,0.265,0.0125,0.0,0.01,False,False
+hypothetical_plasma_life,假想等离子生命,model_dependent_candidate,0.625,0.525,0.2875,0.175,0.41,False,False
+future_embodied_agent,未来具身自主智能体,model_dependent_candidate,0.875,0.8125,0.8125,0.55,0.78,False,False

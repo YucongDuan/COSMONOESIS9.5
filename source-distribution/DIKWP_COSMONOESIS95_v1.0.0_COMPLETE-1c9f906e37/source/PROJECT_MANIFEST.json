@@ -1,0 +1,454 @@
+{
+  "system": "DIKWP-COSMONOESIS 9.5",
+  "version": "1.0.0",
+  "generated_date": "2026-08-31",
+  "scope": "all project files except this manifest and transient caches",
+  "file_count": 89,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "size_bytes": 537,
+      "sha256": "b5133b4b728d6446e1f6d163cb2a11626d4c151542ad637be631114193ef40aa"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 103,
+      "sha256": "bb49487e83f6ac7ed5d474d81015eb755bf3595a090bca314cd0c27fad034be4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 860,
+      "sha256": "e6d7ea7c61ee49b250743d7785ee7097e7dee4554b76265549715bea287e8c23"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 395,
+      "sha256": "744b01304b04c9e052549b4e62350da08a6233c9079c2508d6f548f25c4c85aa"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 680,
+      "sha256": "3a1bdf56f683c2bdb2268f72fdeafb6fa64a965463d992245a5afcb0ec0e4039"
+    },
+    {
+      "path": "Dockerfile",
+      "size_bytes": 122,
+      "sha256": "9a967879fe840003041bf78ba13c7983be1710941f52045cc02836b3255cc7b5"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "size_bytes": 1172,
+      "sha256": "9ee0855fec92c310d3ce8c5a51cb98fed793d34aebac25e00e8beae5c22f993e"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 663,
+      "sha256": "23531838beaf1a5fda8e2464c5cb617ff24e50125805d9d5f85b8c1a80264f93"
+    },
+    {
+      "path": "Makefile",
+      "size_bytes": 360,
+      "sha256": "e937bcd30f17d2a99cd56725068468c76cf03c2ce0b8fc7bc2223d659f970766"
+    },
+    {
+      "path": "NOTICE",
+      "size_bytes": 423,
+      "sha256": "12b852384c25d15b3cc8f9e42780749709fe6dd2e0df36f175bb6fe570109c55"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "size_bytes": 1930,
+      "sha256": "0b6ac61d06bab36c7e75d257daf6a3f47f545570ad090b3d0b9c972174156ef2"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3115,
+      "sha256": "8a6d0f0e1abaeb96cf5e27272fecf4d8978f2678bb48d22d4c32af409f5f0888"
+    },
+    {
+      "path": "README_CN.md",
+      "size_bytes": 7442,
+      "sha256": "0844df7bf0ed9b40f9e9d413938a170642c38e0e5908a678b8563a56a4202409"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "size_bytes": 987,
+      "sha256": "d9699c3dcb2eb217e99bc131d3fd8c3d15d7a5685478368734acdf133a4c1c7f"
+    },
+    {
+      "path": "RELEASE_VALIDATION.json",
+      "size_bytes": 4682,
+      "sha256": "321a75fc84d88ef75a0ef8bbe925bb981f7a7c878bc1c0f900fe0ca1ea708d01"
+    },
+    {
+      "path": "SECURITY.md",
+      "size_bytes": 1087,
+      "sha256": "c2cb9326dd219ff922afc0872c4bee4a023e0a17dd4093a6fe341dccc49092ac"
+    },
+    {
+      "path": "config/MESH95_DEFAULT_MODE.json",
+      "size_bytes": 755,
+      "sha256": "71b3561dad24ad19daf2146f991cbda24034768a69ac871329af46cc0e6af25a"
+    },
+    {
+      "path": "dist/dikwp_cosmonoesis95-1.0.0-py3-none-any.whl",
+      "size_bytes": 89469,
+      "sha256": "791cf8c67ef0abe9bc582eed6eb0f7fbff42c0db29a91d01eb59f7bf5b683b99"
+    },
+    {
+      "path": "docs/ARCHITECTURE_CN.md",
+      "size_bytes": 3329,
+      "sha256": "8e75c62f28fbae8dd36257b239a613da1db3646e19d2dc39500ab5118d0c5515"
+    },
+    {
+      "path": "docs/CLAIM_BOUNDARIES_CN_EN.md",
+      "size_bytes": 1290,
+      "sha256": "b74d00877d8906e19022facd188216fd2102d8dd925584666b01bc9708fa1ffd"
+    },
+    {
+      "path": "docs/CONTACT_PROTOCOL_CN_EN.md",
+      "size_bytes": 1949,
+      "sha256": "c116850bd339b06059eef983679b602f15314dd1576e93fb7baea7920cf271c9"
+    },
+    {
+      "path": "docs/DIKWP_NORMALIZATION_THEOREMS_CN.md",
+      "size_bytes": 1844,
+      "sha256": "53491d988e0fb745d64a90a3a1dc4b9974305b07260fad886e48bfec05069790"
+    },
+    {
+      "path": "docs/FORMAL_SPEC_CN.md",
+      "size_bytes": 2917,
+      "sha256": "b569e9078b5e4ec51c125d498f32547ee37545a37e10431b080150e322f4ad35"
+    },
+    {
+      "path": "docs/FULL_SYSTEM_REPORT_CN.md",
+      "size_bytes": 90220,
+      "sha256": "b8e2e5c28b13ccb2de16da38dd3f9ce7a99e1358f53fb3313dfb55e0086a618f"
+    },
+    {
+      "path": "docs/MEDICAL_SAFETY_CN.md",
+      "size_bytes": 1531,
+      "sha256": "455fee9aa44cd17bf3514413447b68048e615f664d73da25d20bda712db801de"
+    },
+    {
+      "path": "docs/RELIGION_CIVILIZATION_NORMALIZATION_CN_EN.md",
+      "size_bytes": 5669,
+      "sha256": "5f6efaeab44071567e175f25ad96567204e9eb318ed11e00c6ba29cbf4dc1f9f"
+    },
+    {
+      "path": "docs/SCIENCE_AUDIT_CN.md",
+      "size_bytes": 2870,
+      "sha256": "4302aadd225bf93214358649b1eaced4d14f00885c8df12e3c4a52dce5c23cc5"
+    },
+    {
+      "path": "docs/UNIVERSAL_CONSCIOUSNESS_RESEARCH_PROGRAM_CN_EN.md",
+      "size_bytes": 4022,
+      "sha256": "121aba8f6654b2ab0de044c6822b5a99aa60230dcdcca56a4f887061d098b35a"
+    },
+    {
+      "path": "examples/nonstandard_material/claims.json",
+      "size_bytes": 2611,
+      "sha256": "db5a7cc5d495afd8666baded65a181c1292dc6b2962ddaf49c93a6e6f0ce6410"
+    },
+    {
+      "path": "examples/nonstandard_material/concept_queries.json",
+      "size_bytes": 581,
+      "sha256": "45a09edc4c00f6ab3417979ef1103184f78e8016d987418e6011a6f0decaa226"
+    },
+    {
+      "path": "examples/nonstandard_material/consciousness_candidate.json",
+      "size_bytes": 816,
+      "sha256": "74f9ee857345993f5382afe459d0ea0b067b35d3f280f51be786517827d15920"
+    },
+    {
+      "path": "examples/nonstandard_material/consciousness_candidates.json",
+      "size_bytes": 1347,
+      "sha256": "220941b6c7c5dfe1b1224d7f8727f5eff93ecc25ff0832ee62e82cf33087d42a"
+    },
+    {
+      "path": "examples/nonstandard_material/contact_observation.json",
+      "size_bytes": 474,
+      "sha256": "e9cbdff0c835060a5346be92610e1fb120635082c09a7a22affd2b61aabfdc0d"
+    },
+    {
+      "path": "outputs/.gitkeep",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/FULL_SYSTEM_REPORT_CN.md",
+      "size_bytes": 90220,
+      "sha256": "b8e2e5c28b13ccb2de16da38dd3f9ce7a99e1358f53fb3313dfb55e0086a618f"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/MANIFEST.json",
+      "size_bytes": 3365,
+      "sha256": "edcfc65d3d6497263354570908911414e5fac8a91d3259a26078b674fa22e1fd"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/OUTPUT_INFO.json",
+      "size_bytes": 515,
+      "sha256": "e8c62f9dc301e023be74d6dcd685af1d9d980bbb57c27fe0d140281a9bdee603"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/VERIFY.txt",
+      "size_bytes": 529,
+      "sha256": "4358def477dff8125ddf95f68b7f348d4484f5ad2c43a1858dee7fa476b77afd"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/civilization_mappings.json",
+      "size_bytes": 29813,
+      "sha256": "8c014f5df0e54bbbf97906cc2f0c1edf421d7e32e580b5c41e4ee5d1e78b64e4"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/civilization_similarity_matrix.json",
+      "size_bytes": 17599,
+      "sha256": "69a2189398e4e66245b62efa98b6c1d867d97c3f9d5a20303fa33a3ba686f6ab"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/claim_audit.json",
+      "size_bytes": 39586,
+      "sha256": "eb8644ecf0a9751027639e00f539b2e19cd8ee4c575459005407d2f950ff179a"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/consciousness_assessments.json",
+      "size_bytes": 85690,
+      "sha256": "b8cf8d0adae17e1d3f73ea166cb65f867987222509d9ca5e646102be7361f15b"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/consciousness_candidate_matrix.csv",
+      "size_bytes": 992,
+      "sha256": "3378689c5070a6704cc9afe2d0ca192e3c71d86eab636ed45f84a6d183c8ff1d"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/consciousness_model_registry.json",
+      "size_bytes": 25287,
+      "sha256": "67d073c10c0de43abb87bd74421fefb44cd74bd41306ac7204565aed04fa591c"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/contact_protocol_demo.json",
+      "size_bytes": 3225,
+      "sha256": "ea8a60cd7b01819e38389eff73eecc68081fdfb66f737b46bc92afe401d88444"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/cosmic_principles.json",
+      "size_bytes": 9488,
+      "sha256": "e6a3aed9bb413e4ceca501837ef93af877fe90b19d8dd442a20d272836d30b2f"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/cosmic_world_models.json",
+      "size_bytes": 3191,
+      "sha256": "3e754b51061feca6c2e8f5079f42a984b3a933752e004516bafad349a5e5c442"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/cosmonoesis_bundle.json",
+      "size_bytes": 601257,
+      "sha256": "3acb2600c8a3336ea6b648d19d84c518400dcfdfcb71441b11510608f4a5cfd9"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/dashboard.html",
+      "size_bytes": 424314,
+      "sha256": "f61132b0fb7152dafd0345017e85325437ea3d18d4d4c8997aeff8ccdfe421ad"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/dikwp_ontology.json",
+      "size_bytes": 11603,
+      "sha256": "99b5b78906af2e5bb9b97534dc3a4c5fb72a397e9fd631d799a6bf5718fd81d3"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/evidence_registry.json",
+      "size_bytes": 11798,
+      "sha256": "f56bbfa931d2fc3aa2563256531f3c3670364365b2fd105705de486d5f482776"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/sample_normalizations.json",
+      "size_bytes": 51886,
+      "sha256": "79431c000466fd66558f7064809713cc037a93f582d8eb3482e3be5996219e5d"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/tradition_concept_matrix.csv",
+      "size_bytes": 37511,
+      "sha256": "913b52b419c61bf81a3255854cf73bba2aaccd4e76280a60dc1d9cb37276b85b"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/tradition_mappings.json",
+      "size_bytes": 131007,
+      "sha256": "d5bf4e795bbec596dcdfbaa3b27b4d238f5a85668dbbda21e964ee1ccc3a1904"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/tradition_similarity_matrix.json",
+      "size_bytes": 135753,
+      "sha256": "e2867d9914ab7b314f229631e9879829c287fbbe7206f88507b1d21734acfb76"
+    },
+    {
+      "path": "outputs/cosmonoesis_demo/universal_centroid.json",
+      "size_bytes": 2512,
+      "sha256": "dfb9e360022acde1c2926d1d8f8ccca2567a88e093b926fed62783cdddf0b49f"
+    },
+    {
+      "path": "pyproject.toml",
+      "size_bytes": 926,
+      "sha256": "b4abad71cf6990a34a6e76d9eec640fcb9f131f8c796b86914d254941dd51bf3"
+    },
+    {
+      "path": "run.py",
+      "size_bytes": 256,
+      "sha256": "2497a45cd6322feb1bc006bf6b7928c5a5edbfa612ca08159eeb0f66cd2b729c"
+    },
+    {
+      "path": "schemas/claim-record.schema.json",
+      "size_bytes": 505,
+      "sha256": "49110760888a5dfe1ba67a3f560c0ae30f08e43b6adfcd7d6d4a9adbf4d15e0b"
+    },
+    {
+      "path": "schemas/concept-normalization.schema.json",
+      "size_bytes": 1038,
+      "sha256": "151cc538d2cbc6603f94848fb2c1171a6ba7fb74752f6f896f48335f47151c60"
+    },
+    {
+      "path": "schemas/consciousness-candidate.schema.json",
+      "size_bytes": 841,
+      "sha256": "87e6a16c7b0dbfb88b37811e27959afaa742dc9f49e819c5a6465b0c97de04ba"
+    },
+    {
+      "path": "schemas/contact-observation.schema.json",
+      "size_bytes": 1316,
+      "sha256": "34fc9bf33e5c4b8a1f758d2804557678ff5c348eb590cfce80c609eede5e534d"
+    },
+    {
+      "path": "schemas/cosmonoesis-bundle.schema.json",
+      "size_bytes": 1090,
+      "sha256": "d0756ade97d9aa9948881ab32aef9955948386b972c50b286d3a9f3e2e4d9cd1"
+    },
+    {
+      "path": "scripts/run_demo.bat",
+      "size_bytes": 166,
+      "sha256": "9ad23bd1eb0327542582083d47a3039c0966e25cf43a5ae0df303eaff21ddb9b"
+    },
+    {
+      "path": "scripts/run_demo.sh",
+      "size_bytes": 143,
+      "sha256": "04307facb88f3e973f4520f93eb9ea89b39beeb4d348198b8842b45394b534e7"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "size_bytes": 1021,
+      "sha256": "a338bdf980d825eed58f6ea9a2d57a98881b27e52ecae872262e925757d958bd"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/__init__.py",
+      "size_bytes": 543,
+      "sha256": "9c5c7461e2344314378ab13c2be595064cdcfcf59a8ccc34c6abd58eb8e26bfa"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/__main__.py",
+      "size_bytes": 79,
+      "sha256": "307299fda7b77d22c64cb51430ec75e5f59d78e9c948786afb3b2544fe45e4b7"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/claim_audit.py",
+      "size_bytes": 5448,
+      "sha256": "6e0eb18ced08397b478ec648d395e305ab332f1ebb028f4d08df243a71504eca"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/cli.py",
+      "size_bytes": 8228,
+      "sha256": "869e5bd88ed41eddf6109eed9f8592ccab4c2a266ffb73d115da913f04f8d440"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/compiler.py",
+      "size_bytes": 14750,
+      "sha256": "f93b81721238378a8f0c1714fd7261cd4b858fa07b5b191afb63d92a51778a68"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/consciousness.py",
+      "size_bytes": 6699,
+      "sha256": "34229ddfe4af361ddba32cc1101f1b90f7fdee78e4fa0bdb59e6ff17101e5bd9"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/contact.py",
+      "size_bytes": 4706,
+      "sha256": "1d0c1d3b49fc6e35a84ea09fe049c18daad2d4dc4fda07723b06f02ae3cb0e8d"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/__init__.py",
+      "size_bytes": 60,
+      "sha256": "c8167938a77aaa8fac09b12c6dc0f1e60723801bbcb0c771612133ffb33c3607"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/civilization_registry.json",
+      "size_bytes": 7693,
+      "sha256": "237b9fbc0de591d8fac2927f12964db1851a676bf07e8f6db16969e4232e6b55"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/claim_rules.json",
+      "size_bytes": 15556,
+      "sha256": "32acae7444e26b62b15fdeb79f657966e853c0209e01cbfc3f14a55c59ac3b20"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/consciousness_models.json",
+      "size_bytes": 25287,
+      "sha256": "67d073c10c0de43abb87bd74421fefb44cd74bd41306ac7204565aed04fa591c"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/cosmic_principles.json",
+      "size_bytes": 9488,
+      "sha256": "e6a3aed9bb413e4ceca501837ef93af877fe90b19d8dd442a20d272836d30b2f"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/dikwp_ontology.json",
+      "size_bytes": 11603,
+      "sha256": "99b5b78906af2e5bb9b97534dc3a4c5fb72a397e9fd631d799a6bf5718fd81d3"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/evidence_registry.json",
+      "size_bytes": 11798,
+      "sha256": "f56bbfa931d2fc3aa2563256531f3c3670364365b2fd105705de486d5f482776"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/data/tradition_registry.json",
+      "size_bytes": 131481,
+      "sha256": "a47285f75d81542772b5998182926b278c428c12e33313250a2db4e16e32e3de"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/mappings.py",
+      "size_bytes": 3076,
+      "sha256": "0865b5851fe5407665095b575220372d6afcb551155d7ced2eabbcd5000d423e"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/normalization.py",
+      "size_bytes": 11420,
+      "sha256": "975d7d8d2995913f00dede9f131a9d3f0eeca6f516f6f254e1b62b34248fee83"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/registries.py",
+      "size_bytes": 5224,
+      "sha256": "ed5fa6ce094ba1e30c5c1cfbd946cd38493353baed74c20124f053b95c71d61b"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/render.py",
+      "size_bytes": 25662,
+      "sha256": "f53ff79a426cb32c8f770d407bbb8b415624181b306008b72819e285aaac7084"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/utils.py",
+      "size_bytes": 4802,
+      "sha256": "8261a461ea2f966f49d855683b3fcb6cad4ab0ff8021d7f3f3f1bcda0e0c74f9"
+    },
+    {
+      "path": "src/dikwp_cosmonoesis95/verify.py",
+      "size_bytes": 3475,
+      "sha256": "72210072d3d35cb9761fd260463ab4f3b7f10ae0b71c660ed31418b913be24af"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "size_bytes": 2083,
+      "sha256": "a0c9a27f9ce46d8a52ac2dae76c7229651beb308d52ea760d8e6f897208234f8"
+    },
+    {
+      "path": "tests/test_core.py",
+      "size_bytes": 11115,
+      "sha256": "a0d9a84e3ebc1f32422f5ce1924525f62743163c980d7fbda86d5219fcf6e20f"
+    }
+  ]
+}

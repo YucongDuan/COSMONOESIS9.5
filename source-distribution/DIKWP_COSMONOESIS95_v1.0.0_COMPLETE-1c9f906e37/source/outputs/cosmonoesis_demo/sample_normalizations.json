@@ -1,0 +1,1587 @@
+{
+  "normalizations": [
+    {
+      "normalization_id": "norm-5d04838da0211b74962c",
+      "input": {
+        "term": "Brahman",
+        "context": "Advaita ultimate reality and liberation",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "K.REGULARITY": 0.25,
+        "K.WORLD_MODEL": 0.333333333333,
+        "P.COMMUNION": 0.25,
+        "W.MEANING": 0.166666666667
+      },
+      "top_coordinates": [
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.333333333333,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "K.REGULARITY",
+          "weight": 0.25,
+          "label_cn": "规律与真理主张",
+          "label_en": "Regularity and truth claim"
+        },
+        {
+          "id": "P.COMMUNION",
+          "weight": 0.25,
+          "label_cn": "合一、临在与关系实现",
+          "label_en": "Communion, presence and relational realization"
+        },
+        {
+          "id": "W.MEANING",
+          "weight": 0.166666666667,
+          "label_cn": "意义与智慧",
+          "label_en": "Meaning and wisdom"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "advaita_vedanta",
+          "tradition_name_cn": "不二论吠檀多",
+          "term": "Brahman",
+          "gloss_cn": "梵／终极实在",
+          "match_score": 1.375,
+          "vector": {
+            "K.REGULARITY": 0.25,
+            "K.WORLD_MODEL": 0.333333333333,
+            "P.COMMUNION": 0.25,
+            "W.MEANING": 0.166666666667
+          },
+          "mapping_note_cn": "归一为终极世界模型、真理主张、意义与非二关系实现。"
+        }
+      ],
+      "confidence": 0.94375,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-782aa48f964efd3c0063",
+      "input": {
+        "term": "道",
+        "context": "道家生成秩序与无为",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "I.RELATION": 0.2,
+        "K.REGULARITY": 0.2,
+        "K.WORLD_MODEL": 0.3,
+        "P.HARMONY": 0.3
+      },
+      "top_coordinates": [
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.3,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "P.HARMONY",
+          "weight": 0.3,
+          "label_cn": "和谐、正道与秩序",
+          "label_en": "Harmony, right order and alignment"
+        },
+        {
+          "id": "I.RELATION",
+          "weight": 0.2,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "K.REGULARITY",
+          "weight": 0.2,
+          "label_cn": "规律与真理主张",
+          "label_en": "Regularity and truth claim"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "philosophical_daoism",
+          "tradition_name_cn": "哲学道家",
+          "term": "道",
+          "gloss_cn": "道",
+          "match_score": 1.034483,
+          "vector": {
+            "I.RELATION": 0.2,
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.3,
+            "P.HARMONY": 0.3
+          },
+          "mapping_note_cn": "归一为生成性世界秩序、关系和协调目的，不等同物理场。"
+        }
+      ],
+      "confidence": 0.858621,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-5911e268e5cc732f26c8",
+      "input": {
+        "term": "śūnyatā",
+        "context": "Madhyamaka dependent origination",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "I.RELATION": 0.3,
+        "K.CONCEPT": 0.1,
+        "K.META": 0.4,
+        "P.LIBERATION": 0.2
+      },
+      "top_coordinates": [
+        {
+          "id": "K.META",
+          "weight": 0.4,
+          "label_cn": "反思与模型修订",
+          "label_en": "Reflection and model revision"
+        },
+        {
+          "id": "I.RELATION",
+          "weight": 0.3,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "P.LIBERATION",
+          "weight": 0.2,
+          "label_cn": "解脱、救赎与超越",
+          "label_en": "Liberation, salvation and transcendence"
+        },
+        {
+          "id": "K.CONCEPT",
+          "weight": 0.1,
+          "label_cn": "概念与范畴",
+          "label_en": "Concept and category"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "madhyamaka",
+          "tradition_name_cn": "中观",
+          "term": "śūnyatā",
+          "gloss_cn": "空性",
+          "match_score": 1.166667,
+          "vector": {
+            "I.RELATION": 0.3,
+            "K.CONCEPT": 0.1,
+            "K.META": 0.4,
+            "P.LIBERATION": 0.2
+          },
+          "mapping_note_cn": "归一为依缘、反自性和模型去实体化。"
+        }
+      ],
+      "confidence": 0.891667,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-cb094138d82ed97e2f9e",
+      "input": {
+        "term": "God",
+        "context": "Christian personal creator and communion",
+        "tradition_id": null
+      },
+      "method": "keyword_in_space_projection",
+      "vector": {
+        "I.CONTEXT": 0.08,
+        "I.RELATION": 0.16,
+        "K.CONCEPT": 0.08,
+        "K.WORLD_MODEL": 0.32,
+        "P.COMMUNION": 0.32,
+        "P.VERIFICATION": 0.04
+      },
+      "top_coordinates": [
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.32,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "P.COMMUNION",
+          "weight": 0.32,
+          "label_cn": "合一、临在与关系实现",
+          "label_en": "Communion, presence and relational realization"
+        },
+        {
+          "id": "I.RELATION",
+          "weight": 0.16,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "I.CONTEXT",
+          "weight": 0.08,
+          "label_cn": "语境与尺度",
+          "label_en": "Context and scale"
+        },
+        {
+          "id": "K.CONCEPT",
+          "weight": 0.08,
+          "label_cn": "概念与范畴",
+          "label_en": "Concept and category"
+        },
+        {
+          "id": "P.VERIFICATION",
+          "weight": 0.04,
+          "label_cn": "现实接触与校准",
+          "label_en": "Reality contact and calibration"
+        }
+      ],
+      "candidate_source_mappings": [],
+      "confidence": 0.675,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-7a8872806f003a39c3b3",
+      "input": {
+        "term": "Allah",
+        "context": "Islamic tawhid, justice and worship",
+        "tradition_id": null
+      },
+      "method": "keyword_in_space_projection",
+      "vector": {
+        "I.CONTEXT": 0.095238095238,
+        "K.CONCEPT": 0.095238095238,
+        "K.WORLD_MODEL": 0.380952380952,
+        "P.COMMUNION": 0.190476190476,
+        "P.VERIFICATION": 0.047619047619,
+        "W.NORM": 0.190476190476
+      },
+      "top_coordinates": [
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.380952380952,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "P.COMMUNION",
+          "weight": 0.190476190476,
+          "label_cn": "合一、临在与关系实现",
+          "label_en": "Communion, presence and relational realization"
+        },
+        {
+          "id": "W.NORM",
+          "weight": 0.190476190476,
+          "label_cn": "伦理与规范",
+          "label_en": "Ethics and norm"
+        },
+        {
+          "id": "I.CONTEXT",
+          "weight": 0.095238095238,
+          "label_cn": "语境与尺度",
+          "label_en": "Context and scale"
+        },
+        {
+          "id": "K.CONCEPT",
+          "weight": 0.095238095238,
+          "label_cn": "概念与范畴",
+          "label_en": "Concept and category"
+        },
+        {
+          "id": "P.VERIFICATION",
+          "weight": 0.047619047619,
+          "label_cn": "现实接触与校准",
+          "label_en": "Reality contact and calibration"
+        }
+      ],
+      "candidate_source_mappings": [],
+      "confidence": 0.615,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-065239a326f79df54aba",
+      "input": {
+        "term": "Asha",
+        "context": "Zoroastrian truth and right order",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "I.PATTERN": 0.1,
+        "K.REGULARITY": 0.3,
+        "P.HARMONY": 0.3,
+        "W.NORM": 0.3
+      },
+      "top_coordinates": [
+        {
+          "id": "K.REGULARITY",
+          "weight": 0.3,
+          "label_cn": "规律与真理主张",
+          "label_en": "Regularity and truth claim"
+        },
+        {
+          "id": "P.HARMONY",
+          "weight": 0.3,
+          "label_cn": "和谐、正道与秩序",
+          "label_en": "Harmony, right order and alignment"
+        },
+        {
+          "id": "W.NORM",
+          "weight": 0.3,
+          "label_cn": "伦理与规范",
+          "label_en": "Ethics and norm"
+        },
+        {
+          "id": "I.PATTERN",
+          "weight": 0.1,
+          "label_cn": "模式与秩序",
+          "label_en": "Pattern and order"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "zoroastrianism",
+          "tradition_name_cn": "琐罗亚斯德教",
+          "term": "Asha",
+          "gloss_cn": "真理／正序",
+          "match_score": 1.625,
+          "vector": {
+            "I.PATTERN": 0.1,
+            "K.REGULARITY": 0.3,
+            "P.HARMONY": 0.3,
+            "W.NORM": 0.3
+          },
+          "mapping_note_cn": "归一为描述—规范—目的相连的正序。"
+        }
+      ],
+      "confidence": 0.98,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-72de1c4b034c1d375dbb",
+      "input": {
+        "term": "Ik Oankar",
+        "context": "Sikh one reality and remembrance",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "K.REGULARITY": 0.2,
+        "K.WORLD_MODEL": 0.4,
+        "P.COMMUNION": 0.3,
+        "W.MEANING": 0.1
+      },
+      "top_coordinates": [
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.4,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "P.COMMUNION",
+          "weight": 0.3,
+          "label_cn": "合一、临在与关系实现",
+          "label_en": "Communion, presence and relational realization"
+        },
+        {
+          "id": "K.REGULARITY",
+          "weight": 0.2,
+          "label_cn": "规律与真理主张",
+          "label_en": "Regularity and truth claim"
+        },
+        {
+          "id": "W.MEANING",
+          "weight": 0.1,
+          "label_cn": "意义与智慧",
+          "label_en": "Meaning and wisdom"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "sikhism",
+          "tradition_name_cn": "锡克教",
+          "term": "Ik Oankar",
+          "gloss_cn": "唯一实在／一神",
+          "match_score": 1.444444,
+          "vector": {
+            "K.REGULARITY": 0.2,
+            "K.WORLD_MODEL": 0.4,
+            "P.COMMUNION": 0.3,
+            "W.MEANING": 0.1
+          },
+          "mapping_note_cn": "归一为统一终极世界模型和关系目的。"
+        }
+      ],
+      "confidence": 0.961111,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-1cde645c50e127db34e5",
+      "input": {
+        "term": "kami",
+        "context": "Shinto relational presence and ritual",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "D.OBSERVATION": 0.1,
+        "I.RELATION": 0.3,
+        "P.HARMONY": 0.2,
+        "W.MEANING": 0.2,
+        "W.VALENCE": 0.2
+      },
+      "top_coordinates": [
+        {
+          "id": "I.RELATION",
+          "weight": 0.3,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "P.HARMONY",
+          "weight": 0.2,
+          "label_cn": "和谐、正道与秩序",
+          "label_en": "Harmony, right order and alignment"
+        },
+        {
+          "id": "W.MEANING",
+          "weight": 0.2,
+          "label_cn": "意义与智慧",
+          "label_en": "Meaning and wisdom"
+        },
+        {
+          "id": "W.VALENCE",
+          "weight": 0.2,
+          "label_cn": "苦乐与价值感受",
+          "label_en": "Valence and felt value"
+        },
+        {
+          "id": "D.OBSERVATION",
+          "weight": 0.1,
+          "label_cn": "观察与见证",
+          "label_en": "Observation and testimony"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "shinto",
+          "tradition_name_cn": "神道",
+          "term": "kami",
+          "gloss_cn": "神／灵威临在",
+          "match_score": 1.25,
+          "vector": {
+            "D.OBSERVATION": 0.1,
+            "I.RELATION": 0.3,
+            "P.HARMONY": 0.2,
+            "W.MEANING": 0.2,
+            "W.VALENCE": 0.2
+          },
+          "mapping_note_cn": "归一为关系临在、敬畏和地方意义；不自动认证为独立意识体。"
+        }
+      ],
+      "confidence": 0.9125,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-037de92c5901bd43e640",
+      "input": {
+        "term": "ubuntu",
+        "context": "relational personhood and communal flourishing",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "I.RELATION": 0.4,
+        "K.SELF_MODEL": 0.2,
+        "P.FLOURISHING": 0.2,
+        "W.NORM": 0.2
+      },
+      "top_coordinates": [
+        {
+          "id": "I.RELATION",
+          "weight": 0.4,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "K.SELF_MODEL",
+          "weight": 0.2,
+          "label_cn": "自我与主体模型",
+          "label_en": "Self and subject model"
+        },
+        {
+          "id": "P.FLOURISHING",
+          "weight": 0.2,
+          "label_cn": "生命完善与共同繁荣",
+          "label_en": "Flourishing and collective good"
+        },
+        {
+          "id": "W.NORM",
+          "weight": 0.2,
+          "label_cn": "伦理与规范",
+          "label_en": "Ethics and norm"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "ubuntu",
+          "tradition_name_cn": "Ubuntu关系伦理",
+          "term": "ubuntu",
+          "gloss_cn": "共同人性／关系成人",
+          "match_score": 1.375,
+          "vector": {
+            "I.RELATION": 0.4,
+            "K.SELF_MODEL": 0.2,
+            "P.FLOURISHING": 0.2,
+            "W.NORM": 0.2
+          },
+          "mapping_note_cn": "归一为关系主体、伦理与共同善。"
+        }
+      ],
+      "confidence": 0.94375,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-8731f4490b3edcf8d745",
+      "input": {
+        "term": "whakapapa",
+        "context": "genealogy, land and identity",
+        "tradition_id": null
+      },
+      "method": "registry_exact_or_contextual_alignment",
+      "vector": {
+        "D.HISTORY": 0.4,
+        "I.RELATION": 0.3,
+        "K.SELF_MODEL": 0.2,
+        "P.CONTINUITY": 0.1
+      },
+      "top_coordinates": [
+        {
+          "id": "D.HISTORY",
+          "weight": 0.4,
+          "label_cn": "历史与谱系记录",
+          "label_en": "History and lineage record"
+        },
+        {
+          "id": "I.RELATION",
+          "weight": 0.3,
+          "label_cn": "关系与互依",
+          "label_en": "Relation and interdependence"
+        },
+        {
+          "id": "K.SELF_MODEL",
+          "weight": 0.2,
+          "label_cn": "自我与主体模型",
+          "label_en": "Self and subject model"
+        },
+        {
+          "id": "P.CONTINUITY",
+          "weight": 0.1,
+          "label_cn": "记忆、传承与后继自由",
+          "label_en": "Continuity, transmission and successor freedom"
+        }
+      ],
+      "candidate_source_mappings": [
+        {
+          "tradition_id": "maori_worldview",
+          "tradition_name_cn": "毛利世界观",
+          "term": "whakapapa",
+          "gloss_cn": "谱系与关系序列",
+          "match_score": 1.107143,
+          "vector": {
+            "D.HISTORY": 0.4,
+            "I.RELATION": 0.3,
+            "K.SELF_MODEL": 0.2,
+            "P.CONTINUITY": 0.1
+          },
+          "mapping_note_cn": "归一为历史—关系—身份世界线。"
+        }
+      ],
+      "confidence": 0.876786,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "normalization_id": "norm-8baeea210c19bd15bb20",
+      "input": {
+        "term": "宇宙意识",
+        "context": "multiple competing scientific, philosophical and theological models",
+        "tradition_id": null
+      },
+      "method": "keyword_in_space_projection",
+      "vector": {
+        "I.CONTEXT": 0.153846153846,
+        "K.CONCEPT": 0.153846153846,
+        "K.SELF_MODEL": 0.307692307692,
+        "K.WORLD_MODEL": 0.307692307692,
+        "P.VERIFICATION": 0.076923076923
+      },
+      "top_coordinates": [
+        {
+          "id": "K.SELF_MODEL",
+          "weight": 0.307692307692,
+          "label_cn": "自我与主体模型",
+          "label_en": "Self and subject model"
+        },
+        {
+          "id": "K.WORLD_MODEL",
+          "weight": 0.307692307692,
+          "label_cn": "宇宙与世界模型",
+          "label_en": "Cosmos and world model"
+        },
+        {
+          "id": "I.CONTEXT",
+          "weight": 0.153846153846,
+          "label_cn": "语境与尺度",
+          "label_en": "Context and scale"
+        },
+        {
+          "id": "K.CONCEPT",
+          "weight": 0.153846153846,
+          "label_cn": "概念与范畴",
+          "label_en": "Concept and category"
+        },
+        {
+          "id": "P.VERIFICATION",
+          "weight": 0.076923076923,
+          "label_cn": "现实接触与校准",
+          "label_en": "Reality contact and calibration"
+        }
+      ],
+      "candidate_source_mappings": [],
+      "confidence": 0.495,
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0,
+      "historical_identity_claim": false,
+      "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+      "automatic_external_action_authority": 0
+    }
+  ],
+  "comparisons": [
+    {
+      "a": {
+        "normalization_id": "norm-ed385ef32d44bfde0253",
+        "input": {
+          "term": "Brahman",
+          "context": "Advaita",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "K.REGULARITY": 0.25,
+          "K.WORLD_MODEL": 0.333333333333,
+          "P.COMMUNION": 0.25,
+          "W.MEANING": 0.166666666667
+        },
+        "top_coordinates": [
+          {
+            "id": "K.WORLD_MODEL",
+            "weight": 0.333333333333,
+            "label_cn": "宇宙与世界模型",
+            "label_en": "Cosmos and world model"
+          },
+          {
+            "id": "K.REGULARITY",
+            "weight": 0.25,
+            "label_cn": "规律与真理主张",
+            "label_en": "Regularity and truth claim"
+          },
+          {
+            "id": "P.COMMUNION",
+            "weight": 0.25,
+            "label_cn": "合一、临在与关系实现",
+            "label_en": "Communion, presence and relational realization"
+          },
+          {
+            "id": "W.MEANING",
+            "weight": 0.166666666667,
+            "label_cn": "意义与智慧",
+            "label_en": "Meaning and wisdom"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "advaita_vedanta",
+            "tradition_name_cn": "不二论吠檀多",
+            "term": "Brahman",
+            "gloss_cn": "梵／终极实在",
+            "match_score": 1.166667,
+            "vector": {
+              "K.REGULARITY": 0.25,
+              "K.WORLD_MODEL": 0.333333333333,
+              "P.COMMUNION": 0.25,
+              "W.MEANING": 0.166666666667
+            },
+            "mapping_note_cn": "归一为终极世界模型、真理主张、意义与非二关系实现。"
+          }
+        ],
+        "confidence": 0.891667,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "b": {
+        "normalization_id": "norm-9cbaf560af9d6149fb64",
+        "input": {
+          "term": "God",
+          "context": "Christianity",
+          "tradition_id": null
+        },
+        "method": "keyword_in_space_projection",
+        "vector": {
+          "I.CONTEXT": 0.222222222222,
+          "K.CONCEPT": 0.222222222222,
+          "K.WORLD_MODEL": 0.444444444444,
+          "P.VERIFICATION": 0.111111111111
+        },
+        "top_coordinates": [
+          {
+            "id": "K.WORLD_MODEL",
+            "weight": 0.444444444444,
+            "label_cn": "宇宙与世界模型",
+            "label_en": "Cosmos and world model"
+          },
+          {
+            "id": "I.CONTEXT",
+            "weight": 0.222222222222,
+            "label_cn": "语境与尺度",
+            "label_en": "Context and scale"
+          },
+          {
+            "id": "K.CONCEPT",
+            "weight": 0.222222222222,
+            "label_cn": "概念与范畴",
+            "label_en": "Concept and category"
+          },
+          {
+            "id": "P.VERIFICATION",
+            "weight": 0.111111111111,
+            "label_cn": "现实接触与校准",
+            "label_en": "Reality contact and calibration"
+          }
+        ],
+        "candidate_source_mappings": [],
+        "confidence": 0.435,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "comparison": {
+        "cosine_similarity": 0.51910855,
+        "l1_distance": 1.33333333,
+        "a_more_weighted": [
+          {
+            "coordinate": "K.REGULARITY",
+            "difference": 0.25
+          },
+          {
+            "coordinate": "P.COMMUNION",
+            "difference": 0.25
+          },
+          {
+            "coordinate": "W.MEANING",
+            "difference": 0.16666667
+          }
+        ],
+        "b_more_weighted": [
+          {
+            "coordinate": "I.CONTEXT",
+            "difference": 0.22222222
+          },
+          {
+            "coordinate": "K.CONCEPT",
+            "difference": 0.22222222
+          },
+          {
+            "coordinate": "K.WORLD_MODEL",
+            "difference": 0.11111111
+          },
+          {
+            "coordinate": "P.VERIFICATION",
+            "difference": 0.11111111
+          }
+        ],
+        "difference_vector": {
+          "I.CONTEXT": -0.222222222222,
+          "K.CONCEPT": -0.222222222222,
+          "K.REGULARITY": 0.25,
+          "K.WORLD_MODEL": -0.111111111111,
+          "P.COMMUNION": 0.25,
+          "P.VERIFICATION": -0.111111111111,
+          "W.MEANING": 0.166666666667
+        },
+        "difference_is_inside_dikwp_space": true,
+        "equivalence_claim": false
+      },
+      "interpretation_cn": "相似度表示在统一 DIKWP 坐标中的结构接近程度，不证明两个术语在历史、神学、本体或实践上完全同一。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "a": {
+        "normalization_id": "norm-61b371f094ac0e28e49d",
+        "input": {
+          "term": "道",
+          "context": "Daoist generative order",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.RELATION": 0.2,
+          "K.REGULARITY": 0.2,
+          "K.WORLD_MODEL": 0.3,
+          "P.HARMONY": 0.3
+        },
+        "top_coordinates": [
+          {
+            "id": "K.WORLD_MODEL",
+            "weight": 0.3,
+            "label_cn": "宇宙与世界模型",
+            "label_en": "Cosmos and world model"
+          },
+          {
+            "id": "P.HARMONY",
+            "weight": 0.3,
+            "label_cn": "和谐、正道与秩序",
+            "label_en": "Harmony, right order and alignment"
+          },
+          {
+            "id": "I.RELATION",
+            "weight": 0.2,
+            "label_cn": "关系与互依",
+            "label_en": "Relation and interdependence"
+          },
+          {
+            "id": "K.REGULARITY",
+            "weight": 0.2,
+            "label_cn": "规律与真理主张",
+            "label_en": "Regularity and truth claim"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "philosophical_daoism",
+            "tradition_name_cn": "哲学道家",
+            "term": "道",
+            "gloss_cn": "道",
+            "match_score": 1.166667,
+            "vector": {
+              "I.RELATION": 0.2,
+              "K.REGULARITY": 0.2,
+              "K.WORLD_MODEL": 0.3,
+              "P.HARMONY": 0.3
+            },
+            "mapping_note_cn": "归一为生成性世界秩序、关系和协调目的，不等同物理场。"
+          }
+        ],
+        "confidence": 0.891667,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "b": {
+        "normalization_id": "norm-065239a326f79df54aba",
+        "input": {
+          "term": "Asha",
+          "context": "Zoroastrian truth and right order",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.PATTERN": 0.1,
+          "K.REGULARITY": 0.3,
+          "P.HARMONY": 0.3,
+          "W.NORM": 0.3
+        },
+        "top_coordinates": [
+          {
+            "id": "K.REGULARITY",
+            "weight": 0.3,
+            "label_cn": "规律与真理主张",
+            "label_en": "Regularity and truth claim"
+          },
+          {
+            "id": "P.HARMONY",
+            "weight": 0.3,
+            "label_cn": "和谐、正道与秩序",
+            "label_en": "Harmony, right order and alignment"
+          },
+          {
+            "id": "W.NORM",
+            "weight": 0.3,
+            "label_cn": "伦理与规范",
+            "label_en": "Ethics and norm"
+          },
+          {
+            "id": "I.PATTERN",
+            "weight": 0.1,
+            "label_cn": "模式与秩序",
+            "label_en": "Pattern and order"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "zoroastrianism",
+            "tradition_name_cn": "琐罗亚斯德教",
+            "term": "Asha",
+            "gloss_cn": "真理／正序",
+            "match_score": 1.625,
+            "vector": {
+              "I.PATTERN": 0.1,
+              "K.REGULARITY": 0.3,
+              "P.HARMONY": 0.3,
+              "W.NORM": 0.3
+            },
+            "mapping_note_cn": "归一为描述—规范—目的相连的正序。"
+          }
+        ],
+        "confidence": 0.98,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "comparison": {
+        "cosine_similarity": 0.55593699,
+        "l1_distance": 1.0,
+        "a_more_weighted": [
+          {
+            "coordinate": "K.WORLD_MODEL",
+            "difference": 0.3
+          },
+          {
+            "coordinate": "I.RELATION",
+            "difference": 0.2
+          }
+        ],
+        "b_more_weighted": [
+          {
+            "coordinate": "W.NORM",
+            "difference": 0.3
+          },
+          {
+            "coordinate": "I.PATTERN",
+            "difference": 0.1
+          },
+          {
+            "coordinate": "K.REGULARITY",
+            "difference": 0.1
+          }
+        ],
+        "difference_vector": {
+          "I.PATTERN": -0.1,
+          "I.RELATION": 0.2,
+          "K.REGULARITY": -0.1,
+          "K.WORLD_MODEL": 0.3,
+          "P.HARMONY": 0.0,
+          "W.NORM": -0.3
+        },
+        "difference_is_inside_dikwp_space": true,
+        "equivalence_claim": false
+      },
+      "interpretation_cn": "相似度表示在统一 DIKWP 坐标中的结构接近程度，不证明两个术语在历史、神学、本体或实践上完全同一。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "a": {
+        "normalization_id": "norm-240cc2d307937b25a811",
+        "input": {
+          "term": "空性",
+          "context": "Madhyamaka",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.RELATION": 0.3,
+          "K.CONCEPT": 0.1,
+          "K.META": 0.4,
+          "P.LIBERATION": 0.2
+        },
+        "top_coordinates": [
+          {
+            "id": "K.META",
+            "weight": 0.4,
+            "label_cn": "反思与模型修订",
+            "label_en": "Reflection and model revision"
+          },
+          {
+            "id": "I.RELATION",
+            "weight": 0.3,
+            "label_cn": "关系与互依",
+            "label_en": "Relation and interdependence"
+          },
+          {
+            "id": "P.LIBERATION",
+            "weight": 0.2,
+            "label_cn": "解脱、救赎与超越",
+            "label_en": "Liberation, salvation and transcendence"
+          },
+          {
+            "id": "K.CONCEPT",
+            "weight": 0.1,
+            "label_cn": "概念与范畴",
+            "label_en": "Concept and category"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "madhyamaka",
+            "tradition_name_cn": "中观",
+            "term": "śūnyatā",
+            "gloss_cn": "空性",
+            "match_score": 1.25,
+            "vector": {
+              "I.RELATION": 0.3,
+              "K.CONCEPT": 0.1,
+              "K.META": 0.4,
+              "P.LIBERATION": 0.2
+            },
+            "mapping_note_cn": "归一为依缘、反自性和模型去实体化。"
+          }
+        ],
+        "confidence": 0.9125,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "b": {
+        "normalization_id": "norm-bf5b19a64f4934601e8e",
+        "input": {
+          "term": "无我",
+          "context": "Theravada",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.BOUNDARY": 0.2,
+          "K.META": 0.3,
+          "K.SELF_MODEL": 0.3,
+          "P.LIBERATION": 0.2
+        },
+        "top_coordinates": [
+          {
+            "id": "K.META",
+            "weight": 0.3,
+            "label_cn": "反思与模型修订",
+            "label_en": "Reflection and model revision"
+          },
+          {
+            "id": "K.SELF_MODEL",
+            "weight": 0.3,
+            "label_cn": "自我与主体模型",
+            "label_en": "Self and subject model"
+          },
+          {
+            "id": "I.BOUNDARY",
+            "weight": 0.2,
+            "label_cn": "边界与身份",
+            "label_en": "Boundary and identity"
+          },
+          {
+            "id": "P.LIBERATION",
+            "weight": 0.2,
+            "label_cn": "解脱、救赎与超越",
+            "label_en": "Liberation, salvation and transcendence"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "theravada_buddhism",
+            "tradition_name_cn": "上座部佛教",
+            "term": "anattā",
+            "gloss_cn": "无我",
+            "match_score": 1.25,
+            "vector": {
+              "I.BOUNDARY": 0.2,
+              "K.META": 0.3,
+              "K.SELF_MODEL": 0.3,
+              "P.LIBERATION": 0.2
+            },
+            "mapping_note_cn": "归一为对实体自我模型的修订。"
+          }
+        ],
+        "confidence": 0.9125,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "comparison": {
+        "cosine_similarity": 0.5728919,
+        "l1_distance": 1.0,
+        "a_more_weighted": [
+          {
+            "coordinate": "I.RELATION",
+            "difference": 0.3
+          },
+          {
+            "coordinate": "K.CONCEPT",
+            "difference": 0.1
+          },
+          {
+            "coordinate": "K.META",
+            "difference": 0.1
+          }
+        ],
+        "b_more_weighted": [
+          {
+            "coordinate": "K.SELF_MODEL",
+            "difference": 0.3
+          },
+          {
+            "coordinate": "I.BOUNDARY",
+            "difference": 0.2
+          }
+        ],
+        "difference_vector": {
+          "I.BOUNDARY": -0.2,
+          "I.RELATION": 0.3,
+          "K.CONCEPT": 0.1,
+          "K.META": 0.1,
+          "K.SELF_MODEL": -0.3,
+          "P.LIBERATION": 0.0
+        },
+        "difference_is_inside_dikwp_space": true,
+        "equivalence_claim": false
+      },
+      "interpretation_cn": "相似度表示在统一 DIKWP 坐标中的结构接近程度，不证明两个术语在历史、神学、本体或实践上完全同一。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "a": {
+        "normalization_id": "norm-c8323362b04dc8a1431a",
+        "input": {
+          "term": "气",
+          "context": "Daoist cultivation concept",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "D.BODY": 0.25023923445,
+          "I.CONTEXT": 0.1004784689,
+          "I.PATTERN": 0.3,
+          "I.RELATION": 0.0995215311,
+          "K.CAUSE": 0.2,
+          "P.HARMONY": 0.04976076555
+        },
+        "top_coordinates": [
+          {
+            "id": "I.PATTERN",
+            "weight": 0.3,
+            "label_cn": "模式与秩序",
+            "label_en": "Pattern and order"
+          },
+          {
+            "id": "D.BODY",
+            "weight": 0.25023923445,
+            "label_cn": "身体与物质条件",
+            "label_en": "Body and material condition"
+          },
+          {
+            "id": "K.CAUSE",
+            "weight": 0.2,
+            "label_cn": "因果与生成",
+            "label_en": "Causation and generation"
+          },
+          {
+            "id": "I.CONTEXT",
+            "weight": 0.1004784689,
+            "label_cn": "语境与尺度",
+            "label_en": "Context and scale"
+          },
+          {
+            "id": "I.RELATION",
+            "weight": 0.0995215311,
+            "label_cn": "关系与互依",
+            "label_en": "Relation and interdependence"
+          },
+          {
+            "id": "P.HARMONY",
+            "weight": 0.04976076555,
+            "label_cn": "和谐、正道与秩序",
+            "label_en": "Harmony, right order and alignment"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "neo_confucianism",
+            "tradition_name_cn": "宋明理学与心学",
+            "term": "气",
+            "gloss_cn": "气／具体化过程",
+            "match_score": 1.05,
+            "vector": {
+              "D.BODY": 0.3,
+              "I.CONTEXT": 0.2,
+              "I.PATTERN": 0.3,
+              "K.CAUSE": 0.2
+            },
+            "mapping_note_cn": "归一为具体化和差异条件，不等同现代物理能量。"
+          },
+          {
+            "tradition_id": "religious_daoism",
+            "tradition_name_cn": "道教修炼与宗教传统",
+            "term": "气",
+            "gloss_cn": "气／生命过程概念",
+            "match_score": 1.04,
+            "vector": {
+              "D.BODY": 0.2,
+              "I.PATTERN": 0.3,
+              "I.RELATION": 0.2,
+              "K.CAUSE": 0.2,
+              "P.HARMONY": 0.1
+            },
+            "mapping_note_cn": "归一为身体—环境过程、模式和调节概念；默认不等同标准模型力场。"
+          }
+        ],
+        "confidence": 0.9125,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "b": {
+        "normalization_id": "norm-0e6cac7e922aa5ba4c9f",
+        "input": {
+          "term": "gluon field",
+          "context": "quantum chromodynamics",
+          "tradition_id": null
+        },
+        "method": "provisional_in_space_extension",
+        "vector": {
+          "I.CONTEXT": 0.111111111111,
+          "I.TRANSLATION": 0.111111111111,
+          "K.CONCEPT": 0.333333333333,
+          "K.META": 0.222222222222,
+          "P.VERIFICATION": 0.111111111111,
+          "W.MEANING": 0.111111111111
+        },
+        "top_coordinates": [
+          {
+            "id": "K.CONCEPT",
+            "weight": 0.333333333333,
+            "label_cn": "概念与范畴",
+            "label_en": "Concept and category"
+          },
+          {
+            "id": "K.META",
+            "weight": 0.222222222222,
+            "label_cn": "反思与模型修订",
+            "label_en": "Reflection and model revision"
+          },
+          {
+            "id": "I.CONTEXT",
+            "weight": 0.111111111111,
+            "label_cn": "语境与尺度",
+            "label_en": "Context and scale"
+          },
+          {
+            "id": "I.TRANSLATION",
+            "weight": 0.111111111111,
+            "label_cn": "翻译与对齐",
+            "label_en": "Translation and alignment"
+          },
+          {
+            "id": "P.VERIFICATION",
+            "weight": 0.111111111111,
+            "label_cn": "现实接触与校准",
+            "label_en": "Reality contact and calibration"
+          },
+          {
+            "id": "W.MEANING",
+            "weight": 0.111111111111,
+            "label_cn": "意义与智慧",
+            "label_en": "Meaning and wisdom"
+          }
+        ],
+        "candidate_source_mappings": [],
+        "confidence": 0.25,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "comparison": {
+        "cosine_similarity": 0.05254509,
+        "l1_distance": 1.79904306,
+        "a_more_weighted": [
+          {
+            "coordinate": "I.PATTERN",
+            "difference": 0.3
+          },
+          {
+            "coordinate": "D.BODY",
+            "difference": 0.25023923
+          },
+          {
+            "coordinate": "K.CAUSE",
+            "difference": 0.2
+          },
+          {
+            "coordinate": "I.RELATION",
+            "difference": 0.09952153
+          },
+          {
+            "coordinate": "P.HARMONY",
+            "difference": 0.04976077
+          }
+        ],
+        "b_more_weighted": [
+          {
+            "coordinate": "K.CONCEPT",
+            "difference": 0.33333333
+          },
+          {
+            "coordinate": "K.META",
+            "difference": 0.22222222
+          },
+          {
+            "coordinate": "I.TRANSLATION",
+            "difference": 0.11111111
+          },
+          {
+            "coordinate": "P.VERIFICATION",
+            "difference": 0.11111111
+          },
+          {
+            "coordinate": "W.MEANING",
+            "difference": 0.11111111
+          },
+          {
+            "coordinate": "I.CONTEXT",
+            "difference": 0.01063264
+          }
+        ],
+        "difference_vector": {
+          "D.BODY": 0.25023923445,
+          "I.CONTEXT": -0.010632642211,
+          "I.PATTERN": 0.3,
+          "I.RELATION": 0.0995215311,
+          "I.TRANSLATION": -0.111111111111,
+          "K.CAUSE": 0.2,
+          "K.CONCEPT": -0.333333333333,
+          "K.META": -0.222222222222,
+          "P.HARMONY": 0.04976076555,
+          "P.VERIFICATION": -0.111111111111,
+          "W.MEANING": -0.111111111111
+        },
+        "difference_is_inside_dikwp_space": true,
+        "equivalence_claim": false
+      },
+      "interpretation_cn": "相似度表示在统一 DIKWP 坐标中的结构接近程度，不证明两个术语在历史、神学、本体或实践上完全同一。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "a": {
+        "normalization_id": "norm-d2bf2e0f5d9e856de327",
+        "input": {
+          "term": "ubuntu",
+          "context": "African relational ethics",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.RELATION": 0.4,
+          "K.SELF_MODEL": 0.2,
+          "P.FLOURISHING": 0.2,
+          "W.NORM": 0.2
+        },
+        "top_coordinates": [
+          {
+            "id": "I.RELATION",
+            "weight": 0.4,
+            "label_cn": "关系与互依",
+            "label_en": "Relation and interdependence"
+          },
+          {
+            "id": "K.SELF_MODEL",
+            "weight": 0.2,
+            "label_cn": "自我与主体模型",
+            "label_en": "Self and subject model"
+          },
+          {
+            "id": "P.FLOURISHING",
+            "weight": 0.2,
+            "label_cn": "生命完善与共同繁荣",
+            "label_en": "Flourishing and collective good"
+          },
+          {
+            "id": "W.NORM",
+            "weight": 0.2,
+            "label_cn": "伦理与规范",
+            "label_en": "Ethics and norm"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "ubuntu",
+            "tradition_name_cn": "Ubuntu关系伦理",
+            "term": "ubuntu",
+            "gloss_cn": "共同人性／关系成人",
+            "match_score": 1.285714,
+            "vector": {
+              "I.RELATION": 0.4,
+              "K.SELF_MODEL": 0.2,
+              "P.FLOURISHING": 0.2,
+              "W.NORM": 0.2
+            },
+            "mapping_note_cn": "归一为关系主体、伦理与共同善。"
+          }
+        ],
+        "confidence": 0.921429,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "b": {
+        "normalization_id": "norm-eb75d884ee712a685c62",
+        "input": {
+          "term": "仁",
+          "context": "Confucian humaneness",
+          "tradition_id": null
+        },
+        "method": "registry_exact_or_contextual_alignment",
+        "vector": {
+          "I.RELATION": 0.2,
+          "P.FLOURISHING": 0.3,
+          "W.NORM": 0.3,
+          "W.VALENCE": 0.2
+        },
+        "top_coordinates": [
+          {
+            "id": "P.FLOURISHING",
+            "weight": 0.3,
+            "label_cn": "生命完善与共同繁荣",
+            "label_en": "Flourishing and collective good"
+          },
+          {
+            "id": "W.NORM",
+            "weight": 0.3,
+            "label_cn": "伦理与规范",
+            "label_en": "Ethics and norm"
+          },
+          {
+            "id": "I.RELATION",
+            "weight": 0.2,
+            "label_cn": "关系与互依",
+            "label_en": "Relation and interdependence"
+          },
+          {
+            "id": "W.VALENCE",
+            "weight": 0.2,
+            "label_cn": "苦乐与价值感受",
+            "label_en": "Valence and felt value"
+          }
+        ],
+        "candidate_source_mappings": [
+          {
+            "tradition_id": "classical_confucianism",
+            "tradition_name_cn": "古典儒家",
+            "term": "仁",
+            "gloss_cn": "仁",
+            "match_score": 1.666667,
+            "vector": {
+              "I.RELATION": 0.2,
+              "P.FLOURISHING": 0.3,
+              "W.NORM": 0.3,
+              "W.VALENCE": 0.2
+            },
+            "mapping_note_cn": "归一为关怀价值、关系规范和共同善。"
+          }
+        ],
+        "confidence": 0.98,
+        "normalization_status": "complete_in_dikwp_space",
+        "out_of_space_residual": 0.0,
+        "historical_identity_claim": false,
+        "translation_loss_cn": "差异已表示在空间内的坐标权重、语境与候选来源中；低置信度表示需要更多语境，不表示存在空间外不可互译对象。",
+        "automatic_external_action_authority": 0
+      },
+      "comparison": {
+        "cosine_similarity": 0.74124932,
+        "l1_distance": 0.8,
+        "a_more_weighted": [
+          {
+            "coordinate": "I.RELATION",
+            "difference": 0.2
+          },
+          {
+            "coordinate": "K.SELF_MODEL",
+            "difference": 0.2
+          }
+        ],
+        "b_more_weighted": [
+          {
+            "coordinate": "W.VALENCE",
+            "difference": 0.2
+          },
+          {
+            "coordinate": "P.FLOURISHING",
+            "difference": 0.1
+          },
+          {
+            "coordinate": "W.NORM",
+            "difference": 0.1
+          }
+        ],
+        "difference_vector": {
+          "I.RELATION": 0.2,
+          "K.SELF_MODEL": 0.2,
+          "P.FLOURISHING": -0.1,
+          "W.NORM": -0.1,
+          "W.VALENCE": -0.2
+        },
+        "difference_is_inside_dikwp_space": true,
+        "equivalence_claim": false
+      },
+      "interpretation_cn": "相似度表示在统一 DIKWP 坐标中的结构接近程度，不证明两个术语在历史、神学、本体或实践上完全同一。",
+      "automatic_external_action_authority": 0
+    }
+  ]
+}

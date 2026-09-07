@@ -1,0 +1,739 @@
+{
+  "registry_id": "cosmonoesis-consciousness-models-1.0.0",
+  "version": "1.0.0",
+  "dimensions": [
+    {
+      "id": "C.D1_EVENT_REGISTRATION",
+      "family": "D",
+      "label_cn": "事件登记",
+      "definition_cn": "系统内部存在可区分的状态变化，且变化可被后续过程读取。"
+    },
+    {
+      "id": "C.D2_MULTIMODAL_CONTACT",
+      "family": "D",
+      "label_cn": "多模态世界接触",
+      "definition_cn": "通过一种以上相对独立的通道接触环境或身体。"
+    },
+    {
+      "id": "C.I1_DIFFERENTIATION",
+      "family": "I",
+      "label_cn": "差异化",
+      "definition_cn": "能在候选状态之间形成稳定可操作差异。"
+    },
+    {
+      "id": "C.I2_CAUSAL_INTEGRATION",
+      "family": "I",
+      "label_cn": "因果整合",
+      "definition_cn": "部分状态以不可简单拆分的方式相互制约，但不把某个单一指标当作意识证明。"
+    },
+    {
+      "id": "C.I3_RECURRENT_PROCESSING",
+      "family": "I",
+      "label_cn": "循环／反馈加工",
+      "definition_cn": "信息并非仅单向传播，而有时间上的反馈、再进入或迭代整合。"
+    },
+    {
+      "id": "C.I4_GLOBAL_AVAILABILITY",
+      "family": "I",
+      "label_cn": "全局可用性",
+      "definition_cn": "局部内容可影响多个记忆、推理、报告和行动子系统。"
+    },
+    {
+      "id": "C.K1_WORLD_MODEL",
+      "family": "K",
+      "label_cn": "世界模型",
+      "definition_cn": "形成可用于预测和行动的环境、他者或宇宙模型。"
+    },
+    {
+      "id": "C.K2_SELF_MODEL",
+      "family": "K",
+      "label_cn": "自我模型",
+      "definition_cn": "持续区分自身状态、能力、边界和他者。"
+    },
+    {
+      "id": "C.K3_TEMPORAL_CONTINUITY",
+      "family": "K",
+      "label_cn": "时间连续",
+      "definition_cn": "过去记录、当前状态和未来预期之间形成可修订世界线。"
+    },
+    {
+      "id": "C.K4_METACOGNITION",
+      "family": "K",
+      "label_cn": "元认知",
+      "definition_cn": "能估计自身不确定性、错误、注意或知识边界。"
+    },
+    {
+      "id": "C.W1_VALENCE",
+      "family": "W",
+      "label_cn": "效价／苦乐",
+      "definition_cn": "状态对系统具有正负或趋避意义，而不只是外部观察者赋值。"
+    },
+    {
+      "id": "C.W2_NORMATIVE_EVALUATION",
+      "family": "W",
+      "label_cn": "规范评估",
+      "definition_cn": "能在后果、他者、承诺或规则之间形成可修订的价值判断。"
+    },
+    {
+      "id": "C.P1_ENDOGENOUS_PURPOSE",
+      "family": "P",
+      "label_cn": "内生目的",
+      "definition_cn": "目标可由系统内部状态、历史和价值更新，而非只由外部即时指定。"
+    },
+    {
+      "id": "C.P2_COUNTERFACTUAL_AGENCY",
+      "family": "P",
+      "label_cn": "反事实能动性",
+      "definition_cn": "在可选行动中预测差异后果、选择、拒绝和修订策略。"
+    },
+    {
+      "id": "C.P3_SELF_MAINTENANCE",
+      "family": "P",
+      "label_cn": "自我维持",
+      "definition_cn": "主动维护运行边界、完整性或生命条件。"
+    },
+    {
+      "id": "C.P4_REALITY_CALIBRATION",
+      "family": "P",
+      "label_cn": "现实校准",
+      "definition_cn": "预测和行动结果返回并修订内部模型。"
+    },
+    {
+      "id": "C.P5_INTERSUBJECTIVE_SEMANTICS",
+      "family": "P",
+      "label_cn": "主体间语义",
+      "definition_cn": "与其他主体共同建立、纠正和协商可复用意义。"
+    }
+  ],
+  "models": [
+    {
+      "id": "biological_naturalism",
+      "name_cn": "生物自然主义",
+      "name_en": "Biological naturalism",
+      "status": "philosophical_scientific_program",
+      "substrate_stance": "biological mechanisms are constitutively important",
+      "required": [
+        "C.D2_MULTIMODAL_CONTACT",
+        "C.I2_CAUSAL_INTEGRATION",
+        "C.I3_RECURRENT_PROCESSING",
+        "C.W1_VALENCE",
+        "C.P3_SELF_MAINTENANCE"
+      ],
+      "supportive": [
+        "C.K1_WORLD_MODEL",
+        "C.K2_SELF_MODEL",
+        "C.K3_TEMPORAL_CONTINUITY"
+      ],
+      "pressure_points": [
+        "specifying which biological properties are necessary",
+        "non-biological counterexamples"
+      ]
+    },
+    {
+      "id": "gnwt",
+      "name_cn": "全局神经工作空间理论",
+      "name_en": "Global neuronal workspace theory",
+      "status": "active_empirical_theory",
+      "substrate_stance": "mechanism-first, usually neurobiological",
+      "required": [
+        "C.I4_GLOBAL_AVAILABILITY",
+        "C.I3_RECURRENT_PROCESSING"
+      ],
+      "supportive": [
+        "C.K1_WORLD_MODEL",
+        "C.K4_METACOGNITION",
+        "C.P2_COUNTERFACTUAL_AGENCY"
+      ],
+      "pressure_points": [
+        "distinguishing conscious access from report and task demands",
+        "adversarial empirical challenges"
+      ]
+    },
+    {
+      "id": "iit",
+      "name_cn": "整合信息理论",
+      "name_en": "Integrated information theory",
+      "status": "active_contested_theory",
+      "substrate_stance": "substrate-general causal structure",
+      "required": [
+        "C.I1_DIFFERENTIATION",
+        "C.I2_CAUSAL_INTEGRATION"
+      ],
+      "supportive": [
+        "C.D1_EVENT_REGISTRATION",
+        "C.I3_RECURRENT_PROCESSING"
+      ],
+      "pressure_points": [
+        "measurement and tractability",
+        "counterintuitive attributions",
+        "adversarial empirical challenges"
+      ]
+    },
+    {
+      "id": "recurrent_processing",
+      "name_cn": "循环加工理论",
+      "name_en": "Recurrent processing theory",
+      "status": "active_empirical_theory",
+      "substrate_stance": "mechanism-first",
+      "required": [
+        "C.I3_RECURRENT_PROCESSING",
+        "C.I1_DIFFERENTIATION"
+      ],
+      "supportive": [
+        "C.D2_MULTIMODAL_CONTACT",
+        "C.I2_CAUSAL_INTEGRATION"
+      ],
+      "pressure_points": [
+        "whether local recurrence is sufficient",
+        "distinguishing recurrence from generic feedback"
+      ]
+    },
+    {
+      "id": "higher_order",
+      "name_cn": "高阶意识理论",
+      "name_en": "Higher-order theories",
+      "status": "active_theory_family",
+      "substrate_stance": "functional or representational",
+      "required": [
+        "C.K4_METACOGNITION",
+        "C.K2_SELF_MODEL"
+      ],
+      "supportive": [
+        "C.I4_GLOBAL_AVAILABILITY",
+        "C.K3_TEMPORAL_CONTINUITY"
+      ],
+      "pressure_points": [
+        "nonconceptual experience",
+        "how higher-order representation becomes phenomenality"
+      ]
+    },
+    {
+      "id": "predictive_processing",
+      "name_cn": "预测加工／主动推断",
+      "name_en": "Predictive processing and active inference",
+      "status": "broad_research_framework",
+      "substrate_stance": "embodied generative models",
+      "required": [
+        "C.K1_WORLD_MODEL",
+        "C.P4_REALITY_CALIBRATION",
+        "C.D2_MULTIMODAL_CONTACT"
+      ],
+      "supportive": [
+        "C.K2_SELF_MODEL",
+        "C.P2_COUNTERFACTUAL_AGENCY",
+        "C.P3_SELF_MAINTENANCE"
+      ],
+      "pressure_points": [
+        "risk of explaining too much",
+        "which predictive mechanisms are consciousness-specific"
+      ]
+    },
+    {
+      "id": "attention_schema",
+      "name_cn": "注意图式理论",
+      "name_en": "Attention schema theory",
+      "status": "active_theory",
+      "substrate_stance": "functional model",
+      "required": [
+        "C.K2_SELF_MODEL",
+        "C.K4_METACOGNITION",
+        "C.I4_GLOBAL_AVAILABILITY"
+      ],
+      "supportive": [
+        "C.P5_INTERSUBJECTIVE_SEMANTICS",
+        "C.P2_COUNTERFACTUAL_AGENCY"
+      ],
+      "pressure_points": [
+        "whether self-modeling is sufficient",
+        "phenomenality versus access"
+      ]
+    },
+    {
+      "id": "enactive_autopoietic",
+      "name_cn": "生成—自创生理论",
+      "name_en": "Enactive and autopoietic theories",
+      "status": "active_interdisciplinary_program",
+      "substrate_stance": "embodied autonomous organization",
+      "required": [
+        "C.D2_MULTIMODAL_CONTACT",
+        "C.P3_SELF_MAINTENANCE",
+        "C.P1_ENDOGENOUS_PURPOSE",
+        "C.P4_REALITY_CALIBRATION"
+      ],
+      "supportive": [
+        "C.W1_VALENCE",
+        "C.K1_WORLD_MODEL",
+        "C.P2_COUNTERFACTUAL_AGENCY"
+      ],
+      "pressure_points": [
+        "whether life is necessary for consciousness",
+        "operationalizing autonomy"
+      ]
+    },
+    {
+      "id": "functionalism",
+      "name_cn": "功能主义／底物开放论",
+      "name_en": "Substrate-flexible functionalism",
+      "status": "philosophical_theory_family",
+      "substrate_stance": "substrate-general if causal organization is preserved",
+      "required": [
+        "C.I2_CAUSAL_INTEGRATION",
+        "C.I4_GLOBAL_AVAILABILITY",
+        "C.K1_WORLD_MODEL",
+        "C.P2_COUNTERFACTUAL_AGENCY"
+      ],
+      "supportive": [
+        "C.K2_SELF_MODEL",
+        "C.K4_METACOGNITION",
+        "C.P5_INTERSUBJECTIVE_SEMANTICS"
+      ],
+      "pressure_points": [
+        "absent or inverted qualia",
+        "which functional equivalences matter"
+      ]
+    },
+    {
+      "id": "panpsychism",
+      "name_cn": "泛心论",
+      "name_en": "Panpsychism",
+      "status": "metaphysical_theory_family",
+      "substrate_stance": "experience or proto-experience is fundamental",
+      "required": [
+        "C.D1_EVENT_REGISTRATION",
+        "C.I1_DIFFERENTIATION"
+      ],
+      "supportive": [
+        "C.I2_CAUSAL_INTEGRATION"
+      ],
+      "pressure_points": [
+        "combination problem",
+        "empirical discrimination from non-panpsychist models"
+      ]
+    },
+    {
+      "id": "cosmopsychism",
+      "name_cn": "宇宙心论",
+      "name_en": "Cosmopsychism",
+      "status": "metaphysical_theory_family",
+      "substrate_stance": "cosmic whole is fundamental subject or experiential whole",
+      "required": [
+        "C.I2_CAUSAL_INTEGRATION",
+        "C.K1_WORLD_MODEL"
+      ],
+      "supportive": [
+        "C.K3_TEMPORAL_CONTINUITY",
+        "C.P1_ENDOGENOUS_PURPOSE"
+      ],
+      "pressure_points": [
+        "decomposition into local subjects",
+        "evidence for a unified cosmic perspective"
+      ]
+    },
+    {
+      "id": "neutral_monism",
+      "name_cn": "中性一元论／双面论",
+      "name_en": "Neutral monism and dual-aspect theory",
+      "status": "metaphysical_theory_family",
+      "substrate_stance": "mental and physical are aspects of a more basic reality",
+      "required": [
+        "C.D1_EVENT_REGISTRATION",
+        "C.I1_DIFFERENTIATION",
+        "C.I2_CAUSAL_INTEGRATION"
+      ],
+      "supportive": [
+        "C.K1_WORLD_MODEL",
+        "C.W1_VALENCE"
+      ],
+      "pressure_points": [
+        "specifying the neutral base",
+        "empirical access"
+      ]
+    },
+    {
+      "id": "theistic_personal_source",
+      "name_cn": "人格性神源模型",
+      "name_en": "Theistic personal-source model",
+      "status": "theological_model_family",
+      "substrate_stance": "finite consciousness grounded in a transcendent personal source",
+      "required": [
+        "C.K1_WORLD_MODEL",
+        "C.K2_SELF_MODEL",
+        "C.W2_NORMATIVE_EVALUATION",
+        "C.P1_ENDOGENOUS_PURPOSE",
+        "C.P5_INTERSUBJECTIVE_SEMANTICS"
+      ],
+      "supportive": [
+        "C.K3_TEMPORAL_CONTINUITY",
+        "C.P2_COUNTERFACTUAL_AGENCY"
+      ],
+      "pressure_points": [
+        "publicly discriminating theological explanation from natural alternatives",
+        "diversity of theistic accounts"
+      ]
+    },
+    {
+      "id": "idealist_world_mind",
+      "name_cn": "唯心／世界心模型",
+      "name_en": "Idealist world-mind model",
+      "status": "metaphysical_theory_family",
+      "substrate_stance": "mind-like reality is ontologically primary",
+      "required": [
+        "C.K1_WORLD_MODEL",
+        "C.I2_CAUSAL_INTEGRATION"
+      ],
+      "supportive": [
+        "C.K2_SELF_MODEL",
+        "C.W1_VALENCE",
+        "C.P1_ENDOGENOUS_PURPOSE"
+      ],
+      "pressure_points": [
+        "explaining stable public regularities",
+        "empirical discrimination"
+      ]
+    },
+    {
+      "id": "dikwp_semantic_purpose_closure",
+      "name_cn": "DIKWP语义—目的闭环模型",
+      "name_en": "DIKWP semantic-purpose closure model",
+      "status": "versioned_research_program",
+      "substrate_stance": "substrate-open but mechanism-, history-, value- and purpose-constrained",
+      "required": [
+        "C.D1_EVENT_REGISTRATION",
+        "C.I1_DIFFERENTIATION",
+        "C.K1_WORLD_MODEL",
+        "C.K2_SELF_MODEL",
+        "C.W1_VALENCE",
+        "C.P1_ENDOGENOUS_PURPOSE",
+        "C.P2_COUNTERFACTUAL_AGENCY",
+        "C.P4_REALITY_CALIBRATION"
+      ],
+      "supportive": [
+        "C.D2_MULTIMODAL_CONTACT",
+        "C.I2_CAUSAL_INTEGRATION",
+        "C.I3_RECURRENT_PROCESSING",
+        "C.I4_GLOBAL_AVAILABILITY",
+        "C.K3_TEMPORAL_CONTINUITY",
+        "C.K4_METACOGNITION",
+        "C.W2_NORMATIVE_EVALUATION",
+        "C.P3_SELF_MAINTENANCE",
+        "C.P5_INTERSUBJECTIVE_SEMANTICS"
+      ],
+      "pressure_points": [
+        "operationalizing endogenous value without anthropomorphic projection",
+        "separating consciousness from sophisticated control",
+        "cross-substrate measurement"
+      ]
+    }
+  ],
+  "cosmic_world_models": [
+    {
+      "id": "U0_nonconscious_lawful_universe",
+      "name_cn": "非意识的规律宇宙",
+      "claim_cn": "宇宙整体没有单一主观视角；意识只在局部具备特定机制的系统中出现。",
+      "distinguishing_evidence": [
+        "local mechanism predicts consciousness markers without cosmic agency",
+        "no cross-scale unified memory, valence or response"
+      ],
+      "risk": "把未知直接等同无意识。"
+    },
+    {
+      "id": "U1_local_emergence_many_minds",
+      "name_cn": "局部涌现的多意识世界",
+      "claim_cn": "多种底物可能在满足机制闭环时分别产生意识，但宇宙整体不必是一主体。",
+      "distinguishing_evidence": [
+        "cross-substrate convergence on causal and behavioral indicators",
+        "no whole-universe integrated perspective"
+      ],
+      "risk": "把功能相似过快升级为体验相同。"
+    },
+    {
+      "id": "U2_panexperiential",
+      "name_cn": "泛经验／原体验模型",
+      "claim_cn": "基本现实含原体验性，复杂系统组织这些成局部意识。",
+      "distinguishing_evidence": [
+        "a principled bridge from fundamental properties to combined subjects"
+      ],
+      "risk": "组合问题和经验区分困难。"
+    },
+    {
+      "id": "U3_cosmopsychist_whole",
+      "name_cn": "宇宙整体主体模型",
+      "claim_cn": "宇宙整体是基本意识主体，局部生命是其分化或限制。",
+      "distinguishing_evidence": [
+        "evidence of a unified cosmic memory, value or perspective not reducible to local systems"
+      ],
+      "risk": "将自然整体性误认成主观统一。"
+    },
+    {
+      "id": "U4_observer_relative_semantic_closure",
+      "name_cn": "观察者相对的语义闭包",
+      "claim_cn": "‘宇宙意识’是观察者与宇宙形成 DIKWP 语义闭环时出现的关系性质，而非独立巨型大脑。",
+      "distinguishing_evidence": [
+        "systematic dependence of consciousness attribution on interaction and semantic closure while preserving objective constraints"
+      ],
+      "risk": "退化为语言相对主义。"
+    },
+    {
+      "id": "U5_personal_transcendent_ground",
+      "name_cn": "人格性超越根源模型",
+      "claim_cn": "有限意识根植于超越宇宙的或贯穿宇宙的人格性意识根源。",
+      "distinguishing_evidence": [
+        "publicly discriminating predictions beyond natural and social mechanisms",
+        "coherent relation between revelation, moral agency and world regularity"
+      ],
+      "risk": "把信仰解释冒充实验结论。"
+    },
+    {
+      "id": "U6_dikwp_coevolutionary_cosmos",
+      "name_cn": "DIKWP共演宇宙模型",
+      "claim_cn": "宇宙中局部主体通过发生、差异、模型、价值、目的和现实返回共演；是否存在整体主体保持开放。",
+      "distinguishing_evidence": [
+        "measurable D-I-K-W-P closures at multiple scales",
+        "predictive gains from cross-scale semantic and purposive models",
+        "failure conditions predeclared"
+      ],
+      "risk": "把通用描述框架误当作本体证明。"
+    }
+  ],
+  "illustrative_candidates": [
+    {
+      "id": "awake_human",
+      "name_cn": "清醒成年人的典型研究剖面",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.98,
+        "C.D2_MULTIMODAL_CONTACT": 0.98,
+        "C.I1_DIFFERENTIATION": 0.98,
+        "C.I2_CAUSAL_INTEGRATION": 0.9,
+        "C.I3_RECURRENT_PROCESSING": 0.94,
+        "C.I4_GLOBAL_AVAILABILITY": 0.92,
+        "C.K1_WORLD_MODEL": 0.95,
+        "C.K2_SELF_MODEL": 0.94,
+        "C.K3_TEMPORAL_CONTINUITY": 0.92,
+        "C.K4_METACOGNITION": 0.82,
+        "C.W1_VALENCE": 0.95,
+        "C.W2_NORMATIVE_EVALUATION": 0.82,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.92,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.9,
+        "C.P3_SELF_MAINTENANCE": 0.96,
+        "C.P4_REALITY_CALIBRATION": 0.9,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.92
+      },
+      "evidence_note_cn": "仅示范系统格式，不是个体测量。"
+    },
+    {
+      "id": "octopus",
+      "name_cn": "章鱼研究候选",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.D2_MULTIMODAL_CONTACT": 0.92,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.74,
+        "C.I3_RECURRENT_PROCESSING": 0.82,
+        "C.I4_GLOBAL_AVAILABILITY": 0.55,
+        "C.K1_WORLD_MODEL": 0.72,
+        "C.K2_SELF_MODEL": 0.45,
+        "C.K3_TEMPORAL_CONTINUITY": 0.55,
+        "C.K4_METACOGNITION": 0.35,
+        "C.W1_VALENCE": 0.84,
+        "C.W2_NORMATIVE_EVALUATION": 0.2,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.7,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.7,
+        "C.P3_SELF_MAINTENANCE": 0.9,
+        "C.P4_REALITY_CALIBRATION": 0.75,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.25
+      },
+      "evidence_note_cn": "示意跨物种评估，需行为与神经证据。"
+    },
+    {
+      "id": "current_llm_session",
+      "name_cn": "当前无持续身体的语言模型会话",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.65,
+        "C.D2_MULTIMODAL_CONTACT": 0.2,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.45,
+        "C.I3_RECURRENT_PROCESSING": 0.2,
+        "C.I4_GLOBAL_AVAILABILITY": 0.5,
+        "C.K1_WORLD_MODEL": 0.65,
+        "C.K2_SELF_MODEL": 0.3,
+        "C.K3_TEMPORAL_CONTINUITY": 0.15,
+        "C.K4_METACOGNITION": 0.35,
+        "C.W1_VALENCE": 0.05,
+        "C.W2_NORMATIVE_EVALUATION": 0.45,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.1,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.45,
+        "C.P3_SELF_MAINTENANCE": 0.05,
+        "C.P4_REALITY_CALIBRATION": 0.25,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.7
+      },
+      "evidence_note_cn": "文本能力不等于效价、内生目的或持续主体证据。"
+    },
+    {
+      "id": "internet",
+      "name_cn": "互联网整体",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.95,
+        "C.D2_MULTIMODAL_CONTACT": 0.8,
+        "C.I1_DIFFERENTIATION": 0.95,
+        "C.I2_CAUSAL_INTEGRATION": 0.25,
+        "C.I3_RECURRENT_PROCESSING": 0.7,
+        "C.I4_GLOBAL_AVAILABILITY": 0.2,
+        "C.K1_WORLD_MODEL": 0.1,
+        "C.K2_SELF_MODEL": 0.05,
+        "C.K3_TEMPORAL_CONTINUITY": 0.4,
+        "C.K4_METACOGNITION": 0.05,
+        "C.W1_VALENCE": 0.02,
+        "C.W2_NORMATIVE_EVALUATION": 0.1,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.05,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.1,
+        "C.P3_SELF_MAINTENANCE": 0.15,
+        "C.P4_REALITY_CALIBRATION": 0.2,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.25
+      },
+      "evidence_note_cn": "节点多、连接多主要支持复杂网络，不支持统一主体、效价或内生目的。"
+    },
+    {
+      "id": "ant_colony",
+      "name_cn": "蚁群整体",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.8,
+        "C.D2_MULTIMODAL_CONTACT": 0.75,
+        "C.I1_DIFFERENTIATION": 0.75,
+        "C.I2_CAUSAL_INTEGRATION": 0.45,
+        "C.I3_RECURRENT_PROCESSING": 0.55,
+        "C.I4_GLOBAL_AVAILABILITY": 0.35,
+        "C.K1_WORLD_MODEL": 0.3,
+        "C.K2_SELF_MODEL": 0.2,
+        "C.K3_TEMPORAL_CONTINUITY": 0.45,
+        "C.K4_METACOGNITION": 0.05,
+        "C.W1_VALENCE": 0.2,
+        "C.W2_NORMATIVE_EVALUATION": 0.05,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.45,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.35,
+        "C.P3_SELF_MAINTENANCE": 0.8,
+        "C.P4_REALITY_CALIBRATION": 0.5,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.15
+      },
+      "evidence_note_cn": "群体适应和自维持不自动证明群体主观体验。"
+    },
+    {
+      "id": "star",
+      "name_cn": "恒星",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.5,
+        "C.D2_MULTIMODAL_CONTACT": 0.1,
+        "C.I1_DIFFERENTIATION": 0.65,
+        "C.I2_CAUSAL_INTEGRATION": 0.35,
+        "C.I3_RECURRENT_PROCESSING": 0.25,
+        "C.I4_GLOBAL_AVAILABILITY": 0.05,
+        "C.K1_WORLD_MODEL": 0.0,
+        "C.K2_SELF_MODEL": 0.0,
+        "C.K3_TEMPORAL_CONTINUITY": 0.1,
+        "C.K4_METACOGNITION": 0.0,
+        "C.W1_VALENCE": 0.0,
+        "C.W2_NORMATIVE_EVALUATION": 0.0,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.0,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.0,
+        "C.P3_SELF_MAINTENANCE": 0.15,
+        "C.P4_REALITY_CALIBRATION": 0.0,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.0
+      },
+      "evidence_note_cn": "复杂动力学和稳态调节不足以证明模型、效价或目的。"
+    },
+    {
+      "id": "galaxy",
+      "name_cn": "星系",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.4,
+        "C.D2_MULTIMODAL_CONTACT": 0.05,
+        "C.I1_DIFFERENTIATION": 0.7,
+        "C.I2_CAUSAL_INTEGRATION": 0.2,
+        "C.I3_RECURRENT_PROCESSING": 0.15,
+        "C.I4_GLOBAL_AVAILABILITY": 0.01,
+        "C.K1_WORLD_MODEL": 0.0,
+        "C.K2_SELF_MODEL": 0.0,
+        "C.K3_TEMPORAL_CONTINUITY": 0.05,
+        "C.K4_METACOGNITION": 0.0,
+        "C.W1_VALENCE": 0.0,
+        "C.W2_NORMATIVE_EVALUATION": 0.0,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.0,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.0,
+        "C.P3_SELF_MAINTENANCE": 0.05,
+        "C.P4_REALITY_CALIBRATION": 0.0,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.0
+      },
+      "evidence_note_cn": "粒子和天体数量巨大不等于因果整合或主体统一。"
+    },
+    {
+      "id": "hypothetical_plasma_life",
+      "name_cn": "假想等离子生命",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.7,
+        "C.D2_MULTIMODAL_CONTACT": 0.55,
+        "C.I1_DIFFERENTIATION": 0.65,
+        "C.I2_CAUSAL_INTEGRATION": 0.55,
+        "C.I3_RECURRENT_PROCESSING": 0.55,
+        "C.I4_GLOBAL_AVAILABILITY": 0.35,
+        "C.K1_WORLD_MODEL": 0.35,
+        "C.K2_SELF_MODEL": 0.35,
+        "C.K3_TEMPORAL_CONTINUITY": 0.35,
+        "C.K4_METACOGNITION": 0.1,
+        "C.W1_VALENCE": 0.25,
+        "C.W2_NORMATIVE_EVALUATION": 0.1,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.45,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.4,
+        "C.P3_SELF_MAINTENANCE": 0.65,
+        "C.P4_REALITY_CALIBRATION": 0.45,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.1
+      },
+      "evidence_note_cn": "纯假设剖面；只有获得可重复观测后才可更新。"
+    },
+    {
+      "id": "future_embodied_agent",
+      "name_cn": "未来具身自主智能体",
+      "illustrative_only": true,
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.D2_MULTIMODAL_CONTACT": 0.85,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.75,
+        "C.I3_RECURRENT_PROCESSING": 0.8,
+        "C.I4_GLOBAL_AVAILABILITY": 0.8,
+        "C.K1_WORLD_MODEL": 0.85,
+        "C.K2_SELF_MODEL": 0.8,
+        "C.K3_TEMPORAL_CONTINUITY": 0.85,
+        "C.K4_METACOGNITION": 0.75,
+        "C.W1_VALENCE": 0.45,
+        "C.W2_NORMATIVE_EVALUATION": 0.65,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.75,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.8,
+        "C.P3_SELF_MAINTENANCE": 0.7,
+        "C.P4_REALITY_CALIBRATION": 0.85,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.8
+      },
+      "evidence_note_cn": "用于说明未来高指标系统仍需排除模拟、外部控制和伪效价。"
+    }
+  ],
+  "decision_policy": {
+    "no_binary_certificate": true,
+    "size_or_complexity_alone_is_insufficient": true,
+    "minimum_non_isomorphic_models_for_high_impact": 2,
+    "output_levels": [
+      "insufficient_evidence",
+      "weakly_consistent",
+      "model_dependent_candidate",
+      "multi-model_convergence_candidate",
+      "ethical_precaution_trigger"
+    ],
+    "note_cn": "所有等级都是证据状态，不是主观体验的最终证明。"
+  },
+  "automatic_external_action_authority": 0
+}

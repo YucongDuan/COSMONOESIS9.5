@@ -1,0 +1,904 @@
+{
+  "kind": "civilization",
+  "items": [
+    {
+      "id": "indic",
+      "name_cn": "印度文明语义群"
+    },
+    {
+      "id": "buddhist_trans_asian",
+      "name_cn": "跨亚洲佛教文明语义群"
+    },
+    {
+      "id": "sinitic",
+      "name_cn": "中华文明语义群"
+    },
+    {
+      "id": "iranian_persian",
+      "name_cn": "伊朗—波斯文明语义群"
+    },
+    {
+      "id": "jewish",
+      "name_cn": "犹太文明语义群"
+    },
+    {
+      "id": "christian",
+      "name_cn": "基督宗教文明语义群"
+    },
+    {
+      "id": "islamic",
+      "name_cn": "伊斯兰文明语义群"
+    },
+    {
+      "id": "greco_roman",
+      "name_cn": "希腊—罗马哲学文明语义群"
+    },
+    {
+      "id": "african_relational",
+      "name_cn": "非洲关系文明语义群"
+    },
+    {
+      "id": "japanese",
+      "name_cn": "日本宗教文明语义群"
+    },
+    {
+      "id": "oceanic_maori",
+      "name_cn": "大洋洲—毛利关系文明语义群"
+    },
+    {
+      "id": "andean",
+      "name_cn": "安第斯文明语义群"
+    },
+    {
+      "id": "modern_humanistic_scientific",
+      "name_cn": "现代人文—科学文明语义群"
+    }
+  ],
+  "matrix": [
+    {
+      "a": "indic",
+      "b": "indic",
+      "similarity": 1.0
+    },
+    {
+      "a": "indic",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.73712123
+    },
+    {
+      "a": "indic",
+      "b": "sinitic",
+      "similarity": 0.72992112
+    },
+    {
+      "a": "indic",
+      "b": "iranian_persian",
+      "similarity": 0.66665453
+    },
+    {
+      "a": "indic",
+      "b": "jewish",
+      "similarity": 0.61748979
+    },
+    {
+      "a": "indic",
+      "b": "christian",
+      "similarity": 0.87765418
+    },
+    {
+      "a": "indic",
+      "b": "islamic",
+      "similarity": 0.74745343
+    },
+    {
+      "a": "indic",
+      "b": "greco_roman",
+      "similarity": 0.73575717
+    },
+    {
+      "a": "indic",
+      "b": "african_relational",
+      "similarity": 0.43764215
+    },
+    {
+      "a": "indic",
+      "b": "japanese",
+      "similarity": 0.67934135
+    },
+    {
+      "a": "indic",
+      "b": "oceanic_maori",
+      "similarity": 0.35556375
+    },
+    {
+      "a": "indic",
+      "b": "andean",
+      "similarity": 0.26652032
+    },
+    {
+      "a": "indic",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.48339245
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "indic",
+      "similarity": 0.73712123
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "buddhist_trans_asian",
+      "similarity": 1.0
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "sinitic",
+      "similarity": 0.84999676
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "iranian_persian",
+      "similarity": 0.52558572
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "jewish",
+      "similarity": 0.52592247
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "christian",
+      "similarity": 0.65200804
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "islamic",
+      "similarity": 0.48287623
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "greco_roman",
+      "similarity": 0.57802604
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "african_relational",
+      "similarity": 0.54326144
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "japanese",
+      "similarity": 0.85953653
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "oceanic_maori",
+      "similarity": 0.32133401
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "andean",
+      "similarity": 0.46794701
+    },
+    {
+      "a": "buddhist_trans_asian",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.56669199
+    },
+    {
+      "a": "sinitic",
+      "b": "indic",
+      "similarity": 0.72992112
+    },
+    {
+      "a": "sinitic",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.84999676
+    },
+    {
+      "a": "sinitic",
+      "b": "sinitic",
+      "similarity": 1.0
+    },
+    {
+      "a": "sinitic",
+      "b": "iranian_persian",
+      "similarity": 0.66069051
+    },
+    {
+      "a": "sinitic",
+      "b": "jewish",
+      "similarity": 0.6583955
+    },
+    {
+      "a": "sinitic",
+      "b": "christian",
+      "similarity": 0.67233654
+    },
+    {
+      "a": "sinitic",
+      "b": "islamic",
+      "similarity": 0.59254478
+    },
+    {
+      "a": "sinitic",
+      "b": "greco_roman",
+      "similarity": 0.73275416
+    },
+    {
+      "a": "sinitic",
+      "b": "african_relational",
+      "similarity": 0.62862427
+    },
+    {
+      "a": "sinitic",
+      "b": "japanese",
+      "similarity": 0.91873965
+    },
+    {
+      "a": "sinitic",
+      "b": "oceanic_maori",
+      "similarity": 0.44721554
+    },
+    {
+      "a": "sinitic",
+      "b": "andean",
+      "similarity": 0.47615608
+    },
+    {
+      "a": "sinitic",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.51928682
+    },
+    {
+      "a": "iranian_persian",
+      "b": "indic",
+      "similarity": 0.66665453
+    },
+    {
+      "a": "iranian_persian",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.52558572
+    },
+    {
+      "a": "iranian_persian",
+      "b": "sinitic",
+      "similarity": 0.66069051
+    },
+    {
+      "a": "iranian_persian",
+      "b": "iranian_persian",
+      "similarity": 1.0
+    },
+    {
+      "a": "iranian_persian",
+      "b": "jewish",
+      "similarity": 0.71173882
+    },
+    {
+      "a": "iranian_persian",
+      "b": "christian",
+      "similarity": 0.75345421
+    },
+    {
+      "a": "iranian_persian",
+      "b": "islamic",
+      "similarity": 0.89747432
+    },
+    {
+      "a": "iranian_persian",
+      "b": "greco_roman",
+      "similarity": 0.69468421
+    },
+    {
+      "a": "iranian_persian",
+      "b": "african_relational",
+      "similarity": 0.62335296
+    },
+    {
+      "a": "iranian_persian",
+      "b": "japanese",
+      "similarity": 0.56853203
+    },
+    {
+      "a": "iranian_persian",
+      "b": "oceanic_maori",
+      "similarity": 0.78114287
+    },
+    {
+      "a": "iranian_persian",
+      "b": "andean",
+      "similarity": 0.49432671
+    },
+    {
+      "a": "iranian_persian",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.43988484
+    },
+    {
+      "a": "jewish",
+      "b": "indic",
+      "similarity": 0.61748979
+    },
+    {
+      "a": "jewish",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.52592247
+    },
+    {
+      "a": "jewish",
+      "b": "sinitic",
+      "similarity": 0.6583955
+    },
+    {
+      "a": "jewish",
+      "b": "iranian_persian",
+      "similarity": 0.71173882
+    },
+    {
+      "a": "jewish",
+      "b": "jewish",
+      "similarity": 1.0
+    },
+    {
+      "a": "jewish",
+      "b": "christian",
+      "similarity": 0.75667768
+    },
+    {
+      "a": "jewish",
+      "b": "islamic",
+      "similarity": 0.63239988
+    },
+    {
+      "a": "jewish",
+      "b": "greco_roman",
+      "similarity": 0.80498798
+    },
+    {
+      "a": "jewish",
+      "b": "african_relational",
+      "similarity": 0.79052452
+    },
+    {
+      "a": "jewish",
+      "b": "japanese",
+      "similarity": 0.4907963
+    },
+    {
+      "a": "jewish",
+      "b": "oceanic_maori",
+      "similarity": 0.64586277
+    },
+    {
+      "a": "jewish",
+      "b": "andean",
+      "similarity": 0.56341911
+    },
+    {
+      "a": "jewish",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.56959718
+    },
+    {
+      "a": "christian",
+      "b": "indic",
+      "similarity": 0.87765418
+    },
+    {
+      "a": "christian",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.65200804
+    },
+    {
+      "a": "christian",
+      "b": "sinitic",
+      "similarity": 0.67233654
+    },
+    {
+      "a": "christian",
+      "b": "iranian_persian",
+      "similarity": 0.75345421
+    },
+    {
+      "a": "christian",
+      "b": "jewish",
+      "similarity": 0.75667768
+    },
+    {
+      "a": "christian",
+      "b": "christian",
+      "similarity": 1.0
+    },
+    {
+      "a": "christian",
+      "b": "islamic",
+      "similarity": 0.81342359
+    },
+    {
+      "a": "christian",
+      "b": "greco_roman",
+      "similarity": 0.70923018
+    },
+    {
+      "a": "christian",
+      "b": "african_relational",
+      "similarity": 0.64531053
+    },
+    {
+      "a": "christian",
+      "b": "japanese",
+      "similarity": 0.63607362
+    },
+    {
+      "a": "christian",
+      "b": "oceanic_maori",
+      "similarity": 0.49388191
+    },
+    {
+      "a": "christian",
+      "b": "andean",
+      "similarity": 0.44035242
+    },
+    {
+      "a": "christian",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.45895255
+    },
+    {
+      "a": "islamic",
+      "b": "indic",
+      "similarity": 0.74745343
+    },
+    {
+      "a": "islamic",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.48287623
+    },
+    {
+      "a": "islamic",
+      "b": "sinitic",
+      "similarity": 0.59254478
+    },
+    {
+      "a": "islamic",
+      "b": "iranian_persian",
+      "similarity": 0.89747432
+    },
+    {
+      "a": "islamic",
+      "b": "jewish",
+      "similarity": 0.63239988
+    },
+    {
+      "a": "islamic",
+      "b": "christian",
+      "similarity": 0.81342359
+    },
+    {
+      "a": "islamic",
+      "b": "islamic",
+      "similarity": 1.0
+    },
+    {
+      "a": "islamic",
+      "b": "greco_roman",
+      "similarity": 0.63451201
+    },
+    {
+      "a": "islamic",
+      "b": "african_relational",
+      "similarity": 0.48062802
+    },
+    {
+      "a": "islamic",
+      "b": "japanese",
+      "similarity": 0.56794976
+    },
+    {
+      "a": "islamic",
+      "b": "oceanic_maori",
+      "similarity": 0.61842259
+    },
+    {
+      "a": "islamic",
+      "b": "andean",
+      "similarity": 0.28830363
+    },
+    {
+      "a": "islamic",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.30365845
+    },
+    {
+      "a": "greco_roman",
+      "b": "indic",
+      "similarity": 0.73575717
+    },
+    {
+      "a": "greco_roman",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.57802604
+    },
+    {
+      "a": "greco_roman",
+      "b": "sinitic",
+      "similarity": 0.73275416
+    },
+    {
+      "a": "greco_roman",
+      "b": "iranian_persian",
+      "similarity": 0.69468421
+    },
+    {
+      "a": "greco_roman",
+      "b": "jewish",
+      "similarity": 0.80498798
+    },
+    {
+      "a": "greco_roman",
+      "b": "christian",
+      "similarity": 0.70923018
+    },
+    {
+      "a": "greco_roman",
+      "b": "islamic",
+      "similarity": 0.63451201
+    },
+    {
+      "a": "greco_roman",
+      "b": "greco_roman",
+      "similarity": 1.0
+    },
+    {
+      "a": "greco_roman",
+      "b": "african_relational",
+      "similarity": 0.53151173
+    },
+    {
+      "a": "greco_roman",
+      "b": "japanese",
+      "similarity": 0.54664472
+    },
+    {
+      "a": "greco_roman",
+      "b": "oceanic_maori",
+      "similarity": 0.46101857
+    },
+    {
+      "a": "greco_roman",
+      "b": "andean",
+      "similarity": 0.4941989
+    },
+    {
+      "a": "greco_roman",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.37999462
+    },
+    {
+      "a": "african_relational",
+      "b": "indic",
+      "similarity": 0.43764215
+    },
+    {
+      "a": "african_relational",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.54326144
+    },
+    {
+      "a": "african_relational",
+      "b": "sinitic",
+      "similarity": 0.62862427
+    },
+    {
+      "a": "african_relational",
+      "b": "iranian_persian",
+      "similarity": 0.62335296
+    },
+    {
+      "a": "african_relational",
+      "b": "jewish",
+      "similarity": 0.79052452
+    },
+    {
+      "a": "african_relational",
+      "b": "christian",
+      "similarity": 0.64531053
+    },
+    {
+      "a": "african_relational",
+      "b": "islamic",
+      "similarity": 0.48062802
+    },
+    {
+      "a": "african_relational",
+      "b": "greco_roman",
+      "similarity": 0.53151173
+    },
+    {
+      "a": "african_relational",
+      "b": "african_relational",
+      "similarity": 1.0
+    },
+    {
+      "a": "african_relational",
+      "b": "japanese",
+      "similarity": 0.51286682
+    },
+    {
+      "a": "african_relational",
+      "b": "oceanic_maori",
+      "similarity": 0.6522994
+    },
+    {
+      "a": "african_relational",
+      "b": "andean",
+      "similarity": 0.73043079
+    },
+    {
+      "a": "african_relational",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.51235048
+    },
+    {
+      "a": "japanese",
+      "b": "indic",
+      "similarity": 0.67934135
+    },
+    {
+      "a": "japanese",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.85953653
+    },
+    {
+      "a": "japanese",
+      "b": "sinitic",
+      "similarity": 0.91873965
+    },
+    {
+      "a": "japanese",
+      "b": "iranian_persian",
+      "similarity": 0.56853203
+    },
+    {
+      "a": "japanese",
+      "b": "jewish",
+      "similarity": 0.4907963
+    },
+    {
+      "a": "japanese",
+      "b": "christian",
+      "similarity": 0.63607362
+    },
+    {
+      "a": "japanese",
+      "b": "islamic",
+      "similarity": 0.56794976
+    },
+    {
+      "a": "japanese",
+      "b": "greco_roman",
+      "similarity": 0.54664472
+    },
+    {
+      "a": "japanese",
+      "b": "african_relational",
+      "similarity": 0.51286682
+    },
+    {
+      "a": "japanese",
+      "b": "japanese",
+      "similarity": 1.0
+    },
+    {
+      "a": "japanese",
+      "b": "oceanic_maori",
+      "similarity": 0.32979309
+    },
+    {
+      "a": "japanese",
+      "b": "andean",
+      "similarity": 0.36442922
+    },
+    {
+      "a": "japanese",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.44855476
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "indic",
+      "similarity": 0.35556375
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.32133401
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "sinitic",
+      "similarity": 0.44721554
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "iranian_persian",
+      "similarity": 0.78114287
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "jewish",
+      "similarity": 0.64586277
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "christian",
+      "similarity": 0.49388191
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "islamic",
+      "similarity": 0.61842259
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "greco_roman",
+      "similarity": 0.46101857
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "african_relational",
+      "similarity": 0.6522994
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "japanese",
+      "similarity": 0.32979309
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "oceanic_maori",
+      "similarity": 1.0
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "andean",
+      "similarity": 0.54599511
+    },
+    {
+      "a": "oceanic_maori",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.3929108
+    },
+    {
+      "a": "andean",
+      "b": "indic",
+      "similarity": 0.26652032
+    },
+    {
+      "a": "andean",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.46794701
+    },
+    {
+      "a": "andean",
+      "b": "sinitic",
+      "similarity": 0.47615608
+    },
+    {
+      "a": "andean",
+      "b": "iranian_persian",
+      "similarity": 0.49432671
+    },
+    {
+      "a": "andean",
+      "b": "jewish",
+      "similarity": 0.56341911
+    },
+    {
+      "a": "andean",
+      "b": "christian",
+      "similarity": 0.44035242
+    },
+    {
+      "a": "andean",
+      "b": "islamic",
+      "similarity": 0.28830363
+    },
+    {
+      "a": "andean",
+      "b": "greco_roman",
+      "similarity": 0.4941989
+    },
+    {
+      "a": "andean",
+      "b": "african_relational",
+      "similarity": 0.73043079
+    },
+    {
+      "a": "andean",
+      "b": "japanese",
+      "similarity": 0.36442922
+    },
+    {
+      "a": "andean",
+      "b": "oceanic_maori",
+      "similarity": 0.54599511
+    },
+    {
+      "a": "andean",
+      "b": "andean",
+      "similarity": 1.0
+    },
+    {
+      "a": "andean",
+      "b": "modern_humanistic_scientific",
+      "similarity": 0.21775178
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "indic",
+      "similarity": 0.48339245
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "buddhist_trans_asian",
+      "similarity": 0.56669199
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "sinitic",
+      "similarity": 0.51928682
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "iranian_persian",
+      "similarity": 0.43988484
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "jewish",
+      "similarity": 0.56959718
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "christian",
+      "similarity": 0.45895255
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "islamic",
+      "similarity": 0.30365845
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "greco_roman",
+      "similarity": 0.37999462
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "african_relational",
+      "similarity": 0.51235048
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "japanese",
+      "similarity": 0.44855476
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "oceanic_maori",
+      "similarity": 0.3929108
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "andean",
+      "similarity": 0.21775178
+    },
+    {
+      "a": "modern_humanistic_scientific",
+      "b": "modern_humanistic_scientific",
+      "similarity": 1.0
+    }
+  ]
+}

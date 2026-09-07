@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/dikwp-cosmonoesis95/contact-observation.schema.json",
+  "title": "Anomalous-signal observation",
+  "type": "object",
+  "required": ["features"],
+  "properties": {
+    "id": {"type": "string"},
+    "name": {"type": "string"},
+    "features": {
+      "type": "object",
+      "properties": {
+        "instrument_calibrated": {"type": "number", "minimum": 0, "maximum": 1},
+        "repeated_over_time": {"type": "number", "minimum": 0, "maximum": 1},
+        "independent_observatories": {"type": "number", "minimum": 0, "maximum": 1},
+        "known_interference_excluded": {"type": "number", "minimum": 0, "maximum": 1},
+        "natural_models_compared": {"type": "number", "minimum": 0, "maximum": 1},
+        "structured_modulation": {"type": "number", "minimum": 0, "maximum": 1},
+        "information_content_above_baseline": {"type": "number", "minimum": 0, "maximum": 1},
+        "causal_intervention_response": {"type": "number", "minimum": 0, "maximum": 1},
+        "semantic_challenge_response": {"type": "number", "minimum": 0, "maximum": 1},
+        "energy_budget_coherent": {"type": "number", "minimum": 0, "maximum": 1}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": true
+}

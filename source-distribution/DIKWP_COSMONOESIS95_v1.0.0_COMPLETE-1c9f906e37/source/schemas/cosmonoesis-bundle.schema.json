@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/dikwp-cosmonoesis95/cosmonoesis-bundle.schema.json",
+  "title": "DIKWP-COSMONOESIS95 compiled bundle",
+  "type": "object",
+  "required": [
+    "system", "version", "compilation_id", "bundle_digest", "registries",
+    "tradition_mappings", "civilization_mappings", "claim_audit",
+    "consciousness_assessments", "semantic_normalization_contract",
+    "automatic_external_action_authority"
+  ],
+  "properties": {
+    "version": {"const": "1.0.0"},
+    "bundle_digest": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "semantic_normalization_contract": {
+      "type": "object",
+      "required": ["all_concepts_inside_dikwp", "permanent_untranslatable_outside_zone", "out_of_space_residual"],
+      "properties": {
+        "all_concepts_inside_dikwp": {"const": true},
+        "permanent_untranslatable_outside_zone": {"const": false},
+        "out_of_space_residual": {"const": 0.0}
+      }
+    },
+    "automatic_external_action_authority": {"const": 0}
+  },
+  "additionalProperties": true
+}

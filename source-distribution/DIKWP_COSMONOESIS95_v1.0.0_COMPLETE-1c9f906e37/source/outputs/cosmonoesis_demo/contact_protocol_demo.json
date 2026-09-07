@@ -1,0 +1,115 @@
+{
+  "observation_id": "demo-periodic-radio-candidate",
+  "name": "示例周期射电候选（合成数据）",
+  "features": {
+    "instrument_calibrated": 0.88,
+    "repeated_over_time": 0.6,
+    "independent_observatories": 0.2,
+    "known_interference_excluded": 0.35,
+    "natural_models_compared": 0.45,
+    "structured_modulation": 0.55,
+    "information_content_above_baseline": 0.35,
+    "causal_intervention_response": 0.0,
+    "semantic_challenge_response": 0.0,
+    "energy_budget_coherent": 0.55
+  },
+  "derived_scores": {
+    "data_quality": 0.56,
+    "interference_exclusion": 0.35,
+    "natural_model_comparison": 0.45,
+    "structured_signal": 0.483333,
+    "agency_interaction": 0.0
+  },
+  "current_stage": "I1_interference_exclusion",
+  "competing_models": [
+    {
+      "id": "M2_natural_astrophysical_source",
+      "name_cn": "自然天体物理源",
+      "compatibility": 0.695833
+    },
+    {
+      "id": "M1_human_radio_interference",
+      "name_cn": "人为射频干扰",
+      "compatibility": 0.65
+    },
+    {
+      "id": "M0_instrument_or_statistical_artifact",
+      "name_cn": "仪器／统计伪影",
+      "compatibility": 0.58
+    },
+    {
+      "id": "M3_nonconscious_technology",
+      "name_cn": "非意识技术过程",
+      "compatibility": 0.4515
+    },
+    {
+      "id": "M4_agentive_technosignature",
+      "name_cn": "能动技术信号",
+      "compatibility": 0.3315
+    },
+    {
+      "id": "M5_conscious_communicator",
+      "name_cn": "意识通信主体",
+      "compatibility": 0.2814
+    }
+  ],
+  "conclusion_cn": "即使出现结构化异常，也必须先排除仪器、人为干扰和自然机制；能动技术信号与意识通信仍是不同命题。",
+  "dikwp_contact_protocol": [
+    {
+      "stage": "D",
+      "name_cn": "原始多站记录",
+      "requirements": [
+        "保留原始数据、时间、频率、仪器状态、观察盲区和负结果"
+      ]
+    },
+    {
+      "stage": "I",
+      "name_cn": "差异与干扰分解",
+      "requirements": [
+        "本地/卫星/地面干扰数据库",
+        "独立站复现",
+        "选择效应与多重检验校正"
+      ]
+    },
+    {
+      "stage": "K",
+      "name_cn": "非同构模型竞争",
+      "requirements": [
+        "仪器模型",
+        "人为干扰模型",
+        "自然源模型",
+        "非意识技术模型",
+        "能动主体模型"
+      ]
+    },
+    {
+      "stage": "W",
+      "name_cn": "价值与伤害边界",
+      "requirements": [
+        "不泄露危险能力",
+        "不以人类中心尺度羞辱或利用潜在主体",
+        "披露误报和社会负担"
+      ]
+    },
+    {
+      "stage": "P",
+      "name_cn": "语义握手",
+      "requirements": [
+        "低能量、可撤回、非诱骗挑战—响应",
+        "先交换数学/物理可验证结构，再交换目的与边界",
+        "任何发送均需具名人类授权"
+      ]
+    },
+    {
+      "stage": "RETURN",
+      "name_cn": "现实返回",
+      "requirements": [
+        "预注册成功/失败条件",
+        "负结果进入账本",
+        "模型降权或退役"
+      ]
+    }
+  ],
+  "transmission_authorized": false,
+  "automatic_external_action_authority": 0
+}

@@ -1,0 +1,2347 @@
+{
+  "assessments": [
+    {
+      "assessment_id": "consciousness-assessment-af81a76d2abf94d57206",
+      "candidate_id": "awake_human",
+      "name_cn": "清醒成年人的典型研究剖面",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.98,
+        "C.D2_MULTIMODAL_CONTACT": 0.98,
+        "C.I1_DIFFERENTIATION": 0.98,
+        "C.I2_CAUSAL_INTEGRATION": 0.9,
+        "C.I3_RECURRENT_PROCESSING": 0.94,
+        "C.I4_GLOBAL_AVAILABILITY": 0.92,
+        "C.K1_WORLD_MODEL": 0.95,
+        "C.K2_SELF_MODEL": 0.94,
+        "C.K3_TEMPORAL_CONTINUITY": 0.92,
+        "C.K4_METACOGNITION": 0.82,
+        "C.W1_VALENCE": 0.95,
+        "C.W2_NORMATIVE_EVALUATION": 0.82,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.92,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.9,
+        "C.P3_SELF_MAINTENANCE": 0.96,
+        "C.P4_REALITY_CALIBRATION": 0.9,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.92
+      },
+      "family_means": {
+        "D": 0.98,
+        "I": 0.935,
+        "K": 0.9075,
+        "W": 0.885,
+        "P": 0.92
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.650689,
+          "required_mean": 0.98,
+          "supportive_mean": 0.9,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.648515,
+          "required_mean": 0.96,
+          "supportive_mean": 0.94,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.647156,
+          "required_mean": 0.953333,
+          "supportive_mean": 0.95,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.642535,
+          "required_mean": 0.94,
+          "supportive_mean": 0.96,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.641031,
+          "required_mean": 0.946,
+          "supportive_mean": 0.936667,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.639092,
+          "required_mean": 0.943333,
+          "supportive_mean": 0.933333,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.637462,
+          "required_mean": 0.94,
+          "supportive_mean": 0.933333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.632811,
+          "required_mean": 0.94,
+          "supportive_mean": 0.908889,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.630757,
+          "required_mean": 0.925,
+          "supportive_mean": 0.936667,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.627586,
+          "required_mean": 0.925,
+          "supportive_mean": 0.92,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.624325,
+          "required_mean": 0.93,
+          "supportive_mean": 0.89,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.618843,
+          "required_mean": 0.9175,
+          "supportive_mean": 0.893333,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.618345,
+          "required_mean": 0.91,
+          "supportive_mean": 0.91,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.610191,
+          "required_mean": 0.893333,
+          "supportive_mean": 0.91,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.60557,
+          "required_mean": 0.88,
+          "supportive_mean": 0.92,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "仅示范系统格式，不是个体测量。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-955005d1a2acc8b90a45",
+      "candidate_id": "octopus",
+      "name_cn": "章鱼研究候选",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.D2_MULTIMODAL_CONTACT": 0.92,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.74,
+        "C.I3_RECURRENT_PROCESSING": 0.82,
+        "C.I4_GLOBAL_AVAILABILITY": 0.55,
+        "C.K1_WORLD_MODEL": 0.72,
+        "C.K2_SELF_MODEL": 0.45,
+        "C.K3_TEMPORAL_CONTINUITY": 0.55,
+        "C.K4_METACOGNITION": 0.35,
+        "C.W1_VALENCE": 0.84,
+        "C.W2_NORMATIVE_EVALUATION": 0.2,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.7,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.7,
+        "C.P3_SELF_MAINTENANCE": 0.9,
+        "C.P4_REALITY_CALIBRATION": 0.75,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.25
+      },
+      "family_means": {
+        "D": 0.91,
+        "I": 0.7525,
+        "K": 0.5175,
+        "W": 0.52,
+        "P": 0.66
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.581108,
+          "required_mean": 0.9,
+          "supportive_mean": 0.74,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.578662,
+          "required_mean": 0.86,
+          "supportive_mean": 0.83,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.5648,
+          "required_mean": 0.82,
+          "supportive_mean": 0.86,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.562626,
+          "required_mean": 0.846667,
+          "supportive_mean": 0.78,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.543283,
+          "required_mean": 0.8175,
+          "supportive_mean": 0.753333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.522001,
+          "required_mean": 0.844,
+          "supportive_mean": 0.573333,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.519772,
+          "required_mean": 0.796667,
+          "supportive_mean": 0.683333,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.483351,
+          "required_mean": 0.73,
+          "supportive_mean": 0.663333,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.476103,
+          "required_mean": 0.745,
+          "supportive_mean": 0.586667,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.476058,
+          "required_mean": 0.73,
+          "supportive_mean": 0.625,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.447383,
+          "required_mean": 0.685,
+          "supportive_mean": 0.59,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.398051,
+          "required_mean": 0.6775,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.34592,
+          "required_mean": 0.464,
+          "supportive_mean": 0.625,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.310532,
+          "required_mean": 0.45,
+          "supportive_mean": 0.475,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.300339,
+          "required_mean": 0.4,
+          "supportive_mean": 0.55,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "示意跨物种评估，需行为与神经证据。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-24783387d911a7f1b23a",
+      "candidate_id": "current_llm_session",
+      "name_cn": "当前无持续身体的语言模型会话",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.65,
+        "C.D2_MULTIMODAL_CONTACT": 0.2,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.45,
+        "C.I3_RECURRENT_PROCESSING": 0.2,
+        "C.I4_GLOBAL_AVAILABILITY": 0.5,
+        "C.K1_WORLD_MODEL": 0.65,
+        "C.K2_SELF_MODEL": 0.3,
+        "C.K3_TEMPORAL_CONTINUITY": 0.15,
+        "C.K4_METACOGNITION": 0.35,
+        "C.W1_VALENCE": 0.05,
+        "C.W2_NORMATIVE_EVALUATION": 0.45,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.1,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.45,
+        "C.P3_SELF_MAINTENANCE": 0.05,
+        "C.P4_REALITY_CALIBRATION": 0.25,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.7
+      },
+      "family_means": {
+        "D": 0.425,
+        "I": 0.5125,
+        "K": 0.3625,
+        "W": 0.25,
+        "P": 0.31
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.464778,
+          "required_mean": 0.775,
+          "supportive_mean": 0.45,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.411098,
+          "required_mean": 0.675,
+          "supportive_mean": 0.425,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.392751,
+          "required_mean": 0.666667,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.336352,
+          "required_mean": 0.5125,
+          "supportive_mean": 0.45,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.330917,
+          "required_mean": 0.55,
+          "supportive_mean": 0.325,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.297621,
+          "required_mean": 0.55,
+          "supportive_mean": 0.15,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.296942,
+          "required_mean": 0.383333,
+          "supportive_mean": 0.575,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.292865,
+          "required_mean": 0.55,
+          "supportive_mean": 0.125,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.272344,
+          "required_mean": 0.44,
+          "supportive_mean": 0.3,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.269346,
+          "required_mean": 0.41875,
+          "supportive_mean": 0.338889,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.263193,
+          "required_mean": 0.35,
+          "supportive_mean": 0.483333,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.230124,
+          "required_mean": 0.366667,
+          "supportive_mean": 0.266667,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.220837,
+          "required_mean": 0.325,
+          "supportive_mean": 0.325,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.162718,
+          "required_mean": 0.19,
+          "supportive_mean": 0.366667,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.146319,
+          "required_mean": 0.15,
+          "supportive_mean": 0.383333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "文本能力不等于效价、内生目的或持续主体证据。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-b442560396ab69407987",
+      "candidate_id": "internet",
+      "name_cn": "互联网整体",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.95,
+        "C.D2_MULTIMODAL_CONTACT": 0.8,
+        "C.I1_DIFFERENTIATION": 0.95,
+        "C.I2_CAUSAL_INTEGRATION": 0.25,
+        "C.I3_RECURRENT_PROCESSING": 0.7,
+        "C.I4_GLOBAL_AVAILABILITY": 0.2,
+        "C.K1_WORLD_MODEL": 0.1,
+        "C.K2_SELF_MODEL": 0.05,
+        "C.K3_TEMPORAL_CONTINUITY": 0.4,
+        "C.K4_METACOGNITION": 0.05,
+        "C.W1_VALENCE": 0.02,
+        "C.W2_NORMATIVE_EVALUATION": 0.1,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.05,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.1,
+        "C.P3_SELF_MAINTENANCE": 0.15,
+        "C.P4_REALITY_CALIBRATION": 0.2,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.25
+      },
+      "family_means": {
+        "D": 0.875,
+        "I": 0.525,
+        "K": 0.15,
+        "W": 0.06,
+        "P": 0.15
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.512343,
+          "required_mean": 0.95,
+          "supportive_mean": 0.25,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.50351,
+          "required_mean": 0.825,
+          "supportive_mean": 0.525,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.450509,
+          "required_mean": 0.6,
+          "supportive_mean": 0.825,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.362038,
+          "required_mean": 0.716667,
+          "supportive_mean": 0.06,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.236013,
+          "required_mean": 0.45,
+          "supportive_mean": 0.083333,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.222749,
+          "required_mean": 0.384,
+          "supportive_mean": 0.183333,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.209301,
+          "required_mean": 0.3025,
+          "supportive_mean": 0.322222,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.198414,
+          "required_mean": 0.366667,
+          "supportive_mean": 0.1,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.160724,
+          "required_mean": 0.3,
+          "supportive_mean": 0.073333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.128426,
+          "required_mean": 0.175,
+          "supportive_mean": 0.225,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.101699,
+          "required_mean": 0.1625,
+          "supportive_mean": 0.116667,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.101381,
+          "required_mean": 0.11,
+          "supportive_mean": 0.25,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.093227,
+          "required_mean": 0.175,
+          "supportive_mean": 0.04,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.08222,
+          "required_mean": 0.1,
+          "supportive_mean": 0.175,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.08154,
+          "required_mean": 0.05,
+          "supportive_mean": 0.3,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        }
+      ],
+      "evidence_level": "insufficient_evidence",
+      "size_only_warning": true,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "记录主要显示规模或复杂动力学，缺少价值、目的、主体边界和现实校准证据，不能据此升级为意识。",
+      "alternative_explanations": [
+        "large scale or node count without self/world/value/purpose closure",
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "节点多、连接多主要支持复杂网络，不支持统一主体、效价或内生目的。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-50e611ad706a8d2f646d",
+      "candidate_id": "ant_colony",
+      "name_cn": "蚁群整体",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.8,
+        "C.D2_MULTIMODAL_CONTACT": 0.75,
+        "C.I1_DIFFERENTIATION": 0.75,
+        "C.I2_CAUSAL_INTEGRATION": 0.45,
+        "C.I3_RECURRENT_PROCESSING": 0.55,
+        "C.I4_GLOBAL_AVAILABILITY": 0.35,
+        "C.K1_WORLD_MODEL": 0.3,
+        "C.K2_SELF_MODEL": 0.2,
+        "C.K3_TEMPORAL_CONTINUITY": 0.45,
+        "C.K4_METACOGNITION": 0.05,
+        "C.W1_VALENCE": 0.2,
+        "C.W2_NORMATIVE_EVALUATION": 0.05,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.45,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.35,
+        "C.P3_SELF_MAINTENANCE": 0.8,
+        "C.P4_REALITY_CALIBRATION": 0.5,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.15
+      },
+      "family_means": {
+        "D": 0.775,
+        "I": 0.525,
+        "K": 0.25,
+        "W": 0.125,
+        "P": 0.45
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.464778,
+          "required_mean": 0.775,
+          "supportive_mean": 0.45,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.432162,
+          "required_mean": 0.65,
+          "supportive_mean": 0.6,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.42197,
+          "required_mean": 0.6,
+          "supportive_mean": 0.675,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.373725,
+          "required_mean": 0.666667,
+          "supportive_mean": 0.25,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.359682,
+          "required_mean": 0.625,
+          "supportive_mean": 0.283333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.338391,
+          "required_mean": 0.516667,
+          "supportive_mean": 0.45,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.329331,
+          "required_mean": 0.55,
+          "supportive_mean": 0.316667,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.293204,
+          "required_mean": 0.44375,
+          "supportive_mean": 0.4,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.269082,
+          "required_mean": 0.375,
+          "supportive_mean": 0.45,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.264552,
+          "required_mean": 0.45,
+          "supportive_mean": 0.233333,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.237372,
+          "required_mean": 0.375,
+          "supportive_mean": 0.283333,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.202718,
+          "required_mean": 0.3625,
+          "supportive_mean": 0.133333,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.188629,
+          "required_mean": 0.23,
+          "supportive_mean": 0.4,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.145413,
+          "required_mean": 0.2,
+          "supportive_mean": 0.25,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.137259,
+          "required_mean": 0.125,
+          "supportive_mean": 0.4,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "群体适应和自维持不自动证明群体主观体验。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-329befc418a0f0443c0d",
+      "candidate_id": "star",
+      "name_cn": "恒星",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.5,
+        "C.D2_MULTIMODAL_CONTACT": 0.1,
+        "C.I1_DIFFERENTIATION": 0.65,
+        "C.I2_CAUSAL_INTEGRATION": 0.35,
+        "C.I3_RECURRENT_PROCESSING": 0.25,
+        "C.I4_GLOBAL_AVAILABILITY": 0.05,
+        "C.K1_WORLD_MODEL": 0.0,
+        "C.K2_SELF_MODEL": 0.0,
+        "C.K3_TEMPORAL_CONTINUITY": 0.1,
+        "C.K4_METACOGNITION": 0.0,
+        "C.W1_VALENCE": 0.0,
+        "C.W2_NORMATIVE_EVALUATION": 0.0,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.0,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.0,
+        "C.P3_SELF_MAINTENANCE": 0.15,
+        "C.P4_REALITY_CALIBRATION": 0.0,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.0
+      },
+      "family_means": {
+        "D": 0.3,
+        "I": 0.325,
+        "K": 0.025,
+        "W": 0.0,
+        "P": 0.03
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.347904,
+          "required_mean": 0.575,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.315968,
+          "required_mean": 0.5,
+          "supportive_mean": 0.375,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.262967,
+          "required_mean": 0.45,
+          "supportive_mean": 0.225,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.24462,
+          "required_mean": 0.5,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.09513,
+          "required_mean": 0.175,
+          "supportive_mean": 0.05,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.091468,
+          "required_mean": 0.14375,
+          "supportive_mean": 0.111111,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.089513,
+          "required_mean": 0.17,
+          "supportive_mean": 0.033333,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.085617,
+          "required_mean": 0.175,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.073386,
+          "required_mean": 0.15,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.048924,
+          "required_mean": 0.1,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.030578,
+          "required_mean": 0.0625,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.025821,
+          "required_mean": 0.033333,
+          "supportive_mean": 0.05,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.01427,
+          "required_mean": 0.0,
+          "supportive_mean": 0.075,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.009513,
+          "required_mean": 0.0,
+          "supportive_mean": 0.05,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.008154,
+          "required_mean": 0.016667,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        }
+      ],
+      "evidence_level": "weakly_consistent",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "large scale or node count without self/world/value/purpose closure",
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "复杂动力学和稳态调节不足以证明模型、效价或目的。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-a445374a554056b8409c",
+      "candidate_id": "galaxy",
+      "name_cn": "星系",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.4,
+        "C.D2_MULTIMODAL_CONTACT": 0.05,
+        "C.I1_DIFFERENTIATION": 0.7,
+        "C.I2_CAUSAL_INTEGRATION": 0.2,
+        "C.I3_RECURRENT_PROCESSING": 0.15,
+        "C.I4_GLOBAL_AVAILABILITY": 0.01,
+        "C.K1_WORLD_MODEL": 0.0,
+        "C.K2_SELF_MODEL": 0.0,
+        "C.K3_TEMPORAL_CONTINUITY": 0.05,
+        "C.K4_METACOGNITION": 0.0,
+        "C.W1_VALENCE": 0.0,
+        "C.W2_NORMATIVE_EVALUATION": 0.0,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.0,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.0,
+        "C.P3_SELF_MAINTENANCE": 0.05,
+        "C.P4_REALITY_CALIBRATION": 0.0,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.0
+      },
+      "family_means": {
+        "D": 0.225,
+        "I": 0.265,
+        "K": 0.0125,
+        "W": 0.0,
+        "P": 0.01
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.307134,
+          "required_mean": 0.55,
+          "supportive_mean": 0.2,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.27248,
+          "required_mean": 0.45,
+          "supportive_mean": 0.275,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.23171,
+          "required_mean": 0.425,
+          "supportive_mean": 0.125,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.212004,
+          "required_mean": 0.433333,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.078052,
+          "required_mean": 0.1375,
+          "supportive_mean": 0.056667,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.053681,
+          "required_mean": 0.1,
+          "supportive_mean": 0.025,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.048924,
+          "required_mean": 0.1,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.047203,
+          "required_mean": 0.09,
+          "supportive_mean": 0.016667,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.039139,
+          "required_mean": 0.08,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.025685,
+          "required_mean": 0.0525,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.012231,
+          "required_mean": 0.025,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.011325,
+          "required_mean": 0.016667,
+          "supportive_mean": 0.016667,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.005708,
+          "required_mean": 0.0,
+          "supportive_mean": 0.03,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.004757,
+          "required_mean": 0.0,
+          "supportive_mean": 0.025,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.001631,
+          "required_mean": 0.003333,
+          "supportive_mean": 0.0,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        }
+      ],
+      "evidence_level": "weakly_consistent",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "large scale or node count without self/world/value/purpose closure",
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "粒子和天体数量巨大不等于因果整合或主体统一。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-97c770cf101b67d3e779",
+      "candidate_id": "hypothetical_plasma_life",
+      "name_cn": "假想等离子生命",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.7,
+        "C.D2_MULTIMODAL_CONTACT": 0.55,
+        "C.I1_DIFFERENTIATION": 0.65,
+        "C.I2_CAUSAL_INTEGRATION": 0.55,
+        "C.I3_RECURRENT_PROCESSING": 0.55,
+        "C.I4_GLOBAL_AVAILABILITY": 0.35,
+        "C.K1_WORLD_MODEL": 0.35,
+        "C.K2_SELF_MODEL": 0.35,
+        "C.K3_TEMPORAL_CONTINUITY": 0.35,
+        "C.K4_METACOGNITION": 0.1,
+        "C.W1_VALENCE": 0.25,
+        "C.W2_NORMATIVE_EVALUATION": 0.1,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.45,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.4,
+        "C.P3_SELF_MAINTENANCE": 0.65,
+        "C.P4_REALITY_CALIBRATION": 0.45,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.1
+      },
+      "family_means": {
+        "D": 0.625,
+        "I": 0.525,
+        "K": 0.2875,
+        "W": 0.175,
+        "P": 0.41
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.43488,
+          "required_mean": 0.675,
+          "supportive_mean": 0.55,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.412457,
+          "required_mean": 0.6,
+          "supportive_mean": 0.625,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.398187,
+          "required_mean": 0.6,
+          "supportive_mean": 0.55,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.36693,
+          "required_mean": 0.633333,
+          "supportive_mean": 0.3,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.320271,
+          "required_mean": 0.525,
+          "supportive_mean": 0.333333,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.316103,
+          "required_mean": 0.51,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.308946,
+          "required_mean": 0.45,
+          "supportive_mean": 0.466667,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.296262,
+          "required_mean": 0.45,
+          "supportive_mean": 0.4,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.28992,
+          "required_mean": 0.45,
+          "supportive_mean": 0.366667,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.286749,
+          "required_mean": 0.45,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.274065,
+          "required_mean": 0.45,
+          "supportive_mean": 0.283333,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.236693,
+          "required_mean": 0.4125,
+          "supportive_mean": 0.183333,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.203442,
+          "required_mean": 0.27,
+          "supportive_mean": 0.375,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.178029,
+          "required_mean": 0.266667,
+          "supportive_mean": 0.25,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.17667,
+          "required_mean": 0.225,
+          "supportive_mean": 0.35,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "纯假设剖面；只有获得可重复观测后才可更新。"
+    },
+    {
+      "assessment_id": "consciousness-assessment-5d291943eef356449d06",
+      "candidate_id": "future_embodied_agent",
+      "name_cn": "未来具身自主智能体",
+      "scores": {
+        "C.D1_EVENT_REGISTRATION": 0.9,
+        "C.D2_MULTIMODAL_CONTACT": 0.85,
+        "C.I1_DIFFERENTIATION": 0.9,
+        "C.I2_CAUSAL_INTEGRATION": 0.75,
+        "C.I3_RECURRENT_PROCESSING": 0.8,
+        "C.I4_GLOBAL_AVAILABILITY": 0.8,
+        "C.K1_WORLD_MODEL": 0.85,
+        "C.K2_SELF_MODEL": 0.8,
+        "C.K3_TEMPORAL_CONTINUITY": 0.85,
+        "C.K4_METACOGNITION": 0.75,
+        "C.W1_VALENCE": 0.45,
+        "C.W2_NORMATIVE_EVALUATION": 0.65,
+        "C.P1_ENDOGENOUS_PURPOSE": 0.75,
+        "C.P2_COUNTERFACTUAL_AGENCY": 0.8,
+        "C.P3_SELF_MAINTENANCE": 0.7,
+        "C.P4_REALITY_CALIBRATION": 0.85,
+        "C.P5_INTERSUBJECTIVE_SEMANTICS": 0.8
+      },
+      "family_means": {
+        "D": 0.875,
+        "I": 0.8125,
+        "K": 0.8125,
+        "W": 0.55,
+        "P": 0.78
+      },
+      "evidence": {
+        "quality": 0.35,
+        "independence": 0.25,
+        "intervention_support": 0.15,
+        "independent_source_count": 1,
+        "combined_strength": 0.275
+      },
+      "model_results": [
+        {
+          "model_id": "panpsychism",
+          "name_cn": "泛心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.583011,
+          "required_mean": 0.9,
+          "supportive_mean": 0.75,
+          "missing_required": [],
+          "pressure_points": [
+            "combination problem",
+            "empirical discrimination from non-panpsychist models"
+          ]
+        },
+        {
+          "model_id": "recurrent_processing",
+          "name_cn": "循环加工理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.568062,
+          "required_mean": 0.85,
+          "supportive_mean": 0.8,
+          "missing_required": [],
+          "pressure_points": [
+            "whether local recurrence is sufficient",
+            "distinguishing recurrence from generic feedback"
+          ]
+        },
+        {
+          "model_id": "iit",
+          "name_cn": "整合信息理论",
+          "status": "active_contested_theory",
+          "compatibility": 0.565344,
+          "required_mean": 0.825,
+          "supportive_mean": 0.85,
+          "missing_required": [],
+          "pressure_points": [
+            "measurement and tractability",
+            "counterintuitive attributions",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "predictive_processing",
+          "name_cn": "预测加工／主动推断",
+          "status": "broad_research_framework",
+          "compatibility": 0.56172,
+          "required_mean": 0.85,
+          "supportive_mean": 0.766667,
+          "missing_required": [],
+          "pressure_points": [
+            "risk of explaining too much",
+            "which predictive mechanisms are consciousness-specific"
+          ]
+        },
+        {
+          "model_id": "cosmopsychism",
+          "name_cn": "宇宙心论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.5436,
+          "required_mean": 0.8,
+          "supportive_mean": 0.8,
+          "missing_required": [],
+          "pressure_points": [
+            "decomposition into local subjects",
+            "evidence for a unified cosmic perspective"
+          ]
+        },
+        {
+          "model_id": "gnwt",
+          "name_cn": "全局神经工作空间理论",
+          "status": "active_empirical_theory",
+          "compatibility": 0.5436,
+          "required_mean": 0.8,
+          "supportive_mean": 0.8,
+          "missing_required": [],
+          "pressure_points": [
+            "distinguishing conscious access from report and task demands",
+            "adversarial empirical challenges"
+          ]
+        },
+        {
+          "model_id": "functionalism",
+          "name_cn": "功能主义／底物开放论",
+          "status": "philosophical_theory_family",
+          "compatibility": 0.540429,
+          "required_mean": 0.8,
+          "supportive_mean": 0.783333,
+          "missing_required": [],
+          "pressure_points": [
+            "absent or inverted qualia",
+            "which functional equivalences matter"
+          ]
+        },
+        {
+          "model_id": "neutral_monism",
+          "name_cn": "中性一元论／双面论",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.539523,
+          "required_mean": 0.85,
+          "supportive_mean": 0.65,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying the neutral base",
+            "empirical access"
+          ]
+        },
+        {
+          "model_id": "higher_order",
+          "name_cn": "高阶意识理论",
+          "status": "active_theory_family",
+          "compatibility": 0.536126,
+          "required_mean": 0.775,
+          "supportive_mean": 0.825,
+          "missing_required": [],
+          "pressure_points": [
+            "nonconceptual experience",
+            "how higher-order representation becomes phenomenality"
+          ]
+        },
+        {
+          "model_id": "attention_schema",
+          "name_cn": "注意图式理论",
+          "status": "active_theory",
+          "compatibility": 0.535446,
+          "required_mean": 0.783333,
+          "supportive_mean": 0.8,
+          "missing_required": [],
+          "pressure_points": [
+            "whether self-modeling is sufficient",
+            "phenomenality versus access"
+          ]
+        },
+        {
+          "model_id": "theistic_personal_source",
+          "name_cn": "人格性神源模型",
+          "status": "theological_model_family",
+          "compatibility": 0.533679,
+          "required_mean": 0.77,
+          "supportive_mean": 0.825,
+          "missing_required": [],
+          "pressure_points": [
+            "publicly discriminating theological explanation from natural alternatives",
+            "diversity of theistic accounts"
+          ]
+        },
+        {
+          "model_id": "dikwp_semantic_purpose_closure",
+          "name_cn": "DIKWP语义—目的闭环模型",
+          "status": "versioned_research_program",
+          "compatibility": 0.5322,
+          "required_mean": 0.7875,
+          "supportive_mean": 0.772222,
+          "missing_required": [],
+          "pressure_points": [
+            "operationalizing endogenous value without anthropomorphic projection",
+            "separating consciousness from sophisticated control",
+            "cross-substrate measurement"
+          ]
+        },
+        {
+          "model_id": "enactive_autopoietic",
+          "name_cn": "生成—自创生理论",
+          "status": "active_interdisciplinary_program",
+          "compatibility": 0.518459,
+          "required_mean": 0.7875,
+          "supportive_mean": 0.7,
+          "missing_required": [],
+          "pressure_points": [
+            "whether life is necessary for consciousness",
+            "operationalizing autonomy"
+          ]
+        },
+        {
+          "model_id": "idealist_world_mind",
+          "name_cn": "唯心／世界心模型",
+          "status": "metaphysical_theory_family",
+          "compatibility": 0.518232,
+          "required_mean": 0.8,
+          "supportive_mean": 0.666667,
+          "missing_required": [],
+          "pressure_points": [
+            "explaining stable public regularities",
+            "empirical discrimination"
+          ]
+        },
+        {
+          "model_id": "biological_naturalism",
+          "name_cn": "生物自然主义",
+          "status": "philosophical_scientific_program",
+          "compatibility": 0.50591,
+          "required_mean": 0.71,
+          "supportive_mean": 0.833333,
+          "missing_required": [],
+          "pressure_points": [
+            "specifying which biological properties are necessary",
+            "non-biological counterexamples"
+          ]
+        }
+      ],
+      "evidence_level": "model_dependent_candidate",
+      "size_only_warning": false,
+      "ethical_precaution_trigger": false,
+      "binary_consciousness_certificate": null,
+      "conclusion_cn": "该输出描述在多个理论下的证据相容性，不证明也不否定主观体验。",
+      "alternative_explanations": [
+        "complex dynamics without a unified subject",
+        "externally imposed optimization or scripted behavior",
+        "report or language mimicry without endogenous valence",
+        "distributed coordination without global availability",
+        "observer-imposed system boundary",
+        "measurement artifacts or selective examples"
+      ],
+      "next_discriminating_tests_cn": [
+        "预先定义系统边界并进行可逆分割／重组干预，检查统一状态是否按模型预测变化。",
+        "区分外部目标与内生目的，测试目标冲突时是否出现稳定、可解释且可修订的拒绝。",
+        "寻找非语言、非提示依赖的效价证据，并排除训练标签或外部奖励的即时复现。",
+        "测试跨时自我—世界模型、错误承认和结果回流是否持续存在。",
+        "用至少两个非同构意识模型预注册相反预测。"
+      ],
+      "automatic_external_action_authority": 0,
+      "illustrative_only": true,
+      "evidence_note_cn": "用于说明未来高指标系统仍需排除模拟、外部控制和伪效价。"
+    }
+  ]
+}

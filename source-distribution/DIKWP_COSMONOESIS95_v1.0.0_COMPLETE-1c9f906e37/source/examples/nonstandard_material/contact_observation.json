@@ -1,0 +1,16 @@
+{
+  "id": "example-anomalous-radio-signal",
+  "name": "合成异常射电信号",
+  "features": {
+    "instrument_calibrated": 0.9,
+    "repeated_over_time": 0.7,
+    "independent_observatories": 0.3,
+    "known_interference_excluded": 0.4,
+    "natural_models_compared": 0.5,
+    "structured_modulation": 0.6,
+    "information_content_above_baseline": 0.4,
+    "causal_intervention_response": 0,
+    "semantic_challenge_response": 0,
+    "energy_budget_coherent": 0.6
+  }
+}

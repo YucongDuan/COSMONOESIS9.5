@@ -1,0 +1,343 @@
+{
+  "registry_id": "cosmonoesis-evidence-registry-2026-08-31",
+  "last_verified": "2026-08-31",
+  "scope_note": "Sources support bounded claims only. An entry in this registry does not certify every interpretation in a tradition profile.",
+  "sources": [
+    {
+      "id": "SRC-ALIEN-CONSCIOUSNESS-PHILIMPRINT",
+      "title": "The Copernican Argument for Alien Consciousness; The Mimicry Argument Against Robot Consciousness",
+      "publisher": "Philosophers' Imprint",
+      "date": "2026-06-06",
+      "url": "https://quod.lib.umich.edu/p/phimp/3521354.0026.001",
+      "source_class": "peer_reviewed_philosophy",
+      "supports": [
+        "substrate humility as a philosophical argument",
+        "Copernican reasoning about alien consciousness"
+      ],
+      "does_not_support": [
+        "a 10^16 unit consciousness threshold",
+        "a Science Advances experiment",
+        "nebulae or the internet being demonstrated conscious"
+      ]
+    },
+    {
+      "id": "SRC-UCR-ALIEN-CONSCIOUSNESS",
+      "title": "Alien consciousness could be radically different from ours",
+      "publisher": "University of California, Riverside",
+      "date": "2026-06-10",
+      "url": "https://news.ucr.edu/articles/2026/06/10/alien-consciousness-could-be-radically-different-ours",
+      "source_class": "university_news",
+      "supports": [
+        "summary of a philosophical Copernican argument"
+      ],
+      "does_not_support": [
+        "numeric complexity thresholds or empirical proof of cosmic consciousness"
+      ]
+    },
+    {
+      "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+      "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+      "publisher": "Nature",
+      "date": "2025-04-30",
+      "url": "https://www.nature.com/articles/s41586-025-08888-1",
+      "source_class": "peer_reviewed_empirical",
+      "supports": [
+        "preregistered adversarial testing of leading consciousness theories",
+        "results that challenge key tenets of both theories"
+      ],
+      "does_not_support": [
+        "a settled universal theory of consciousness"
+      ]
+    },
+    {
+      "id": "SRC-BUTLIN-AI-CONSCIOUSNESS",
+      "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+      "publisher": "arXiv",
+      "date": "2023-08-22",
+      "url": "https://arxiv.org/abs/2308.08708",
+      "source_class": "interdisciplinary_report",
+      "supports": [
+        "theory-derived indicator properties for assessing AI consciousness",
+        "no obvious technical barrier in principle"
+      ],
+      "does_not_support": [
+        "a current AI consciousness certificate"
+      ]
+    },
+    {
+      "id": "SRC-IHEP-GLUEBALL-2026",
+      "title": "BESIII Experiment Identifies X(2370) as a Glueball Dominated Particle",
+      "publisher": "Institute of High Energy Physics, Chinese Academy of Sciences",
+      "date": "2026-08-06",
+      "url": "https://english.ihep.cas.cn/nw/han/y26/202608/t20260806_1080811.html",
+      "source_class": "official_research_institution",
+      "supports": [
+        "X(2370) as glueball-dominated evidence",
+        "gluon self-interaction and bound states in QCD"
+      ],
+      "does_not_support": [
+        "consciousness as a new physical force",
+        "positive thoughts creating relics",
+        "negative thoughts causing tumors"
+      ]
+    },
+    {
+      "id": "SRC-GLUEBALL-ARXIV-2026",
+      "title": "Lightest 0-+ Glueball as Dominant Constituent of X(2370)",
+      "publisher": "arXiv",
+      "date": "2026-07-28",
+      "url": "https://arxiv.org/abs/2607.20366",
+      "source_class": "preprint",
+      "supports": [
+        "quantitative glueball interpretation of X(2370)"
+      ],
+      "does_not_support": [
+        "mind-over-matter extrapolations"
+      ]
+    },
+    {
+      "id": "SRC-SETI-3I-ATLAS-2026",
+      "title": "SETI Institute observations of 3I/ATLAS with the Allen Telescope Array",
+      "publisher": "SETI Institute",
+      "date": "2026-07-10",
+      "url": "https://www.seti.org/news/ata-observations-of-interstellar-object-3i-atlas/",
+      "source_class": "official_research_institution",
+      "supports": [
+        "candidate signals were traced to human-generated radio interference",
+        "no technosignature detected in the reported observations"
+      ],
+      "does_not_support": [
+        "unexplained periodic signals as alien consciousness communication"
+      ]
+    },
+    {
+      "id": "SRC-NCI-CANCER-MYTHS",
+      "title": "Common Cancer Myths and Misconceptions",
+      "publisher": "US National Cancer Institute",
+      "date": "current",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "source_class": "public_health_authority",
+      "supports": [
+        "no convincing evidence that attitude determines cancer risk or survival"
+      ],
+      "does_not_support": [
+        "negative thoughts directly generating tumors"
+      ]
+    },
+    {
+      "id": "SRC-NCCIH-CANCER-COMPLEMENTARY",
+      "title": "Cancer and Complementary Health Approaches",
+      "publisher": "US National Center for Complementary and Integrative Health",
+      "date": "current",
+      "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches",
+      "source_class": "public_health_authority",
+      "supports": [
+        "some mind-body approaches may help selected symptoms or quality of life"
+      ],
+      "does_not_support": [
+        "mind-body practice preventing or curing cancer"
+      ]
+    },
+    {
+      "id": "SRC-SUTTACENTRAL-SN56.11",
+      "title": "Setting the Dhamma Wheel in Motion",
+      "publisher": "SuttaCentral",
+      "url": "https://suttacentral.net/sn56.11/en/sujato",
+      "source_class": "primary_religious_text_portal"
+    },
+    {
+      "id": "SRC-SUTTACENTRAL-SN22.59",
+      "title": "The Characteristic of Not-Self",
+      "publisher": "SuttaCentral",
+      "url": "https://suttacentral.net/sn22.59/en/sujato",
+      "source_class": "primary_religious_text_portal"
+    },
+    {
+      "id": "SRC-GITA",
+      "title": "Bhagavad Gita Supersite",
+      "publisher": "IIT Kanpur",
+      "url": "https://www.gitasupersite.iitk.ac.in/",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-UPANISHADS",
+      "title": "Principal Upanishadic corpus",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-YOGASUTRA",
+      "title": "Yoga Sūtra traditions",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-QURAN-2-255",
+      "title": "Qur'an 2:255",
+      "publisher": "Quran.com",
+      "url": "https://quran.com/2/255",
+      "source_class": "primary_religious_text_portal"
+    },
+    {
+      "id": "SRC-QURAN",
+      "title": "Qur'anic Arabic Corpus",
+      "publisher": "University of Leeds",
+      "url": "https://corpus.quran.com/",
+      "source_class": "primary_text_linguistic_portal"
+    },
+    {
+      "id": "SRC-VATICAN-CATECHISM",
+      "title": "Catechism of the Catholic Church: Man, Image of God",
+      "publisher": "Vatican",
+      "url": "https://www.vatican.va/archive/ENG0015/__P5A.HTM",
+      "source_class": "official_doctrinal_source"
+    },
+    {
+      "id": "SRC-AVESTA-YASNA",
+      "title": "Avesta / Yasna text resources",
+      "publisher": "Avesta.org",
+      "url": "https://www.avesta.org/yasna/",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-BAHAI-WRITINGS",
+      "title": "Bahá’í Reference Library",
+      "publisher": "Bahá’í International Community",
+      "url": "https://www.bahai.org/library/",
+      "source_class": "official_primary_text_portal"
+    },
+    {
+      "id": "SRC-SIKHITOTHEMAX-ANG1",
+      "title": "Sri Guru Granth Sahib Ang 1",
+      "publisher": "SikhiToTheMax",
+      "url": "https://www.sikhitothemax.org/ang?ang=1&source=G",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-KOKUGAKUIN-SHINTO",
+      "title": "Encyclopedia of Shinto",
+      "publisher": "Kokugakuin University",
+      "url": "https://d-museum.kokugakuin.ac.jp/eos/",
+      "source_class": "academic_reference"
+    },
+    {
+      "id": "SRC-CTP-DAODEJING",
+      "title": "Dao De Jing",
+      "publisher": "Chinese Text Project",
+      "url": "https://ctext.org/dao-de-jing",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-CTP-ANALECTS",
+      "title": "Analects",
+      "publisher": "Chinese Text Project",
+      "url": "https://ctext.org/analects",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-SEFARIA",
+      "title": "Sefaria Jewish Text Library",
+      "publisher": "Sefaria",
+      "url": "https://www.sefaria.org/texts",
+      "source_class": "primary_text_portal"
+    },
+    {
+      "id": "SRC-SEP-JAIN",
+      "title": "Jain Philosophy",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/jaina-philosophy/",
+      "source_class": "academic_reference"
+    },
+    {
+      "id": "SRC-UBUNTU",
+      "title": "Ubuntu philosophy reference materials",
+      "publisher": "academic/public sources",
+      "source_class": "academic_reference"
+    },
+    {
+      "id": "SRC-TEARA-WHAKAPAPA",
+      "title": "Whakapapa – genealogy",
+      "publisher": "Te Ara Encyclopedia of New Zealand",
+      "url": "https://teara.govt.nz/en/whakapapa-genealogy",
+      "source_class": "national_reference"
+    },
+    {
+      "id": "SRC-BUDDHIST-CANON",
+      "title": "Buddhist canonical and scholastic corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-HUAYAN",
+      "title": "Huayan canonical and scholastic corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-CHAN",
+      "title": "Chan/Zen canonical and practice corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-PURELAND",
+      "title": "Pure Land canonical and practice corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-BIBLE",
+      "title": "Biblical corpus",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-ORTHODOX",
+      "title": "Eastern Orthodox liturgical and patristic corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-DAOIST-CANON",
+      "title": "Daoist Canon and cultivation corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-NEOCONFUCIAN",
+      "title": "Neo-Confucian canonical and scholastic corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-YORUBA",
+      "title": "Yorùbá–Ifá oral, ritual and scholarly sources",
+      "publisher": "multiple",
+      "source_class": "mixed_primary_scholarly"
+    },
+    {
+      "id": "SRC-ANDEAN",
+      "title": "Andean community, ethnographic and historical sources",
+      "publisher": "multiple",
+      "source_class": "mixed_primary_scholarly"
+    },
+    {
+      "id": "SRC-PLOTINUS",
+      "title": "Plotinus, Enneads",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-STOIC",
+      "title": "Stoic primary and fragmentary corpora",
+      "publisher": "multiple",
+      "source_class": "primary_text_corpus"
+    },
+    {
+      "id": "SRC-HUMANIST",
+      "title": "Modern humanist declarations and philosophical literature",
+      "publisher": "multiple",
+      "source_class": "normative_corpus"
+    }
+  ]
+}

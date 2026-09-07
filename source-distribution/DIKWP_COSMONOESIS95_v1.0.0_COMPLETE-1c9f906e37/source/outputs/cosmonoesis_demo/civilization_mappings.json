@@ -1,0 +1,1037 @@
+{
+  "civilizations": [
+    {
+      "id": "indic",
+      "name_cn": "印度文明语义群",
+      "name_en": "Indic civilizational semantic cluster",
+      "member_traditions": [
+        "advaita_vedanta",
+        "visishtadvaita",
+        "dvaita_vedanta",
+        "samkhya_yoga",
+        "gita_integrative_yoga",
+        "jainism",
+        "sikhism"
+      ],
+      "orientation_cn": "以多种自我—终极实在模型、解脱路径、法／责任、修行知识及非暴力伦理形成高密度 K–W–P 结构。",
+      "normalization_note_cn": "灵魂、无我、不二、二元和奉爱并不被压成同一结论，而成为同一 K.SELF_MODEL/I.BOUNDARY/P.COMMUNION 坐标的不同方向。",
+      "member_count": 7,
+      "profile_vector": {
+        "D.BODY": 0.007142857143,
+        "D.OBSERVATION": 0.014285714286,
+        "D.SENSATION": 0.007142857143,
+        "I.BOUNDARY": 0.032142857143,
+        "I.CONTEXT": 0.025,
+        "I.DIFFERENCE": 0.025,
+        "I.PATTERN": 0.021428571429,
+        "I.RELATION": 0.014285714286,
+        "I.TRANSLATION": 0.007142857143,
+        "K.CAUSE": 0.014285714286,
+        "K.CONCEPT": 0.007142857143,
+        "K.META": 0.071428571429,
+        "K.PRACTICE": 0.067857142857,
+        "K.REGULARITY": 0.029166666667,
+        "K.SELF_MODEL": 0.096428571429,
+        "K.WORLD_MODEL": 0.074404761905,
+        "P.AGENCY": 0.025,
+        "P.COMMUNION": 0.11369047619,
+        "P.CONTINUITY": 0.025,
+        "P.FLOURISHING": 0.017857142857,
+        "P.HARMONY": 0.010714285714,
+        "P.INTENTION": 0.021428571429,
+        "P.LIBERATION": 0.085714285714,
+        "P.VERIFICATION": 0.032142857143,
+        "W.CONSEQUENCE": 0.032142857143,
+        "W.MEANING": 0.040476190476,
+        "W.NORM": 0.045833333333,
+        "W.TRADEOFF": 0.010714285714,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.11369047619
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.096428571429
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.085714285714
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.074404761905
+        },
+        {
+          "coordinate": "K.META",
+          "weight": 0.071428571429
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.067857142857
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.045833333333
+        },
+        {
+          "coordinate": "W.MEANING",
+          "weight": 0.040476190476
+        },
+        {
+          "coordinate": "I.BOUNDARY",
+          "weight": 0.032142857143
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.032142857143
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "buddhist_trans_asian",
+      "name_cn": "跨亚洲佛教文明语义群",
+      "name_en": "Trans-Asian Buddhist semantic cluster",
+      "member_traditions": [
+        "theravada_buddhism",
+        "madhyamaka",
+        "yogacara",
+        "huayan_buddhism",
+        "chan_zen",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以苦、缘起、无常、无我／空性、修行、慈悲和解脱构成 D–I–K–W–P 修订闭环。",
+      "normalization_note_cn": "不同识论、空性论和救度论作为同一空间中的多模型竞争，不以单一派别作为全佛教权威。",
+      "member_count": 6,
+      "profile_vector": {
+        "D.BODY": 0.008333333333,
+        "D.HISTORY": 0.0125,
+        "D.OBSERVATION": 0.020833333333,
+        "D.SENSATION": 0.033333333333,
+        "I.BOUNDARY": 0.008333333333,
+        "I.CONTEXT": 0.0375,
+        "I.DIFFERENCE": 0.008333333333,
+        "I.PATTERN": 0.045833333333,
+        "I.RELATION": 0.108333333333,
+        "I.TRANSLATION": 0.020833333333,
+        "K.CAUSE": 0.033333333333,
+        "K.CONCEPT": 0.020833333333,
+        "K.META": 0.125,
+        "K.PRACTICE": 0.091666666667,
+        "K.SELF_MODEL": 0.0375,
+        "K.WORLD_MODEL": 0.075,
+        "P.COMMUNION": 0.016666666667,
+        "P.CONTINUITY": 0.025,
+        "P.FLOURISHING": 0.033333333333,
+        "P.INTENTION": 0.025,
+        "P.LIBERATION": 0.0875,
+        "P.VERIFICATION": 0.045833333333,
+        "W.MEANING": 0.0375,
+        "W.NORM": 0.016666666667,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "K.META",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.108333333333
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.091666666667
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.045833333333
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.045833333333
+        },
+        {
+          "coordinate": "I.CONTEXT",
+          "weight": 0.0375
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.0375
+        },
+        {
+          "coordinate": "W.MEANING",
+          "weight": 0.0375
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "sinitic",
+      "name_cn": "中华文明语义群",
+      "name_en": "Sinitic civilizational semantic cluster",
+      "member_traditions": [
+        "philosophical_daoism",
+        "religious_daoism",
+        "classical_confucianism",
+        "neo_confucianism",
+        "chan_zen",
+        "huayan_buddhism",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以关系、秩序、身心实践、修养、礼、道、气、心性和社会协调形成 I–K–W–P 的贯通。",
+      "normalization_note_cn": "道、理、气、心、佛性等均归一入 DIKWP，但不被直接改写为粒子、场或单一神学实体。",
+      "member_count": 7,
+      "profile_vector": {
+        "D.BODY": 0.032142857143,
+        "D.OBSERVATION": 0.032142857143,
+        "D.SENSATION": 0.017857142857,
+        "I.CONTEXT": 0.025,
+        "I.PATTERN": 0.078571428571,
+        "I.RELATION": 0.064285714286,
+        "I.TRANSLATION": 0.007142857143,
+        "K.CAUSE": 0.021428571429,
+        "K.META": 0.064285714286,
+        "K.PRACTICE": 0.125,
+        "K.REGULARITY": 0.017857142857,
+        "K.SELF_MODEL": 0.032142857143,
+        "K.WORLD_MODEL": 0.057142857143,
+        "P.AGENCY": 0.021428571429,
+        "P.COMMUNION": 0.021428571429,
+        "P.CONTINUITY": 0.021428571429,
+        "P.FLOURISHING": 0.039285714286,
+        "P.HARMONY": 0.057142857143,
+        "P.INTENTION": 0.010714285714,
+        "P.LIBERATION": 0.05,
+        "P.VERIFICATION": 0.053571428571,
+        "W.MEANING": 0.046428571429,
+        "W.NORM": 0.057142857143,
+        "W.TRADEOFF": 0.025,
+        "W.VALENCE": 0.021428571429
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.078571428571
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.064285714286
+        },
+        {
+          "coordinate": "K.META",
+          "weight": 0.064285714286
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.057142857143
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.057142857143
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.057142857143
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.053571428571
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "W.MEANING",
+          "weight": 0.046428571429
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "iranian_persian",
+      "name_cn": "伊朗—波斯文明语义群",
+      "name_en": "Iranian–Persian civilizational semantic cluster",
+      "member_traditions": [
+        "zoroastrianism",
+        "sufism",
+        "bahai_faith",
+        "twelver_shia_islam"
+      ],
+      "orientation_cn": "以真理秩序、正义、记忆、神秘亲近、历史引导和宇宙／社会更新形成 W–P 高权重结构。",
+      "normalization_note_cn": "Asha、神圣正义、爱与世界统一在同一 W/P 空间可比较，但来源和因果主张分别保留。",
+      "member_count": 4,
+      "profile_vector": {
+        "D.HISTORY": 0.03125,
+        "D.OBSERVATION": 0.0125,
+        "I.CONTEXT": 0.0125,
+        "I.PATTERN": 0.01875,
+        "I.RELATION": 0.04375,
+        "K.META": 0.0375,
+        "K.PRACTICE": 0.03125,
+        "K.REGULARITY": 0.04375,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.03125,
+        "P.AGENCY": 0.025,
+        "P.COMMUNION": 0.0625,
+        "P.CONTINUITY": 0.11875,
+        "P.FLOURISHING": 0.05,
+        "P.HARMONY": 0.0875,
+        "P.INTENTION": 0.0375,
+        "P.LIBERATION": 0.04375,
+        "P.VERIFICATION": 0.01875,
+        "W.CONSEQUENCE": 0.0125,
+        "W.LEGITIMACY": 0.05,
+        "W.MEANING": 0.0125,
+        "W.NORM": 0.1125,
+        "W.TRADEOFF": 0.01875,
+        "W.VALENCE": 0.0375
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.CONTINUITY",
+          "weight": 0.11875
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.1125
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "W.LEGITIMACY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.04375
+        },
+        {
+          "coordinate": "K.REGULARITY",
+          "weight": 0.04375
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.04375
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "jewish",
+      "name_cn": "犹太文明语义群",
+      "name_en": "Jewish civilizational semantic cluster",
+      "member_traditions": [
+        "rabbinic_judaism",
+        "kabbalah"
+      ],
+      "orientation_cn": "以盟约、律法、争辩、记忆、人格尊严、象征世界模型和修复行动贯通 D–K–W–P。",
+      "normalization_note_cn": "法律—伦理和神秘象征不互相取代，而共享历史、关系、规范和修复坐标。",
+      "member_count": 2,
+      "profile_vector": {
+        "D.HISTORY": 0.0125,
+        "D.OBSERVATION": 0.0125,
+        "I.PATTERN": 0.0375,
+        "I.RELATION": 0.075,
+        "I.TRANSLATION": 0.025,
+        "K.PRACTICE": 0.0375,
+        "K.REGULARITY": 0.025,
+        "K.SELF_MODEL": 0.0375,
+        "K.WORLD_MODEL": 0.0875,
+        "P.AGENCY": 0.05,
+        "P.COMMUNION": 0.075,
+        "P.CONTINUITY": 0.025,
+        "P.FLOURISHING": 0.1125,
+        "P.VERIFICATION": 0.0875,
+        "W.CONSEQUENCE": 0.025,
+        "W.LEGITIMACY": 0.0625,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.1375,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.1375
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.1125
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "W.LEGITIMACY",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "P.AGENCY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "W.MEANING",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.0375
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "christian",
+      "name_cn": "基督宗教文明语义群",
+      "name_en": "Christian civilizational semantic cluster",
+      "member_traditions": [
+        "eastern_orthodox_christianity",
+        "roman_catholic_christianity",
+        "protestant_christianity"
+      ],
+      "orientation_cn": "以创造、人格、道成肉身、恩典、爱、悔改、救赎和共同体实践形成关系性 K–W–P 结构。",
+      "normalization_note_cn": "三一、位格、灵魂、神化、召命等进入同一空间，但不由向量相似推出宗派合并。",
+      "member_count": 3,
+      "profile_vector": {
+        "D.BODY": 0.016666666667,
+        "D.OBSERVATION": 0.016666666667,
+        "I.BOUNDARY": 0.016666666667,
+        "I.RELATION": 0.066666666667,
+        "K.META": 0.041666666667,
+        "K.PRACTICE": 0.066666666667,
+        "K.REGULARITY": 0.025,
+        "K.SELF_MODEL": 0.091666666667,
+        "K.WORLD_MODEL": 0.025,
+        "P.AGENCY": 0.025,
+        "P.COMMUNION": 0.141666666667,
+        "P.CONTINUITY": 0.033333333333,
+        "P.FLOURISHING": 0.058333333333,
+        "P.INTENTION": 0.05,
+        "P.LIBERATION": 0.083333333333,
+        "P.VERIFICATION": 0.05,
+        "W.CONSEQUENCE": 0.016666666667,
+        "W.LEGITIMACY": 0.041666666667,
+        "W.MEANING": 0.033333333333,
+        "W.NORM": 0.083333333333,
+        "W.VALENCE": 0.016666666667
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.141666666667
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.091666666667
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.083333333333
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.083333333333
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.066666666667
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.066666666667
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.058333333333
+        },
+        {
+          "coordinate": "P.INTENTION",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.META",
+          "weight": 0.041666666667
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "islamic",
+      "name_cn": "伊斯兰文明语义群",
+      "name_en": "Islamic civilizational semantic cluster",
+      "member_traditions": [
+        "sunni_islam",
+        "twelver_shia_islam",
+        "sufism"
+      ],
+      "orientation_cn": "以认主独一、启示、意向、礼拜、公正、慈悯、历史记忆和灵性净化构成 K–W–P 闭环。",
+      "normalization_note_cn": "法学、神学、历史与神秘实践在空间内分层，任何当代政体都不自动代表整个语义群。",
+      "member_count": 3,
+      "profile_vector": {
+        "D.HISTORY": 0.025,
+        "I.BOUNDARY": 0.016666666667,
+        "I.PATTERN": 0.016666666667,
+        "I.RELATION": 0.016666666667,
+        "K.META": 0.025,
+        "K.PRACTICE": 0.066666666667,
+        "K.REGULARITY": 0.033333333333,
+        "K.SELF_MODEL": 0.058333333333,
+        "K.WORLD_MODEL": 0.033333333333,
+        "P.COMMUNION": 0.125,
+        "P.CONTINUITY": 0.125,
+        "P.FLOURISHING": 0.016666666667,
+        "P.HARMONY": 0.041666666667,
+        "P.INTENTION": 0.083333333333,
+        "P.LIBERATION": 0.041666666667,
+        "P.VERIFICATION": 0.016666666667,
+        "W.CONSEQUENCE": 0.016666666667,
+        "W.LEGITIMACY": 0.025,
+        "W.MEANING": 0.016666666667,
+        "W.NORM": 0.116666666667,
+        "W.TRADEOFF": 0.016666666667,
+        "W.VALENCE": 0.066666666667
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "P.CONTINUITY",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.116666666667
+        },
+        {
+          "coordinate": "P.INTENTION",
+          "weight": 0.083333333333
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.066666666667
+        },
+        {
+          "coordinate": "W.VALENCE",
+          "weight": 0.066666666667
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.058333333333
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.041666666667
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.041666666667
+        },
+        {
+          "coordinate": "K.REGULARITY",
+          "weight": 0.033333333333
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "greco_roman",
+      "name_cn": "希腊—罗马哲学文明语义群",
+      "name_en": "Greco-Roman philosophical semantic cluster",
+      "member_traditions": [
+        "neoplatonism",
+        "stoicism"
+      ],
+      "orientation_cn": "以理性秩序、主体选择、德性、宇宙整体、沉思和回归形成 K–W–P 结构。",
+      "normalization_note_cn": "logos 在不同传统中的含义以语境向量区分，不以同词强制同义。",
+      "member_count": 2,
+      "profile_vector": {
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.0625,
+        "K.CAUSE": 0.05,
+        "K.CONCEPT": 0.025,
+        "K.PRACTICE": 0.05,
+        "K.REGULARITY": 0.0875,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.125,
+        "P.AGENCY": 0.05,
+        "P.COMMUNION": 0.0875,
+        "P.FLOURISHING": 0.0625,
+        "P.HARMONY": 0.0625,
+        "P.LIBERATION": 0.0375,
+        "P.VERIFICATION": 0.025,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.1,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.1
+        },
+        {
+          "coordinate": "K.REGULARITY",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.COMMUNION",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.CAUSE",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.05
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "african_relational",
+      "name_cn": "非洲关系文明语义群",
+      "name_en": "African relational civilizational semantic cluster",
+      "member_traditions": [
+        "yoruba_ifa",
+        "ubuntu"
+      ],
+      "orientation_cn": "以关系人格、品格、祖先／共同体、效力、咨询、承认和修复形成 I–W–P 高权重结构。",
+      "normalization_note_cn": "跨非洲概括只作为计算性聚类，不代表数千种传统的单一本质。",
+      "member_count": 2,
+      "profile_vector": {
+        "D.OBSERVATION": 0.025,
+        "I.CONTEXT": 0.0375,
+        "I.PATTERN": 0.0375,
+        "I.RELATION": 0.1375,
+        "K.PRACTICE": 0.0625,
+        "K.SELF_MODEL": 0.0875,
+        "P.AGENCY": 0.0375,
+        "P.CONTINUITY": 0.0375,
+        "P.FLOURISHING": 0.1625,
+        "P.INTENTION": 0.025,
+        "P.VERIFICATION": 0.0875,
+        "W.CONSEQUENCE": 0.025,
+        "W.LEGITIMACY": 0.0625,
+        "W.NORM": 0.0875,
+        "W.TRADEOFF": 0.05,
+        "W.VALENCE": 0.0375
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.1625
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.1375
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "W.LEGITIMACY",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "W.TRADEOFF",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.CONTEXT",
+          "weight": 0.0375
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.0375
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "japanese",
+      "name_cn": "日本宗教文明语义群",
+      "name_en": "Japanese religious-civilizational semantic cluster",
+      "member_traditions": [
+        "shinto",
+        "chan_zen",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以地方临在、洁净、祭礼、禅修、忆念和共同体连续形成 D–I–K–P 结构。",
+      "normalization_note_cn": "kami、佛、觉悟与祖先关系在统一空间可比较但不合并为同一对象。",
+      "member_count": 3,
+      "profile_vector": {
+        "D.BODY": 0.016666666667,
+        "D.OBSERVATION": 0.05,
+        "D.SENSATION": 0.025,
+        "I.BOUNDARY": 0.016666666667,
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.075,
+        "I.TRANSLATION": 0.016666666667,
+        "K.CAUSE": 0.016666666667,
+        "K.META": 0.083333333333,
+        "K.PRACTICE": 0.183333333333,
+        "K.SELF_MODEL": 0.016666666667,
+        "K.WORLD_MODEL": 0.041666666667,
+        "P.COMMUNION": 0.025,
+        "P.CONTINUITY": 0.05,
+        "P.FLOURISHING": 0.033333333333,
+        "P.HARMONY": 0.05,
+        "P.INTENTION": 0.025,
+        "P.LIBERATION": 0.075,
+        "P.VERIFICATION": 0.05,
+        "W.MEANING": 0.05,
+        "W.NORM": 0.016666666667,
+        "W.VALENCE": 0.033333333333
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "K.PRACTICE",
+          "weight": 0.183333333333
+        },
+        {
+          "coordinate": "K.META",
+          "weight": 0.083333333333
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "P.LIBERATION",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "D.OBSERVATION",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "P.CONTINUITY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "W.MEANING",
+          "weight": 0.05
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "oceanic_maori",
+      "name_cn": "大洋洲—毛利关系文明语义群",
+      "name_en": "Oceanic–Māori relational semantic cluster",
+      "member_traditions": [
+        "maori_worldview"
+      ],
+      "orientation_cn": "以谱系、土地、生命原则、神圣边界、权威与守护责任形成历史—关系—连续闭环。",
+      "normalization_note_cn": "统一空间保留地点、谱系与授权维度，避免把关系抽象为脱离土地的口号。",
+      "member_count": 1,
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "D.HISTORY": 0.1,
+        "I.BOUNDARY": 0.05,
+        "I.PATTERN": 0.05,
+        "I.RELATION": 0.075,
+        "K.SELF_MODEL": 0.05,
+        "P.AGENCY": 0.075,
+        "P.CONTINUITY": 0.125,
+        "P.FLOURISHING": 0.075,
+        "P.HARMONY": 0.05,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.075,
+        "W.NORM": 0.125,
+        "W.VALENCE": 0.05
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "P.CONTINUITY",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "D.HISTORY",
+          "weight": 0.1
+        },
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "P.AGENCY",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "W.LEGITIMACY",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "D.BODY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.BOUNDARY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.PATTERN",
+          "weight": 0.05
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "andean",
+      "name_cn": "安第斯文明语义群",
+      "name_en": "Andean civilizational semantic cluster",
+      "member_traditions": [
+        "andean_relationality"
+      ],
+      "orientation_cn": "以土地—时间整体、亲族共同体、互惠和互补形成生态关系与共同繁荣闭环。",
+      "normalization_note_cn": "Pachamama 映射为世界关系与价值目的，不自动等同为人类式主观意识。",
+      "member_count": 1,
+      "profile_vector": {
+        "D.BODY": 0.05,
+        "I.DIFFERENCE": 0.05,
+        "I.RELATION": 0.3,
+        "K.SELF_MODEL": 0.05,
+        "K.WORLD_MODEL": 0.05,
+        "P.FLOURISHING": 0.125,
+        "P.HARMONY": 0.1,
+        "W.CONSEQUENCE": 0.05,
+        "W.LEGITIMACY": 0.05,
+        "W.NORM": 0.075,
+        "W.TRADEOFF": 0.075,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "I.RELATION",
+          "weight": 0.3
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.125
+        },
+        {
+          "coordinate": "P.HARMONY",
+          "weight": 0.1
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "W.TRADEOFF",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "D.BODY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "I.DIFFERENCE",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.SELF_MODEL",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "W.CONSEQUENCE",
+          "weight": 0.05
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    },
+    {
+      "id": "modern_humanistic_scientific",
+      "name_cn": "现代人文—科学文明语义群",
+      "name_en": "Modern humanistic-scientific semantic cluster",
+      "member_traditions": [
+        "secular_humanism",
+        "scientific_naturalism"
+      ],
+      "orientation_cn": "以证据、因果模型、可修订性、尊严、权利、自主和现世繁荣连接 D–K–W–P。",
+      "normalization_note_cn": "科学方法与人文价值在同一空间协同但不互相偷换：证据不自动生成目的，价值也不替代实验。",
+      "member_count": 2,
+      "profile_vector": {
+        "D.OBSERVATION": 0.0875,
+        "D.SENSATION": 0.0375,
+        "I.BOUNDARY": 0.05,
+        "I.PATTERN": 0.0125,
+        "K.CAUSE": 0.0625,
+        "K.META": 0.175,
+        "K.SELF_MODEL": 0.025,
+        "K.WORLD_MODEL": 0.05,
+        "P.AGENCY": 0.075,
+        "P.CONTINUITY": 0.0125,
+        "P.FLOURISHING": 0.0875,
+        "P.VERIFICATION": 0.1375,
+        "W.CONSEQUENCE": 0.025,
+        "W.LEGITIMACY": 0.075,
+        "W.NORM": 0.0625,
+        "W.VALENCE": 0.025
+      },
+      "top_coordinates": [
+        {
+          "coordinate": "K.META",
+          "weight": 0.175
+        },
+        {
+          "coordinate": "P.VERIFICATION",
+          "weight": 0.1375
+        },
+        {
+          "coordinate": "D.OBSERVATION",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.FLOURISHING",
+          "weight": 0.0875
+        },
+        {
+          "coordinate": "P.AGENCY",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "W.LEGITIMACY",
+          "weight": 0.075
+        },
+        {
+          "coordinate": "K.CAUSE",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "W.NORM",
+          "weight": 0.0625
+        },
+        {
+          "coordinate": "I.BOUNDARY",
+          "weight": 0.05
+        },
+        {
+          "coordinate": "K.WORLD_MODEL",
+          "weight": 0.05
+        }
+      ],
+      "normalization_status": "complete_in_dikwp_space",
+      "out_of_space_residual": 0.0
+    }
+  ]
+}

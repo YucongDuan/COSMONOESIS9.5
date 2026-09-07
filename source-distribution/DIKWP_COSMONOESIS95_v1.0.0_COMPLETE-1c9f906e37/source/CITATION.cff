@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "DIKWP-COSMONOESIS 9.5"
+message: "Please cite this software and identify the registry version used."
+type: software
+version: 1.0.0
+date-released: 2026-08-31
+authors:
+  - family-names: Duan
+    given-names: Yucong
+license: Apache-2.0
+abstract: "A DIKWP-normalized universal-consciousness, cross-religious/civilizational mapping, claim-audit and reality-contact system."

@@ -1,0 +1,303 @@
+{
+  "ontology_id": "dikwp-cosmonoesis-space-1.0.0",
+  "title_cn": "DIKWP 宇宙意识统一语义空间",
+  "title_en": "DIKWP Unified Semantic Space for Universal Consciousness",
+  "version": "1.0.0",
+  "normalization_thesis": {
+    "cn": "所有宗教、文明、科学与哲学概念必须被投影到同一 DIKWP 坐标空间。归一是坐标统一，而非历史同一化；差异、歧义和新增概念均表示为空间内的向量、关系、语境或版本化扩展，不设置永久的空间外不可互译区。",
+    "en": "Every religious, civilizational, scientific and philosophical concept is projected into one DIKWP coordinate space. Normalization unifies coordinates rather than asserting historical identity. Difference, ambiguity and novelty are represented as in-space vectors, relations, contexts or versioned extensions; no permanent extra-semantic untranslatable zone is permitted."
+  },
+  "families": {
+    "D": {
+      "cn": "数据／发生",
+      "en": "Data / occurrence",
+      "question": "发生了什么，何人何时以何种身体、仪器或传统记录条件接触到它？"
+    },
+    "I": {
+      "cn": "信息／差异关系",
+      "en": "Information / differences and relations",
+      "question": "哪些差异、关系、边界、模式与语境使记录具有结构？"
+    },
+    "K": {
+      "cn": "知识／模型",
+      "en": "Knowledge / models",
+      "question": "如何形成概念、自我—世界模型、生成解释、规律主张与实践知识？"
+    },
+    "W": {
+      "cn": "智慧／价值判断",
+      "en": "Wisdom / value judgment",
+      "question": "何者值得追求、避免或承担，后果、权衡与正当性如何？"
+    },
+    "P": {
+      "cn": "目的／行动闭环",
+      "en": "Purpose / action closure",
+      "question": "主体、共同体或宇宙叙事朝向什么目的，如何行动并接受现实返回？"
+    }
+  },
+  "anchors": [
+    {
+      "id": "D.EVENT",
+      "family": "D",
+      "label_cn": "发生记录",
+      "label_en": "Occurrence/event trace",
+      "definition": "A bounded occurrence, state transition or registered happening."
+    },
+    {
+      "id": "D.SENSATION",
+      "family": "D",
+      "label_cn": "感知与测量",
+      "label_en": "Sensation and measurement",
+      "definition": "A sensed, measured or instrumentally registered datum."
+    },
+    {
+      "id": "D.OBSERVATION",
+      "family": "D",
+      "label_cn": "观察与见证",
+      "label_en": "Observation and testimony",
+      "definition": "An observation, testimony or disciplined first-person report with source conditions."
+    },
+    {
+      "id": "D.BODY",
+      "family": "D",
+      "label_cn": "身体与物质条件",
+      "label_en": "Body and material condition",
+      "definition": "Embodied, ecological, energetic or material constraints without presuming a metaphysical reduction."
+    },
+    {
+      "id": "D.HISTORY",
+      "family": "D",
+      "label_cn": "历史与谱系记录",
+      "label_en": "History and lineage record",
+      "definition": "Temporal succession, ancestry, transmission or append-only worldline record."
+    },
+    {
+      "id": "I.DIFFERENCE",
+      "family": "I",
+      "label_cn": "差异与辨别",
+      "label_en": "Difference and discrimination",
+      "definition": "A distinction that makes information possible."
+    },
+    {
+      "id": "I.RELATION",
+      "family": "I",
+      "label_cn": "关系与互依",
+      "label_en": "Relation and interdependence",
+      "definition": "Relations, dependence, participation, covenant, kinship or co-arising."
+    },
+    {
+      "id": "I.PATTERN",
+      "family": "I",
+      "label_cn": "模式与秩序",
+      "label_en": "Pattern and order",
+      "definition": "Regularity, proportion, rhythm, symbol or structured correlation."
+    },
+    {
+      "id": "I.BOUNDARY",
+      "family": "I",
+      "label_cn": "边界与身份",
+      "label_en": "Boundary and identity",
+      "definition": "Self/other, sacred/profane, lawful/unlawful, organism/environment or role boundary."
+    },
+    {
+      "id": "I.CONTEXT",
+      "family": "I",
+      "label_cn": "语境与尺度",
+      "label_en": "Context and scale",
+      "definition": "Context, perspective, language, scale, epoch or situation conditioning a meaning."
+    },
+    {
+      "id": "I.TRANSLATION",
+      "family": "I",
+      "label_cn": "翻译与对齐",
+      "label_en": "Translation and alignment",
+      "definition": "A declared transformation between semantic systems with explicit confidence and loss."
+    },
+    {
+      "id": "K.CONCEPT",
+      "family": "K",
+      "label_cn": "概念与范畴",
+      "label_en": "Concept and category",
+      "definition": "A concept, category, doctrinal distinction or explanatory primitive."
+    },
+    {
+      "id": "K.CAUSE",
+      "family": "K",
+      "label_cn": "因果与生成",
+      "label_en": "Causation and generation",
+      "definition": "A causal, constitutive, generative or dependent-production account."
+    },
+    {
+      "id": "K.WORLD_MODEL",
+      "family": "K",
+      "label_cn": "宇宙与世界模型",
+      "label_en": "Cosmos and world model",
+      "definition": "A model of reality, nature, history, society, transcendence or possible worlds."
+    },
+    {
+      "id": "K.SELF_MODEL",
+      "family": "K",
+      "label_cn": "自我与主体模型",
+      "label_en": "Self and subject model",
+      "definition": "A model of self, person, soul, no-self, relational identity or center of agency."
+    },
+    {
+      "id": "K.REGULARITY",
+      "family": "K",
+      "label_cn": "规律与真理主张",
+      "label_en": "Regularity and truth claim",
+      "definition": "A law, truth, order, revelation claim, theorem, working proposition or invariant."
+    },
+    {
+      "id": "K.PRACTICE",
+      "family": "K",
+      "label_cn": "实践与传承知识",
+      "label_en": "Practice and transmitted know-how",
+      "definition": "Ritual, meditation, prayer, cultivation, experiment, craft or pedagogy."
+    },
+    {
+      "id": "K.META",
+      "family": "K",
+      "label_cn": "反思与模型修订",
+      "label_en": "Reflection and model revision",
+      "definition": "Knowledge about limits, error, interpretation, falsification and model retirement."
+    },
+    {
+      "id": "W.VALENCE",
+      "family": "W",
+      "label_cn": "苦乐与价值感受",
+      "label_en": "Valence and felt value",
+      "definition": "Suffering, flourishing, sacredness, beauty, awe, compassion or other value-laden experience."
+    },
+    {
+      "id": "W.NORM",
+      "family": "W",
+      "label_cn": "伦理与规范",
+      "label_en": "Ethics and norm",
+      "definition": "Duty, virtue, command, precept, justice, reciprocity or moral prohibition."
+    },
+    {
+      "id": "W.CONSEQUENCE",
+      "family": "W",
+      "label_cn": "后果与责任",
+      "label_en": "Consequence and responsibility",
+      "definition": "Downstream effects, burdens, accountability and responsibility handoff."
+    },
+    {
+      "id": "W.TRADEOFF",
+      "family": "W",
+      "label_cn": "权衡与中道",
+      "label_en": "Trade-off and measured balance",
+      "definition": "Balance, proportionality, middle way, contextual judgment and conflict resolution."
+    },
+    {
+      "id": "W.MEANING",
+      "family": "W",
+      "label_cn": "意义与智慧",
+      "label_en": "Meaning and wisdom",
+      "definition": "Existential significance, interpretive depth, wisdom and orientation within a whole."
+    },
+    {
+      "id": "W.LEGITIMACY",
+      "family": "W",
+      "label_cn": "正当性与授权",
+      "label_en": "Legitimacy and authorization",
+      "definition": "Consent, authority, covenant, mandate, public justification and revocability."
+    },
+    {
+      "id": "P.INTENTION",
+      "family": "P",
+      "label_cn": "意图与祈愿",
+      "label_en": "Intention and aspiration",
+      "definition": "An intention, vow, prayer, desire or purposive orientation."
+    },
+    {
+      "id": "P.LIBERATION",
+      "family": "P",
+      "label_cn": "解脱、救赎与超越",
+      "label_en": "Liberation, salvation and transcendence",
+      "definition": "Release from suffering, sin, ignorance, bondage or constricted identity."
+    },
+    {
+      "id": "P.HARMONY",
+      "family": "P",
+      "label_cn": "和谐、正道与秩序",
+      "label_en": "Harmony, right order and alignment",
+      "definition": "Alignment with Dao, dharma, justice, cosmic order, ecological balance or social concord."
+    },
+    {
+      "id": "P.COMMUNION",
+      "family": "P",
+      "label_cn": "合一、临在与关系实现",
+      "label_en": "Communion, presence and relational realization",
+      "definition": "Communion, union, remembrance, participation, covenantal relation or non-separation."
+    },
+    {
+      "id": "P.FLOURISHING",
+      "family": "P",
+      "label_cn": "生命完善与共同繁荣",
+      "label_en": "Flourishing and collective good",
+      "definition": "Human, communal, multispecies or cosmic flourishing."
+    },
+    {
+      "id": "P.AGENCY",
+      "family": "P",
+      "label_cn": "行动、拒绝与自我维持",
+      "label_en": "Agency, refusal and self-maintenance",
+      "definition": "Counterfactual choice, boundary defense, self-maintenance, refusal and reversible action."
+    },
+    {
+      "id": "P.VERIFICATION",
+      "family": "P",
+      "label_cn": "现实接触与校准",
+      "label_en": "Reality contact and calibration",
+      "definition": "Experiment, lived consequence, prediction settlement, repentance, correction or practical verification."
+    },
+    {
+      "id": "P.CONTINUITY",
+      "family": "P",
+      "label_cn": "记忆、传承与后继自由",
+      "label_en": "Continuity, transmission and successor freedom",
+      "definition": "Memory, lineage, regeneration, intergenerational continuity and freedom of successor worlds."
+    }
+  ],
+  "operators": [
+    {
+      "id": "PROJECT",
+      "cn": "把原生概念及语境投影为 DIKWP 概率向量。",
+      "formal": "Phi(c,context)->v in simplex(DIKWP)"
+    },
+    {
+      "id": "NORMALIZE",
+      "cn": "将所有非负权重归一，总和为1。",
+      "formal": "N(v)=v/sum(v)"
+    },
+    {
+      "id": "ALIGN",
+      "cn": "在同一坐标中计算相似、方向差异与目的距离。",
+      "formal": "A(x,y)={cos(x,y),L1(x,y),x-y}"
+    },
+    {
+      "id": "EXTEND",
+      "cn": "未覆盖概念必须归入 D/I/K/W/P 的版本化子节点，并声明父坐标、证据与修订条件。",
+      "formal": "E(c)=new_anchor(parent in DIKWP,provenance,version)"
+    },
+    {
+      "id": "CENTROID",
+      "cn": "把传统或文明的多个概念归一为可比较的 DIKWP 重心。",
+      "formal": "C(S)=normalize(sum(w_i*v_i))"
+    },
+    {
+      "id": "RETURN",
+      "cn": "目的驱动行动后，现实结果返回 D 并修订 I/K/W/P。",
+      "formal": "P->action->D'->revision(I,K,W,P)"
+    }
+  ],
+  "semantic_closure_rules": [
+    "No term is classified as permanently outside DIKWP space.",
+    "A source term may map to multiple coordinates and multiple context-conditioned vectors.",
+    "Normalization never by itself proves doctrinal equivalence, scientific truth or historical identity.",
+    "Every mapping retains source, school, context, confidence, version and loss notes as in-space metadata.",
+    "New distinctions extend the ontology under D, I, K, W or P; they do not create a sixth metaphysical remainder class.",
+    "Cosine similarity is a comparison tool, not a theological or scientific verdict."
+  ]
+}

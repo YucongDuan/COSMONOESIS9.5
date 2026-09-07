@@ -1,0 +1,107 @@
+{
+  "algorithm": "sha256",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "FULL_SYSTEM_REPORT_CN.md",
+      "bytes": 90220,
+      "sha256": "b8e2e5c28b13ccb2de16da38dd3f9ce7a99e1358f53fb3313dfb55e0086a618f"
+    },
+    {
+      "path": "OUTPUT_INFO.json",
+      "bytes": 515,
+      "sha256": "e8c62f9dc301e023be74d6dcd685af1d9d980bbb57c27fe0d140281a9bdee603"
+    },
+    {
+      "path": "civilization_mappings.json",
+      "bytes": 29813,
+      "sha256": "8c014f5df0e54bbbf97906cc2f0c1edf421d7e32e580b5c41e4ee5d1e78b64e4"
+    },
+    {
+      "path": "civilization_similarity_matrix.json",
+      "bytes": 17599,
+      "sha256": "69a2189398e4e66245b62efa98b6c1d867d97c3f9d5a20303fa33a3ba686f6ab"
+    },
+    {
+      "path": "claim_audit.json",
+      "bytes": 39586,
+      "sha256": "eb8644ecf0a9751027639e00f539b2e19cd8ee4c575459005407d2f950ff179a"
+    },
+    {
+      "path": "consciousness_assessments.json",
+      "bytes": 85690,
+      "sha256": "b8cf8d0adae17e1d3f73ea166cb65f867987222509d9ca5e646102be7361f15b"
+    },
+    {
+      "path": "consciousness_candidate_matrix.csv",
+      "bytes": 992,
+      "sha256": "3378689c5070a6704cc9afe2d0ca192e3c71d86eab636ed45f84a6d183c8ff1d"
+    },
+    {
+      "path": "consciousness_model_registry.json",
+      "bytes": 25287,
+      "sha256": "67d073c10c0de43abb87bd74421fefb44cd74bd41306ac7204565aed04fa591c"
+    },
+    {
+      "path": "contact_protocol_demo.json",
+      "bytes": 3225,
+      "sha256": "ea8a60cd7b01819e38389eff73eecc68081fdfb66f737b46bc92afe401d88444"
+    },
+    {
+      "path": "cosmic_principles.json",
+      "bytes": 9488,
+      "sha256": "e6a3aed9bb413e4ceca501837ef93af877fe90b19d8dd442a20d272836d30b2f"
+    },
+    {
+      "path": "cosmic_world_models.json",
+      "bytes": 3191,
+      "sha256": "3e754b51061feca6c2e8f5079f42a984b3a933752e004516bafad349a5e5c442"
+    },
+    {
+      "path": "cosmonoesis_bundle.json",
+      "bytes": 601257,
+      "sha256": "3acb2600c8a3336ea6b648d19d84c518400dcfdfcb71441b11510608f4a5cfd9"
+    },
+    {
+      "path": "dashboard.html",
+      "bytes": 424314,
+      "sha256": "f61132b0fb7152dafd0345017e85325437ea3d18d4d4c8997aeff8ccdfe421ad"
+    },
+    {
+      "path": "dikwp_ontology.json",
+      "bytes": 11603,
+      "sha256": "99b5b78906af2e5bb9b97534dc3a4c5fb72a397e9fd631d799a6bf5718fd81d3"
+    },
+    {
+      "path": "evidence_registry.json",
+      "bytes": 11798,
+      "sha256": "f56bbfa931d2fc3aa2563256531f3c3670364365b2fd105705de486d5f482776"
+    },
+    {
+      "path": "sample_normalizations.json",
+      "bytes": 51886,
+      "sha256": "79431c000466fd66558f7064809713cc037a93f582d8eb3482e3be5996219e5d"
+    },
+    {
+      "path": "tradition_concept_matrix.csv",
+      "bytes": 37511,
+      "sha256": "913b52b419c61bf81a3255854cf73bba2aaccd4e76280a60dc1d9cb37276b85b"
+    },
+    {
+      "path": "tradition_mappings.json",
+      "bytes": 131007,
+      "sha256": "d5bf4e795bbec596dcdfbaa3b27b4d238f5a85668dbbda21e964ee1ccc3a1904"
+    },
+    {
+      "path": "tradition_similarity_matrix.json",
+      "bytes": 135753,
+      "sha256": "e2867d9914ab7b314f229631e9879829c287fbbe7206f88507b1d21734acfb76"
+    },
+    {
+      "path": "universal_centroid.json",
+      "bytes": 2512,
+      "sha256": "dfb9e360022acde1c2926d1d8f8ccca2567a88e093b926fed62783cdddf0b49f"
+    }
+  ],
+  "manifest_digest": "dd7e8e3383ab0103e4322e42021b865843e4b2334a9901852336e94b0d0de886"
+}

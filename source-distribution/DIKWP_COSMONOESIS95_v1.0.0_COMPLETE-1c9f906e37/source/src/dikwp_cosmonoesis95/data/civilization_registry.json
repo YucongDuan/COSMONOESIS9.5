@@ -1,0 +1,170 @@
+{
+  "registry_id": "civilization-dikwp-normalization-1.0.0",
+  "title_cn": "主要文明 DIKWP 归一映射注册表",
+  "version": "1.0.0",
+  "civilization_count": 13,
+  "method_cn": "文明条目是由多个传统向量计算得到的版本化语义重心，不是种族分类、固定人格或高低排名。所有差异均在 DIKWP 空间内表达，空间外残差固定为0。",
+  "civilizations": [
+    {
+      "id": "indic",
+      "name_cn": "印度文明语义群",
+      "name_en": "Indic civilizational semantic cluster",
+      "member_traditions": [
+        "advaita_vedanta",
+        "visishtadvaita",
+        "dvaita_vedanta",
+        "samkhya_yoga",
+        "gita_integrative_yoga",
+        "jainism",
+        "sikhism"
+      ],
+      "orientation_cn": "以多种自我—终极实在模型、解脱路径、法／责任、修行知识及非暴力伦理形成高密度 K–W–P 结构。",
+      "normalization_note_cn": "灵魂、无我、不二、二元和奉爱并不被压成同一结论，而成为同一 K.SELF_MODEL/I.BOUNDARY/P.COMMUNION 坐标的不同方向。"
+    },
+    {
+      "id": "buddhist_trans_asian",
+      "name_cn": "跨亚洲佛教文明语义群",
+      "name_en": "Trans-Asian Buddhist semantic cluster",
+      "member_traditions": [
+        "theravada_buddhism",
+        "madhyamaka",
+        "yogacara",
+        "huayan_buddhism",
+        "chan_zen",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以苦、缘起、无常、无我／空性、修行、慈悲和解脱构成 D–I–K–W–P 修订闭环。",
+      "normalization_note_cn": "不同识论、空性论和救度论作为同一空间中的多模型竞争，不以单一派别作为全佛教权威。"
+    },
+    {
+      "id": "sinitic",
+      "name_cn": "中华文明语义群",
+      "name_en": "Sinitic civilizational semantic cluster",
+      "member_traditions": [
+        "philosophical_daoism",
+        "religious_daoism",
+        "classical_confucianism",
+        "neo_confucianism",
+        "chan_zen",
+        "huayan_buddhism",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以关系、秩序、身心实践、修养、礼、道、气、心性和社会协调形成 I–K–W–P 的贯通。",
+      "normalization_note_cn": "道、理、气、心、佛性等均归一入 DIKWP，但不被直接改写为粒子、场或单一神学实体。"
+    },
+    {
+      "id": "iranian_persian",
+      "name_cn": "伊朗—波斯文明语义群",
+      "name_en": "Iranian–Persian civilizational semantic cluster",
+      "member_traditions": [
+        "zoroastrianism",
+        "sufism",
+        "bahai_faith",
+        "twelver_shia_islam"
+      ],
+      "orientation_cn": "以真理秩序、正义、记忆、神秘亲近、历史引导和宇宙／社会更新形成 W–P 高权重结构。",
+      "normalization_note_cn": "Asha、神圣正义、爱与世界统一在同一 W/P 空间可比较，但来源和因果主张分别保留。"
+    },
+    {
+      "id": "jewish",
+      "name_cn": "犹太文明语义群",
+      "name_en": "Jewish civilizational semantic cluster",
+      "member_traditions": [
+        "rabbinic_judaism",
+        "kabbalah"
+      ],
+      "orientation_cn": "以盟约、律法、争辩、记忆、人格尊严、象征世界模型和修复行动贯通 D–K–W–P。",
+      "normalization_note_cn": "法律—伦理和神秘象征不互相取代，而共享历史、关系、规范和修复坐标。"
+    },
+    {
+      "id": "christian",
+      "name_cn": "基督宗教文明语义群",
+      "name_en": "Christian civilizational semantic cluster",
+      "member_traditions": [
+        "eastern_orthodox_christianity",
+        "roman_catholic_christianity",
+        "protestant_christianity"
+      ],
+      "orientation_cn": "以创造、人格、道成肉身、恩典、爱、悔改、救赎和共同体实践形成关系性 K–W–P 结构。",
+      "normalization_note_cn": "三一、位格、灵魂、神化、召命等进入同一空间，但不由向量相似推出宗派合并。"
+    },
+    {
+      "id": "islamic",
+      "name_cn": "伊斯兰文明语义群",
+      "name_en": "Islamic civilizational semantic cluster",
+      "member_traditions": [
+        "sunni_islam",
+        "twelver_shia_islam",
+        "sufism"
+      ],
+      "orientation_cn": "以认主独一、启示、意向、礼拜、公正、慈悯、历史记忆和灵性净化构成 K–W–P 闭环。",
+      "normalization_note_cn": "法学、神学、历史与神秘实践在空间内分层，任何当代政体都不自动代表整个语义群。"
+    },
+    {
+      "id": "greco_roman",
+      "name_cn": "希腊—罗马哲学文明语义群",
+      "name_en": "Greco-Roman philosophical semantic cluster",
+      "member_traditions": [
+        "neoplatonism",
+        "stoicism"
+      ],
+      "orientation_cn": "以理性秩序、主体选择、德性、宇宙整体、沉思和回归形成 K–W–P 结构。",
+      "normalization_note_cn": "logos 在不同传统中的含义以语境向量区分，不以同词强制同义。"
+    },
+    {
+      "id": "african_relational",
+      "name_cn": "非洲关系文明语义群",
+      "name_en": "African relational civilizational semantic cluster",
+      "member_traditions": [
+        "yoruba_ifa",
+        "ubuntu"
+      ],
+      "orientation_cn": "以关系人格、品格、祖先／共同体、效力、咨询、承认和修复形成 I–W–P 高权重结构。",
+      "normalization_note_cn": "跨非洲概括只作为计算性聚类，不代表数千种传统的单一本质。"
+    },
+    {
+      "id": "japanese",
+      "name_cn": "日本宗教文明语义群",
+      "name_en": "Japanese religious-civilizational semantic cluster",
+      "member_traditions": [
+        "shinto",
+        "chan_zen",
+        "pure_land_buddhism"
+      ],
+      "orientation_cn": "以地方临在、洁净、祭礼、禅修、忆念和共同体连续形成 D–I–K–P 结构。",
+      "normalization_note_cn": "kami、佛、觉悟与祖先关系在统一空间可比较但不合并为同一对象。"
+    },
+    {
+      "id": "oceanic_maori",
+      "name_cn": "大洋洲—毛利关系文明语义群",
+      "name_en": "Oceanic–Māori relational semantic cluster",
+      "member_traditions": [
+        "maori_worldview"
+      ],
+      "orientation_cn": "以谱系、土地、生命原则、神圣边界、权威与守护责任形成历史—关系—连续闭环。",
+      "normalization_note_cn": "统一空间保留地点、谱系与授权维度，避免把关系抽象为脱离土地的口号。"
+    },
+    {
+      "id": "andean",
+      "name_cn": "安第斯文明语义群",
+      "name_en": "Andean civilizational semantic cluster",
+      "member_traditions": [
+        "andean_relationality"
+      ],
+      "orientation_cn": "以土地—时间整体、亲族共同体、互惠和互补形成生态关系与共同繁荣闭环。",
+      "normalization_note_cn": "Pachamama 映射为世界关系与价值目的，不自动等同为人类式主观意识。"
+    },
+    {
+      "id": "modern_humanistic_scientific",
+      "name_cn": "现代人文—科学文明语义群",
+      "name_en": "Modern humanistic-scientific semantic cluster",
+      "member_traditions": [
+        "secular_humanism",
+        "scientific_naturalism"
+      ],
+      "orientation_cn": "以证据、因果模型、可修订性、尊严、权利、自主和现世繁荣连接 D–K–W–P。",
+      "normalization_note_cn": "科学方法与人文价值在同一空间协同但不互相偷换：证据不自动生成目的，价值也不替代实验。"
+    }
+  ],
+  "automatic_external_action_authority": 0
+}

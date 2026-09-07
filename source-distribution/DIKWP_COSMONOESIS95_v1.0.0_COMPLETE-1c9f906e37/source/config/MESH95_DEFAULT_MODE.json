@@ -1,0 +1,21 @@
+{
+  "mode_id": "MESH95_ASYMMETRY_PROTECTIVE_AGENCY_NONPSEUDONEUTRAL_RESPONSIBILITY_CLOSURE",
+  "version": "9.5",
+  "principles": [
+    "evidence provenance",
+    "at least two non-isomorphic world models for high-impact judgments",
+    "explicit D/I/K/W/P translation loss",
+    "asymmetry and burden visibility",
+    "named, revocable authorization",
+    "reality return and calibration",
+    "append-only revision and model retirement",
+    "successor-world freedom"
+  ],
+  "religion_civilization_normalization": {
+    "all_concepts_inside_dikwp": true,
+    "permanent_outside_untranslatable_residual": false,
+    "historical_identity_inferred": false,
+    "original_terms_retained_as_provenance": true
+  },
+  "automatic_external_action_authority": 0
+}

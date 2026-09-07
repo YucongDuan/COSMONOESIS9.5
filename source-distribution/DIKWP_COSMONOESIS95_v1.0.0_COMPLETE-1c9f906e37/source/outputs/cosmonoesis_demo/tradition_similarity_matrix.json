@@ -1,0 +1,6631 @@
+{
+  "kind": "tradition",
+  "items": [
+    {
+      "id": "advaita_vedanta",
+      "name_cn": "不二论吠檀多"
+    },
+    {
+      "id": "visishtadvaita",
+      "name_cn": "限定不二论吠檀多"
+    },
+    {
+      "id": "dvaita_vedanta",
+      "name_cn": "二元论吠檀多"
+    },
+    {
+      "id": "samkhya_yoga",
+      "name_cn": "数论—瑜伽"
+    },
+    {
+      "id": "gita_integrative_yoga",
+      "name_cn": "《薄伽梵歌》综合瑜伽"
+    },
+    {
+      "id": "theravada_buddhism",
+      "name_cn": "上座部佛教"
+    },
+    {
+      "id": "madhyamaka",
+      "name_cn": "中观"
+    },
+    {
+      "id": "yogacara",
+      "name_cn": "瑜伽行派／唯识"
+    },
+    {
+      "id": "huayan_buddhism",
+      "name_cn": "华严宗"
+    },
+    {
+      "id": "chan_zen",
+      "name_cn": "禅宗／禅"
+    },
+    {
+      "id": "pure_land_buddhism",
+      "name_cn": "净土宗"
+    },
+    {
+      "id": "jainism",
+      "name_cn": "耆那教"
+    },
+    {
+      "id": "sikhism",
+      "name_cn": "锡克教"
+    },
+    {
+      "id": "rabbinic_judaism",
+      "name_cn": "拉比犹太教"
+    },
+    {
+      "id": "kabbalah",
+      "name_cn": "卡巴拉"
+    },
+    {
+      "id": "eastern_orthodox_christianity",
+      "name_cn": "东正教"
+    },
+    {
+      "id": "roman_catholic_christianity",
+      "name_cn": "罗马天主教"
+    },
+    {
+      "id": "protestant_christianity",
+      "name_cn": "新教／宗教改革传统"
+    },
+    {
+      "id": "sunni_islam",
+      "name_cn": "逊尼派伊斯兰"
+    },
+    {
+      "id": "twelver_shia_islam",
+      "name_cn": "十二伊玛目什叶派"
+    },
+    {
+      "id": "sufism",
+      "name_cn": "苏菲主义"
+    },
+    {
+      "id": "zoroastrianism",
+      "name_cn": "琐罗亚斯德教"
+    },
+    {
+      "id": "bahai_faith",
+      "name_cn": "巴哈伊信仰"
+    },
+    {
+      "id": "philosophical_daoism",
+      "name_cn": "哲学道家"
+    },
+    {
+      "id": "religious_daoism",
+      "name_cn": "道教修炼与宗教传统"
+    },
+    {
+      "id": "classical_confucianism",
+      "name_cn": "古典儒家"
+    },
+    {
+      "id": "neo_confucianism",
+      "name_cn": "宋明理学与心学"
+    },
+    {
+      "id": "shinto",
+      "name_cn": "神道"
+    },
+    {
+      "id": "yoruba_ifa",
+      "name_cn": "约鲁巴—伊法传统"
+    },
+    {
+      "id": "ubuntu",
+      "name_cn": "Ubuntu关系伦理"
+    },
+    {
+      "id": "maori_worldview",
+      "name_cn": "毛利世界观"
+    },
+    {
+      "id": "andean_relationality",
+      "name_cn": "安第斯关系宇宙观"
+    },
+    {
+      "id": "neoplatonism",
+      "name_cn": "新柏拉图主义"
+    },
+    {
+      "id": "stoicism",
+      "name_cn": "斯多葛主义"
+    },
+    {
+      "id": "secular_humanism",
+      "name_cn": "世俗人文主义"
+    },
+    {
+      "id": "scientific_naturalism",
+      "name_cn": "科学自然主义"
+    }
+  ],
+  "matrix": [
+    {
+      "a": "advaita_vedanta",
+      "b": "advaita_vedanta",
+      "similarity": 1.0
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "visishtadvaita",
+      "similarity": 0.66825546
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "dvaita_vedanta",
+      "similarity": 0.45314619
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "samkhya_yoga",
+      "similarity": 0.56320096
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.54298561
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "theravada_buddhism",
+      "similarity": 0.52207358
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "madhyamaka",
+      "similarity": 0.39395257
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "yogacara",
+      "similarity": 0.56690849
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "huayan_buddhism",
+      "similarity": 0.27034835
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "chan_zen",
+      "similarity": 0.4880837
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "pure_land_buddhism",
+      "similarity": 0.49151157
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "jainism",
+      "similarity": 0.67437056
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "sikhism",
+      "similarity": 0.69912587
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "rabbinic_judaism",
+      "similarity": 0.12690176
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "kabbalah",
+      "similarity": 0.54052412
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.56747929
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.48386797
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "protestant_christianity",
+      "similarity": 0.63068154
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "sunni_islam",
+      "similarity": 0.32551714
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "twelver_shia_islam",
+      "similarity": 0.09983084
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "sufism",
+      "similarity": 0.67452133
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "zoroastrianism",
+      "similarity": 0.22711999
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "bahai_faith",
+      "similarity": 0.22973623
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "philosophical_daoism",
+      "similarity": 0.33403699
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "religious_daoism",
+      "similarity": 0.35357748
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "classical_confucianism",
+      "similarity": 0.14495346
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "neo_confucianism",
+      "similarity": 0.36915601
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "shinto",
+      "similarity": 0.05401664
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "yoruba_ifa",
+      "similarity": 0.29243394
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "ubuntu",
+      "similarity": 0.1113119
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "maori_worldview",
+      "similarity": 0.10477328
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "andean_relationality",
+      "similarity": 0.11207854
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "neoplatonism",
+      "similarity": 0.65450382
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "stoicism",
+      "similarity": 0.17173758
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "secular_humanism",
+      "similarity": 0.23772612
+    },
+    {
+      "a": "advaita_vedanta",
+      "b": "scientific_naturalism",
+      "similarity": 0.4593108
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "advaita_vedanta",
+      "similarity": 0.66825546
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "visishtadvaita",
+      "similarity": 1.0
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "dvaita_vedanta",
+      "similarity": 0.67470518
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "samkhya_yoga",
+      "similarity": 0.35890284
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.51853066
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "theravada_buddhism",
+      "similarity": 0.42096586
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "madhyamaka",
+      "similarity": 0.28801378
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "yogacara",
+      "similarity": 0.22179339
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "huayan_buddhism",
+      "similarity": 0.54752067
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "chan_zen",
+      "similarity": 0.18221202
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "pure_land_buddhism",
+      "similarity": 0.69032079
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "jainism",
+      "similarity": 0.23104269
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "sikhism",
+      "similarity": 0.73850726
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "rabbinic_judaism",
+      "similarity": 0.17386064
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "kabbalah",
+      "similarity": 0.73453466
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.89030401
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.61377563
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "protestant_christianity",
+      "similarity": 0.40292776
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "sunni_islam",
+      "similarity": 0.61486742
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "twelver_shia_islam",
+      "similarity": 0.22700195
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "sufism",
+      "similarity": 0.73288902
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "zoroastrianism",
+      "similarity": 0.24531568
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "bahai_faith",
+      "similarity": 0.21441355
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "philosophical_daoism",
+      "similarity": 0.26276727
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "religious_daoism",
+      "similarity": 0.45326896
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "classical_confucianism",
+      "similarity": 0.19487557
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "neo_confucianism",
+      "similarity": 0.1386415
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "shinto",
+      "similarity": 0.35614983
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "yoruba_ifa",
+      "similarity": 0.25170167
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "ubuntu",
+      "similarity": 0.21379797
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "maori_worldview",
+      "similarity": 0.17825433
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "andean_relationality",
+      "similarity": 0.30688749
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "neoplatonism",
+      "similarity": 0.84760769
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "stoicism",
+      "similarity": 0.24795194
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "secular_humanism",
+      "similarity": 0.06955465
+    },
+    {
+      "a": "visishtadvaita",
+      "b": "scientific_naturalism",
+      "similarity": 0.10254049
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "advaita_vedanta",
+      "similarity": 0.45314619
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "visishtadvaita",
+      "similarity": 0.67470518
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "dvaita_vedanta",
+      "similarity": 1.0
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "samkhya_yoga",
+      "similarity": 0.4380479
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.45455279
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "theravada_buddhism",
+      "similarity": 0.32597517
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "madhyamaka",
+      "similarity": 0.110495
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "yogacara",
+      "similarity": 0.20710422
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "huayan_buddhism",
+      "similarity": 0.28015308
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "chan_zen",
+      "similarity": 0.16139401
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "pure_land_buddhism",
+      "similarity": 0.47338107
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "jainism",
+      "similarity": 0.23154955
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "sikhism",
+      "similarity": 0.63705591
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "rabbinic_judaism",
+      "similarity": 0.24713458
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "kabbalah",
+      "similarity": 0.49716647
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.66878553
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.52380952
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "protestant_christianity",
+      "similarity": 0.28144217
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "sunni_islam",
+      "similarity": 0.6807723
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "twelver_shia_islam",
+      "similarity": 0.27008948
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "sufism",
+      "similarity": 0.59817996
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "zoroastrianism",
+      "similarity": 0.32171278
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "bahai_faith",
+      "similarity": 0.15538619
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "philosophical_daoism",
+      "similarity": 0.16568337
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "religious_daoism",
+      "similarity": 0.29607217
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "classical_confucianism",
+      "similarity": 0.27817432
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "neo_confucianism",
+      "similarity": 0.25430905
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "shinto",
+      "similarity": 0.25387979
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "yoruba_ifa",
+      "similarity": 0.34918995
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "ubuntu",
+      "similarity": 0.12002401
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "maori_worldview",
+      "similarity": 0.31803253
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "andean_relationality",
+      "similarity": 0.1839418
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "neoplatonism",
+      "similarity": 0.58210576
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "stoicism",
+      "similarity": 0.31766904
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "secular_humanism",
+      "similarity": 0.24565184
+    },
+    {
+      "a": "dvaita_vedanta",
+      "b": "scientific_naturalism",
+      "similarity": 0.15137513
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "advaita_vedanta",
+      "similarity": 0.56320096
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "visishtadvaita",
+      "similarity": 0.35890284
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "dvaita_vedanta",
+      "similarity": 0.4380479
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "samkhya_yoga",
+      "similarity": 1.0
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.39574285
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "theravada_buddhism",
+      "similarity": 0.72147911
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "madhyamaka",
+      "similarity": 0.27512774
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "yogacara",
+      "similarity": 0.52877714
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "huayan_buddhism",
+      "similarity": 0.2346249
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "chan_zen",
+      "similarity": 0.57795866
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "pure_land_buddhism",
+      "similarity": 0.52255623
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "jainism",
+      "similarity": 0.43122154
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "sikhism",
+      "similarity": 0.50403596
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "rabbinic_judaism",
+      "similarity": 0.16437356
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "kabbalah",
+      "similarity": 0.25166004
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.40963464
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.40050094
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "protestant_christianity",
+      "similarity": 0.3651339
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "sunni_islam",
+      "similarity": 0.20901152
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "twelver_shia_islam",
+      "similarity": 0.03549364
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "sufism",
+      "similarity": 0.48669499
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "zoroastrianism",
+      "similarity": 0.20515072
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "bahai_faith",
+      "similarity": 0.14293985
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "philosophical_daoism",
+      "similarity": 0.30482447
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "religious_daoism",
+      "similarity": 0.62915287
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "classical_confucianism",
+      "similarity": 0.2474567
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "neo_confucianism",
+      "similarity": 0.58529923
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "shinto",
+      "similarity": 0.24987097
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "yoruba_ifa",
+      "similarity": 0.451826
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "ubuntu",
+      "similarity": 0.09463728
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "maori_worldview",
+      "similarity": 0.19918864
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "andean_relationality",
+      "similarity": 0.13966389
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "neoplatonism",
+      "similarity": 0.49428871
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "stoicism",
+      "similarity": 0.21027755
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "secular_humanism",
+      "similarity": 0.1906186
+    },
+    {
+      "a": "samkhya_yoga",
+      "b": "scientific_naturalism",
+      "similarity": 0.45256272
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "advaita_vedanta",
+      "similarity": 0.54298561
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "visishtadvaita",
+      "similarity": 0.51853066
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "dvaita_vedanta",
+      "similarity": 0.45455279
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "samkhya_yoga",
+      "similarity": 0.39574285
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "gita_integrative_yoga",
+      "similarity": 1.0
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "theravada_buddhism",
+      "similarity": 0.40260143
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "madhyamaka",
+      "similarity": 0.38165007
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "yogacara",
+      "similarity": 0.46599201
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "huayan_buddhism",
+      "similarity": 0.18696959
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "chan_zen",
+      "similarity": 0.54763659
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "pure_land_buddhism",
+      "similarity": 0.55777832
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "jainism",
+      "similarity": 0.63940284
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "sikhism",
+      "similarity": 0.68177129
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "rabbinic_judaism",
+      "similarity": 0.40922295
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "kabbalah",
+      "similarity": 0.32224273
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.5412492
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.52557667
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "protestant_christianity",
+      "similarity": 0.67163421
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "sunni_islam",
+      "similarity": 0.58226688
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "twelver_shia_islam",
+      "similarity": 0.36926892
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "sufism",
+      "similarity": 0.66409687
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "zoroastrianism",
+      "similarity": 0.45938305
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "bahai_faith",
+      "similarity": 0.28583575
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "philosophical_daoism",
+      "similarity": 0.54365735
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "religious_daoism",
+      "similarity": 0.51863576
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "classical_confucianism",
+      "similarity": 0.60000543
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "neo_confucianism",
+      "similarity": 0.49206783
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "shinto",
+      "similarity": 0.40605463
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "yoruba_ifa",
+      "similarity": 0.60094302
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "ubuntu",
+      "similarity": 0.21481916
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "maori_worldview",
+      "similarity": 0.33910689
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "andean_relationality",
+      "similarity": 0.22557621
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "neoplatonism",
+      "similarity": 0.36732026
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "stoicism",
+      "similarity": 0.51241004
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "secular_humanism",
+      "similarity": 0.41873149
+    },
+    {
+      "a": "gita_integrative_yoga",
+      "b": "scientific_naturalism",
+      "similarity": 0.27657585
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "advaita_vedanta",
+      "similarity": 0.52207358
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "visishtadvaita",
+      "similarity": 0.42096586
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.32597517
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "samkhya_yoga",
+      "similarity": 0.72147911
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.40260143
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "theravada_buddhism",
+      "similarity": 1.0
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "madhyamaka",
+      "similarity": 0.62578622
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "yogacara",
+      "similarity": 0.46618006
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "huayan_buddhism",
+      "similarity": 0.45620742
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "chan_zen",
+      "similarity": 0.47003274
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.39795859
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "jainism",
+      "similarity": 0.49578052
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "sikhism",
+      "similarity": 0.35966619
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.22290213
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "kabbalah",
+      "similarity": 0.2063972
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.46375229
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.45750901
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "protestant_christianity",
+      "similarity": 0.40847794
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "sunni_islam",
+      "similarity": 0.14470462
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.11893456
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "sufism",
+      "similarity": 0.45477267
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "zoroastrianism",
+      "similarity": 0.13681105
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "bahai_faith",
+      "similarity": 0.32346216
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "philosophical_daoism",
+      "similarity": 0.31268175
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "religious_daoism",
+      "similarity": 0.417607
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "classical_confucianism",
+      "similarity": 0.25698196
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "neo_confucianism",
+      "similarity": 0.34338584
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "shinto",
+      "similarity": 0.48264984
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "yoruba_ifa",
+      "similarity": 0.3419426
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "ubuntu",
+      "similarity": 0.39399407
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "maori_worldview",
+      "similarity": 0.25354628
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "andean_relationality",
+      "similarity": 0.50072244
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "neoplatonism",
+      "similarity": 0.39256391
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "stoicism",
+      "similarity": 0.24303484
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "secular_humanism",
+      "similarity": 0.18544009
+    },
+    {
+      "a": "theravada_buddhism",
+      "b": "scientific_naturalism",
+      "similarity": 0.40449531
+    },
+    {
+      "a": "madhyamaka",
+      "b": "advaita_vedanta",
+      "similarity": 0.39395257
+    },
+    {
+      "a": "madhyamaka",
+      "b": "visishtadvaita",
+      "similarity": 0.28801378
+    },
+    {
+      "a": "madhyamaka",
+      "b": "dvaita_vedanta",
+      "similarity": 0.110495
+    },
+    {
+      "a": "madhyamaka",
+      "b": "samkhya_yoga",
+      "similarity": 0.27512774
+    },
+    {
+      "a": "madhyamaka",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.38165007
+    },
+    {
+      "a": "madhyamaka",
+      "b": "theravada_buddhism",
+      "similarity": 0.62578622
+    },
+    {
+      "a": "madhyamaka",
+      "b": "madhyamaka",
+      "similarity": 1.0
+    },
+    {
+      "a": "madhyamaka",
+      "b": "yogacara",
+      "similarity": 0.50874702
+    },
+    {
+      "a": "madhyamaka",
+      "b": "huayan_buddhism",
+      "similarity": 0.55206303
+    },
+    {
+      "a": "madhyamaka",
+      "b": "chan_zen",
+      "similarity": 0.39420826
+    },
+    {
+      "a": "madhyamaka",
+      "b": "pure_land_buddhism",
+      "similarity": 0.23124865
+    },
+    {
+      "a": "madhyamaka",
+      "b": "jainism",
+      "similarity": 0.57526006
+    },
+    {
+      "a": "madhyamaka",
+      "b": "sikhism",
+      "similarity": 0.28874644
+    },
+    {
+      "a": "madhyamaka",
+      "b": "rabbinic_judaism",
+      "similarity": 0.3005838
+    },
+    {
+      "a": "madhyamaka",
+      "b": "kabbalah",
+      "similarity": 0.29384019
+    },
+    {
+      "a": "madhyamaka",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.28409091
+    },
+    {
+      "a": "madhyamaka",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.30822289
+    },
+    {
+      "a": "madhyamaka",
+      "b": "protestant_christianity",
+      "similarity": 0.45633547
+    },
+    {
+      "a": "madhyamaka",
+      "b": "sunni_islam",
+      "similarity": 0.27664295
+    },
+    {
+      "a": "madhyamaka",
+      "b": "twelver_shia_islam",
+      "similarity": 0.20890476
+    },
+    {
+      "a": "madhyamaka",
+      "b": "sufism",
+      "similarity": 0.23377074
+    },
+    {
+      "a": "madhyamaka",
+      "b": "zoroastrianism",
+      "similarity": 0.21126163
+    },
+    {
+      "a": "madhyamaka",
+      "b": "bahai_faith",
+      "similarity": 0.55032437
+    },
+    {
+      "a": "madhyamaka",
+      "b": "philosophical_daoism",
+      "similarity": 0.38734148
+    },
+    {
+      "a": "madhyamaka",
+      "b": "religious_daoism",
+      "similarity": 0.19079181
+    },
+    {
+      "a": "madhyamaka",
+      "b": "classical_confucianism",
+      "similarity": 0.36585588
+    },
+    {
+      "a": "madhyamaka",
+      "b": "neo_confucianism",
+      "similarity": 0.34247476
+    },
+    {
+      "a": "madhyamaka",
+      "b": "shinto",
+      "similarity": 0.45914286
+    },
+    {
+      "a": "madhyamaka",
+      "b": "yoruba_ifa",
+      "similarity": 0.32803993
+    },
+    {
+      "a": "madhyamaka",
+      "b": "ubuntu",
+      "similarity": 0.52280408
+    },
+    {
+      "a": "madhyamaka",
+      "b": "maori_worldview",
+      "similarity": 0.29088724
+    },
+    {
+      "a": "madhyamaka",
+      "b": "andean_relationality",
+      "similarity": 0.54413009
+    },
+    {
+      "a": "madhyamaka",
+      "b": "neoplatonism",
+      "similarity": 0.27342415
+    },
+    {
+      "a": "madhyamaka",
+      "b": "stoicism",
+      "similarity": 0.33335536
+    },
+    {
+      "a": "madhyamaka",
+      "b": "secular_humanism",
+      "similarity": 0.32000522
+    },
+    {
+      "a": "madhyamaka",
+      "b": "scientific_naturalism",
+      "similarity": 0.46679288
+    },
+    {
+      "a": "yogacara",
+      "b": "advaita_vedanta",
+      "similarity": 0.56690849
+    },
+    {
+      "a": "yogacara",
+      "b": "visishtadvaita",
+      "similarity": 0.22179339
+    },
+    {
+      "a": "yogacara",
+      "b": "dvaita_vedanta",
+      "similarity": 0.20710422
+    },
+    {
+      "a": "yogacara",
+      "b": "samkhya_yoga",
+      "similarity": 0.52877714
+    },
+    {
+      "a": "yogacara",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.46599201
+    },
+    {
+      "a": "yogacara",
+      "b": "theravada_buddhism",
+      "similarity": 0.46618006
+    },
+    {
+      "a": "yogacara",
+      "b": "madhyamaka",
+      "similarity": 0.50874702
+    },
+    {
+      "a": "yogacara",
+      "b": "yogacara",
+      "similarity": 1.0
+    },
+    {
+      "a": "yogacara",
+      "b": "huayan_buddhism",
+      "similarity": 0.23601716
+    },
+    {
+      "a": "yogacara",
+      "b": "chan_zen",
+      "similarity": 0.70694678
+    },
+    {
+      "a": "yogacara",
+      "b": "pure_land_buddhism",
+      "similarity": 0.41176471
+    },
+    {
+      "a": "yogacara",
+      "b": "jainism",
+      "similarity": 0.60505369
+    },
+    {
+      "a": "yogacara",
+      "b": "sikhism",
+      "similarity": 0.51577832
+    },
+    {
+      "a": "yogacara",
+      "b": "rabbinic_judaism",
+      "similarity": 0.1454004
+    },
+    {
+      "a": "yogacara",
+      "b": "kabbalah",
+      "similarity": 0.25016748
+    },
+    {
+      "a": "yogacara",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.19078013
+    },
+    {
+      "a": "yogacara",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.21893874
+    },
+    {
+      "a": "yogacara",
+      "b": "protestant_christianity",
+      "similarity": 0.45241301
+    },
+    {
+      "a": "yogacara",
+      "b": "sunni_islam",
+      "similarity": 0.17966971
+    },
+    {
+      "a": "yogacara",
+      "b": "twelver_shia_islam",
+      "similarity": 0.22374668
+    },
+    {
+      "a": "yogacara",
+      "b": "sufism",
+      "similarity": 0.41367015
+    },
+    {
+      "a": "yogacara",
+      "b": "zoroastrianism",
+      "similarity": 0.15204308
+    },
+    {
+      "a": "yogacara",
+      "b": "bahai_faith",
+      "similarity": 0.39260986
+    },
+    {
+      "a": "yogacara",
+      "b": "philosophical_daoism",
+      "similarity": 0.35294118
+    },
+    {
+      "a": "yogacara",
+      "b": "religious_daoism",
+      "similarity": 0.37573457
+    },
+    {
+      "a": "yogacara",
+      "b": "classical_confucianism",
+      "similarity": 0.24462549
+    },
+    {
+      "a": "yogacara",
+      "b": "neo_confucianism",
+      "similarity": 0.51245004
+    },
+    {
+      "a": "yogacara",
+      "b": "shinto",
+      "similarity": 0.1664647
+    },
+    {
+      "a": "yogacara",
+      "b": "yoruba_ifa",
+      "similarity": 0.34712982
+    },
+    {
+      "a": "yogacara",
+      "b": "ubuntu",
+      "similarity": 0.06462944
+    },
+    {
+      "a": "yogacara",
+      "b": "maori_worldview",
+      "similarity": 0.26234239
+    },
+    {
+      "a": "yogacara",
+      "b": "andean_relationality",
+      "similarity": 0.0507935
+    },
+    {
+      "a": "yogacara",
+      "b": "neoplatonism",
+      "similarity": 0.31715648
+    },
+    {
+      "a": "yogacara",
+      "b": "stoicism",
+      "similarity": 0.15204938
+    },
+    {
+      "a": "yogacara",
+      "b": "secular_humanism",
+      "similarity": 0.23257386
+    },
+    {
+      "a": "yogacara",
+      "b": "scientific_naturalism",
+      "similarity": 0.64425128
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "advaita_vedanta",
+      "similarity": 0.27034835
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "visishtadvaita",
+      "similarity": 0.54752067
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.28015308
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "samkhya_yoga",
+      "similarity": 0.2346249
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.18696959
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "theravada_buddhism",
+      "similarity": 0.45620742
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "madhyamaka",
+      "similarity": 0.55206303
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "yogacara",
+      "similarity": 0.23601716
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "huayan_buddhism",
+      "similarity": 1.0
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "chan_zen",
+      "similarity": 0.15288811
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.45315295
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "jainism",
+      "similarity": 0.16888013
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "sikhism",
+      "similarity": 0.42960799
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.37417353
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "kabbalah",
+      "similarity": 0.67569169
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.54742384
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.33238501
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "protestant_christianity",
+      "similarity": 0.2006288
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "sunni_islam",
+      "similarity": 0.32680224
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.22443424
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "sufism",
+      "similarity": 0.12033299
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "zoroastrianism",
+      "similarity": 0.21877339
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "bahai_faith",
+      "similarity": 0.54230444
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "philosophical_daoism",
+      "similarity": 0.3493054
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "religious_daoism",
+      "similarity": 0.39196475
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "classical_confucianism",
+      "similarity": 0.38406867
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "neo_confucianism",
+      "similarity": 0.23028309
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "shinto",
+      "similarity": 0.6592868
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "yoruba_ifa",
+      "similarity": 0.41247896
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "ubuntu",
+      "similarity": 0.60639156
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "maori_worldview",
+      "similarity": 0.32927306
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "andean_relationality",
+      "similarity": 0.73774995
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "neoplatonism",
+      "similarity": 0.54919471
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "stoicism",
+      "similarity": 0.46458909
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "secular_humanism",
+      "similarity": 0.17263352
+    },
+    {
+      "a": "huayan_buddhism",
+      "b": "scientific_naturalism",
+      "similarity": 0.1924542
+    },
+    {
+      "a": "chan_zen",
+      "b": "advaita_vedanta",
+      "similarity": 0.4880837
+    },
+    {
+      "a": "chan_zen",
+      "b": "visishtadvaita",
+      "similarity": 0.18221202
+    },
+    {
+      "a": "chan_zen",
+      "b": "dvaita_vedanta",
+      "similarity": 0.16139401
+    },
+    {
+      "a": "chan_zen",
+      "b": "samkhya_yoga",
+      "similarity": 0.57795866
+    },
+    {
+      "a": "chan_zen",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.54763659
+    },
+    {
+      "a": "chan_zen",
+      "b": "theravada_buddhism",
+      "similarity": 0.47003274
+    },
+    {
+      "a": "chan_zen",
+      "b": "madhyamaka",
+      "similarity": 0.39420826
+    },
+    {
+      "a": "chan_zen",
+      "b": "yogacara",
+      "similarity": 0.70694678
+    },
+    {
+      "a": "chan_zen",
+      "b": "huayan_buddhism",
+      "similarity": 0.15288811
+    },
+    {
+      "a": "chan_zen",
+      "b": "chan_zen",
+      "similarity": 1.0
+    },
+    {
+      "a": "chan_zen",
+      "b": "pure_land_buddhism",
+      "similarity": 0.44121501
+    },
+    {
+      "a": "chan_zen",
+      "b": "jainism",
+      "similarity": 0.51571581
+    },
+    {
+      "a": "chan_zen",
+      "b": "sikhism",
+      "similarity": 0.52309477
+    },
+    {
+      "a": "chan_zen",
+      "b": "rabbinic_judaism",
+      "similarity": 0.1965812
+    },
+    {
+      "a": "chan_zen",
+      "b": "kabbalah",
+      "similarity": 0.14041946
+    },
+    {
+      "a": "chan_zen",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.34493223
+    },
+    {
+      "a": "chan_zen",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.20678607
+    },
+    {
+      "a": "chan_zen",
+      "b": "protestant_christianity",
+      "similarity": 0.47186849
+    },
+    {
+      "a": "chan_zen",
+      "b": "sunni_islam",
+      "similarity": 0.17355977
+    },
+    {
+      "a": "chan_zen",
+      "b": "twelver_shia_islam",
+      "similarity": 0.07628394
+    },
+    {
+      "a": "chan_zen",
+      "b": "sufism",
+      "similarity": 0.3746275
+    },
+    {
+      "a": "chan_zen",
+      "b": "zoroastrianism",
+      "similarity": 0.05362489
+    },
+    {
+      "a": "chan_zen",
+      "b": "bahai_faith",
+      "similarity": 0.28526681
+    },
+    {
+      "a": "chan_zen",
+      "b": "philosophical_daoism",
+      "similarity": 0.28077319
+    },
+    {
+      "a": "chan_zen",
+      "b": "religious_daoism",
+      "similarity": 0.56044854
+    },
+    {
+      "a": "chan_zen",
+      "b": "classical_confucianism",
+      "similarity": 0.38074981
+    },
+    {
+      "a": "chan_zen",
+      "b": "neo_confucianism",
+      "similarity": 0.55908525
+    },
+    {
+      "a": "chan_zen",
+      "b": "shinto",
+      "similarity": 0.29750231
+    },
+    {
+      "a": "chan_zen",
+      "b": "yoruba_ifa",
+      "similarity": 0.43812278
+    },
+    {
+      "a": "chan_zen",
+      "b": "ubuntu",
+      "similarity": 0.08898625
+    },
+    {
+      "a": "chan_zen",
+      "b": "maori_worldview",
+      "similarity": 0.06880209
+    },
+    {
+      "a": "chan_zen",
+      "b": "andean_relationality",
+      "similarity": 0.03463496
+    },
+    {
+      "a": "chan_zen",
+      "b": "neoplatonism",
+      "similarity": 0.15650536
+    },
+    {
+      "a": "chan_zen",
+      "b": "stoicism",
+      "similarity": 0.15950629
+    },
+    {
+      "a": "chan_zen",
+      "b": "secular_humanism",
+      "similarity": 0.27752715
+    },
+    {
+      "a": "chan_zen",
+      "b": "scientific_naturalism",
+      "similarity": 0.70143802
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "advaita_vedanta",
+      "similarity": 0.49151157
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "visishtadvaita",
+      "similarity": 0.69032079
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.47338107
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "samkhya_yoga",
+      "similarity": 0.52255623
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.55777832
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "theravada_buddhism",
+      "similarity": 0.39795859
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "madhyamaka",
+      "similarity": 0.23124865
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "yogacara",
+      "similarity": 0.41176471
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "huayan_buddhism",
+      "similarity": 0.45315295
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "chan_zen",
+      "similarity": 0.44121501
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "pure_land_buddhism",
+      "similarity": 1.0
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "jainism",
+      "similarity": 0.32883353
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "sikhism",
+      "similarity": 0.71164351
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.23564893
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "kabbalah",
+      "similarity": 0.55524977
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.61859013
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.43787749
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "protestant_christianity",
+      "similarity": 0.45836582
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "sunni_islam",
+      "similarity": 0.56895409
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.33002636
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "sufism",
+      "similarity": 0.55845471
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "zoroastrianism",
+      "similarity": 0.26214324
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "bahai_faith",
+      "similarity": 0.24457663
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "philosophical_daoism",
+      "similarity": 0.31176471
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "religious_daoism",
+      "similarity": 0.67632223
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "classical_confucianism",
+      "similarity": 0.35098439
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "neo_confucianism",
+      "similarity": 0.25964135
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "shinto",
+      "similarity": 0.41884666
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "yoruba_ifa",
+      "similarity": 0.44726342
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "ubuntu",
+      "similarity": 0.17400235
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "maori_worldview",
+      "similarity": 0.19507511
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "andean_relationality",
+      "similarity": 0.11174569
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "neoplatonism",
+      "similarity": 0.62874882
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "stoicism",
+      "similarity": 0.26901045
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "secular_humanism",
+      "similarity": 0.15698736
+    },
+    {
+      "a": "pure_land_buddhism",
+      "b": "scientific_naturalism",
+      "similarity": 0.19280513
+    },
+    {
+      "a": "jainism",
+      "b": "advaita_vedanta",
+      "similarity": 0.67437056
+    },
+    {
+      "a": "jainism",
+      "b": "visishtadvaita",
+      "similarity": 0.23104269
+    },
+    {
+      "a": "jainism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.23154955
+    },
+    {
+      "a": "jainism",
+      "b": "samkhya_yoga",
+      "similarity": 0.43122154
+    },
+    {
+      "a": "jainism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.63940284
+    },
+    {
+      "a": "jainism",
+      "b": "theravada_buddhism",
+      "similarity": 0.49578052
+    },
+    {
+      "a": "jainism",
+      "b": "madhyamaka",
+      "similarity": 0.57526006
+    },
+    {
+      "a": "jainism",
+      "b": "yogacara",
+      "similarity": 0.60505369
+    },
+    {
+      "a": "jainism",
+      "b": "huayan_buddhism",
+      "similarity": 0.16888013
+    },
+    {
+      "a": "jainism",
+      "b": "chan_zen",
+      "similarity": 0.51571581
+    },
+    {
+      "a": "jainism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.32883353
+    },
+    {
+      "a": "jainism",
+      "b": "jainism",
+      "similarity": 1.0
+    },
+    {
+      "a": "jainism",
+      "b": "sikhism",
+      "similarity": 0.52556145
+    },
+    {
+      "a": "jainism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.48208217
+    },
+    {
+      "a": "jainism",
+      "b": "kabbalah",
+      "similarity": 0.2728739
+    },
+    {
+      "a": "jainism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.15512631
+    },
+    {
+      "a": "jainism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.50279332
+    },
+    {
+      "a": "jainism",
+      "b": "protestant_christianity",
+      "similarity": 0.76537512
+    },
+    {
+      "a": "jainism",
+      "b": "sunni_islam",
+      "similarity": 0.30801116
+    },
+    {
+      "a": "jainism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.35021896
+    },
+    {
+      "a": "jainism",
+      "b": "sufism",
+      "similarity": 0.49718459
+    },
+    {
+      "a": "jainism",
+      "b": "zoroastrianism",
+      "similarity": 0.37514886
+    },
+    {
+      "a": "jainism",
+      "b": "bahai_faith",
+      "similarity": 0.46773485
+    },
+    {
+      "a": "jainism",
+      "b": "philosophical_daoism",
+      "similarity": 0.34856354
+    },
+    {
+      "a": "jainism",
+      "b": "religious_daoism",
+      "similarity": 0.25205042
+    },
+    {
+      "a": "jainism",
+      "b": "classical_confucianism",
+      "similarity": 0.52321664
+    },
+    {
+      "a": "jainism",
+      "b": "neo_confucianism",
+      "similarity": 0.49654502
+    },
+    {
+      "a": "jainism",
+      "b": "shinto",
+      "similarity": 0.15609493
+    },
+    {
+      "a": "jainism",
+      "b": "yoruba_ifa",
+      "similarity": 0.52244625
+    },
+    {
+      "a": "jainism",
+      "b": "ubuntu",
+      "similarity": 0.36684787
+    },
+    {
+      "a": "jainism",
+      "b": "maori_worldview",
+      "similarity": 0.47380476
+    },
+    {
+      "a": "jainism",
+      "b": "andean_relationality",
+      "similarity": 0.23283431
+    },
+    {
+      "a": "jainism",
+      "b": "neoplatonism",
+      "similarity": 0.17418541
+    },
+    {
+      "a": "jainism",
+      "b": "stoicism",
+      "similarity": 0.45768256
+    },
+    {
+      "a": "jainism",
+      "b": "secular_humanism",
+      "similarity": 0.62406116
+    },
+    {
+      "a": "jainism",
+      "b": "scientific_naturalism",
+      "similarity": 0.43112537
+    },
+    {
+      "a": "sikhism",
+      "b": "advaita_vedanta",
+      "similarity": 0.69912587
+    },
+    {
+      "a": "sikhism",
+      "b": "visishtadvaita",
+      "similarity": 0.73850726
+    },
+    {
+      "a": "sikhism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.63705591
+    },
+    {
+      "a": "sikhism",
+      "b": "samkhya_yoga",
+      "similarity": 0.50403596
+    },
+    {
+      "a": "sikhism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.68177129
+    },
+    {
+      "a": "sikhism",
+      "b": "theravada_buddhism",
+      "similarity": 0.35966619
+    },
+    {
+      "a": "sikhism",
+      "b": "madhyamaka",
+      "similarity": 0.28874644
+    },
+    {
+      "a": "sikhism",
+      "b": "yogacara",
+      "similarity": 0.51577832
+    },
+    {
+      "a": "sikhism",
+      "b": "huayan_buddhism",
+      "similarity": 0.42960799
+    },
+    {
+      "a": "sikhism",
+      "b": "chan_zen",
+      "similarity": 0.52309477
+    },
+    {
+      "a": "sikhism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.71164351
+    },
+    {
+      "a": "sikhism",
+      "b": "jainism",
+      "similarity": 0.52556145
+    },
+    {
+      "a": "sikhism",
+      "b": "sikhism",
+      "similarity": 1.0
+    },
+    {
+      "a": "sikhism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.48414091
+    },
+    {
+      "a": "sikhism",
+      "b": "kabbalah",
+      "similarity": 0.65690663
+    },
+    {
+      "a": "sikhism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.71224122
+    },
+    {
+      "a": "sikhism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.68959661
+    },
+    {
+      "a": "sikhism",
+      "b": "protestant_christianity",
+      "similarity": 0.60123992
+    },
+    {
+      "a": "sikhism",
+      "b": "sunni_islam",
+      "similarity": 0.66471967
+    },
+    {
+      "a": "sikhism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.34767187
+    },
+    {
+      "a": "sikhism",
+      "b": "sufism",
+      "similarity": 0.74609215
+    },
+    {
+      "a": "sikhism",
+      "b": "zoroastrianism",
+      "similarity": 0.41315396
+    },
+    {
+      "a": "sikhism",
+      "b": "bahai_faith",
+      "similarity": 0.37146648
+    },
+    {
+      "a": "sikhism",
+      "b": "philosophical_daoism",
+      "similarity": 0.29379778
+    },
+    {
+      "a": "sikhism",
+      "b": "religious_daoism",
+      "similarity": 0.5699394
+    },
+    {
+      "a": "sikhism",
+      "b": "classical_confucianism",
+      "similarity": 0.5784354
+    },
+    {
+      "a": "sikhism",
+      "b": "neo_confucianism",
+      "similarity": 0.48535014
+    },
+    {
+      "a": "sikhism",
+      "b": "shinto",
+      "similarity": 0.35163928
+    },
+    {
+      "a": "sikhism",
+      "b": "yoruba_ifa",
+      "similarity": 0.56310202
+    },
+    {
+      "a": "sikhism",
+      "b": "ubuntu",
+      "similarity": 0.33107259
+    },
+    {
+      "a": "sikhism",
+      "b": "maori_worldview",
+      "similarity": 0.35836866
+    },
+    {
+      "a": "sikhism",
+      "b": "andean_relationality",
+      "similarity": 0.23677853
+    },
+    {
+      "a": "sikhism",
+      "b": "neoplatonism",
+      "similarity": 0.69167436
+    },
+    {
+      "a": "sikhism",
+      "b": "stoicism",
+      "similarity": 0.49978931
+    },
+    {
+      "a": "sikhism",
+      "b": "secular_humanism",
+      "similarity": 0.40656162
+    },
+    {
+      "a": "sikhism",
+      "b": "scientific_naturalism",
+      "similarity": 0.34969904
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "advaita_vedanta",
+      "similarity": 0.12690176
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "visishtadvaita",
+      "similarity": 0.17386064
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.24713458
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "samkhya_yoga",
+      "similarity": 0.16437356
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.40922295
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "theravada_buddhism",
+      "similarity": 0.22290213
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "madhyamaka",
+      "similarity": 0.3005838
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "yogacara",
+      "similarity": 0.1454004
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "huayan_buddhism",
+      "similarity": 0.37417353
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "chan_zen",
+      "similarity": 0.1965812
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.23564893
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "jainism",
+      "similarity": 0.48208217
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "sikhism",
+      "similarity": 0.48414091
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "rabbinic_judaism",
+      "similarity": 1.0
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "kabbalah",
+      "similarity": 0.22363099
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.25623537
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.68088097
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "protestant_christianity",
+      "similarity": 0.55305016
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "sunni_islam",
+      "similarity": 0.52067931
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.54352309
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "sufism",
+      "similarity": 0.2512208
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "zoroastrianism",
+      "similarity": 0.53624892
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "bahai_faith",
+      "similarity": 0.64733622
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "philosophical_daoism",
+      "similarity": 0.09024853
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "religious_daoism",
+      "similarity": 0.25086744
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "classical_confucianism",
+      "similarity": 0.85215433
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "neo_confucianism",
+      "similarity": 0.42513774
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "shinto",
+      "similarity": 0.40277236
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "yoruba_ifa",
+      "similarity": 0.69985846
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "ubuntu",
+      "similarity": 0.70341509
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "maori_worldview",
+      "similarity": 0.70522144
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "andean_relationality",
+      "similarity": 0.49787749
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "neoplatonism",
+      "similarity": 0.08536656
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "stoicism",
+      "similarity": 0.77260861
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "secular_humanism",
+      "similarity": 0.76319966
+    },
+    {
+      "a": "rabbinic_judaism",
+      "b": "scientific_naturalism",
+      "similarity": 0.14830404
+    },
+    {
+      "a": "kabbalah",
+      "b": "advaita_vedanta",
+      "similarity": 0.54052412
+    },
+    {
+      "a": "kabbalah",
+      "b": "visishtadvaita",
+      "similarity": 0.73453466
+    },
+    {
+      "a": "kabbalah",
+      "b": "dvaita_vedanta",
+      "similarity": 0.49716647
+    },
+    {
+      "a": "kabbalah",
+      "b": "samkhya_yoga",
+      "similarity": 0.25166004
+    },
+    {
+      "a": "kabbalah",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.32224273
+    },
+    {
+      "a": "kabbalah",
+      "b": "theravada_buddhism",
+      "similarity": 0.2063972
+    },
+    {
+      "a": "kabbalah",
+      "b": "madhyamaka",
+      "similarity": 0.29384019
+    },
+    {
+      "a": "kabbalah",
+      "b": "yogacara",
+      "similarity": 0.25016748
+    },
+    {
+      "a": "kabbalah",
+      "b": "huayan_buddhism",
+      "similarity": 0.67569169
+    },
+    {
+      "a": "kabbalah",
+      "b": "chan_zen",
+      "similarity": 0.14041946
+    },
+    {
+      "a": "kabbalah",
+      "b": "pure_land_buddhism",
+      "similarity": 0.55524977
+    },
+    {
+      "a": "kabbalah",
+      "b": "jainism",
+      "similarity": 0.2728739
+    },
+    {
+      "a": "kabbalah",
+      "b": "sikhism",
+      "similarity": 0.65690663
+    },
+    {
+      "a": "kabbalah",
+      "b": "rabbinic_judaism",
+      "similarity": 0.22363099
+    },
+    {
+      "a": "kabbalah",
+      "b": "kabbalah",
+      "similarity": 1.0
+    },
+    {
+      "a": "kabbalah",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.59967387
+    },
+    {
+      "a": "kabbalah",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.37440932
+    },
+    {
+      "a": "kabbalah",
+      "b": "protestant_christianity",
+      "similarity": 0.38900749
+    },
+    {
+      "a": "kabbalah",
+      "b": "sunni_islam",
+      "similarity": 0.48455618
+    },
+    {
+      "a": "kabbalah",
+      "b": "twelver_shia_islam",
+      "similarity": 0.15085714
+    },
+    {
+      "a": "kabbalah",
+      "b": "sufism",
+      "similarity": 0.39690981
+    },
+    {
+      "a": "kabbalah",
+      "b": "zoroastrianism",
+      "similarity": 0.25560093
+    },
+    {
+      "a": "kabbalah",
+      "b": "bahai_faith",
+      "similarity": 0.39389394
+    },
+    {
+      "a": "kabbalah",
+      "b": "philosophical_daoism",
+      "similarity": 0.31118394
+    },
+    {
+      "a": "kabbalah",
+      "b": "religious_daoism",
+      "similarity": 0.344272
+    },
+    {
+      "a": "kabbalah",
+      "b": "classical_confucianism",
+      "similarity": 0.24271268
+    },
+    {
+      "a": "kabbalah",
+      "b": "neo_confucianism",
+      "similarity": 0.29058289
+    },
+    {
+      "a": "kabbalah",
+      "b": "shinto",
+      "similarity": 0.28964079
+    },
+    {
+      "a": "kabbalah",
+      "b": "yoruba_ifa",
+      "similarity": 0.29775081
+    },
+    {
+      "a": "kabbalah",
+      "b": "ubuntu",
+      "similarity": 0.39707606
+    },
+    {
+      "a": "kabbalah",
+      "b": "maori_worldview",
+      "similarity": 0.26514496
+    },
+    {
+      "a": "kabbalah",
+      "b": "andean_relationality",
+      "similarity": 0.37407818
+    },
+    {
+      "a": "kabbalah",
+      "b": "neoplatonism",
+      "similarity": 0.77339161
+    },
+    {
+      "a": "kabbalah",
+      "b": "stoicism",
+      "similarity": 0.41249258
+    },
+    {
+      "a": "kabbalah",
+      "b": "secular_humanism",
+      "similarity": 0.31361742
+    },
+    {
+      "a": "kabbalah",
+      "b": "scientific_naturalism",
+      "similarity": 0.29267248
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "advaita_vedanta",
+      "similarity": 0.56747929
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "visishtadvaita",
+      "similarity": 0.89030401
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "dvaita_vedanta",
+      "similarity": 0.66878553
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "samkhya_yoga",
+      "similarity": 0.40963464
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.5412492
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "theravada_buddhism",
+      "similarity": 0.46375229
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "madhyamaka",
+      "similarity": 0.28409091
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "yogacara",
+      "similarity": 0.19078013
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "huayan_buddhism",
+      "similarity": 0.54742384
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "chan_zen",
+      "similarity": 0.34493223
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "pure_land_buddhism",
+      "similarity": 0.61859013
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "jainism",
+      "similarity": 0.15512631
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "sikhism",
+      "similarity": 0.71224122
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "rabbinic_judaism",
+      "similarity": 0.25623537
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "kabbalah",
+      "similarity": 0.59967387
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 1.0
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.61063026
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "protestant_christianity",
+      "similarity": 0.30422365
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "sunni_islam",
+      "similarity": 0.57094395
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "twelver_shia_islam",
+      "similarity": 0.23089474
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "sufism",
+      "similarity": 0.6504925
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "zoroastrianism",
+      "similarity": 0.20610891
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "bahai_faith",
+      "similarity": 0.28465054
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "philosophical_daoism",
+      "similarity": 0.26015473
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "religious_daoism",
+      "similarity": 0.55391171
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "classical_confucianism",
+      "similarity": 0.27177865
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "neo_confucianism",
+      "similarity": 0.22831651
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "shinto",
+      "similarity": 0.5119179
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "yoruba_ifa",
+      "similarity": 0.4264519
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "ubuntu",
+      "similarity": 0.28827514
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "maori_worldview",
+      "similarity": 0.20494328
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "andean_relationality",
+      "similarity": 0.37939346
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "neoplatonism",
+      "similarity": 0.73277672
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "stoicism",
+      "similarity": 0.27588029
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "secular_humanism",
+      "similarity": 0.1371451
+    },
+    {
+      "a": "eastern_orthodox_christianity",
+      "b": "scientific_naturalism",
+      "similarity": 0.12940793
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "advaita_vedanta",
+      "similarity": 0.48386797
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "visishtadvaita",
+      "similarity": 0.61377563
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "dvaita_vedanta",
+      "similarity": 0.52380952
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "samkhya_yoga",
+      "similarity": 0.40050094
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.52557667
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "theravada_buddhism",
+      "similarity": 0.45750901
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "madhyamaka",
+      "similarity": 0.30822289
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "yogacara",
+      "similarity": 0.21893874
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "huayan_buddhism",
+      "similarity": 0.33238501
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "chan_zen",
+      "similarity": 0.20678607
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "pure_land_buddhism",
+      "similarity": 0.43787749
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "jainism",
+      "similarity": 0.50279332
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "sikhism",
+      "similarity": 0.68959661
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "rabbinic_judaism",
+      "similarity": 0.68088097
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "kabbalah",
+      "similarity": 0.37440932
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.61063026
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "roman_catholic_christianity",
+      "similarity": 1.0
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "protestant_christianity",
+      "similarity": 0.49102677
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "sunni_islam",
+      "similarity": 0.5542571
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "twelver_shia_islam",
+      "similarity": 0.50079091
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "sufism",
+      "similarity": 0.78543629
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "zoroastrianism",
+      "similarity": 0.41137043
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "bahai_faith",
+      "similarity": 0.49205628
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "philosophical_daoism",
+      "similarity": 0.09467621
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "religious_daoism",
+      "similarity": 0.45985678
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "classical_confucianism",
+      "similarity": 0.57774666
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "neo_confucianism",
+      "similarity": 0.35740731
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "shinto",
+      "similarity": 0.40512733
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "yoruba_ifa",
+      "similarity": 0.58422165
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "ubuntu",
+      "similarity": 0.59011804
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "maori_worldview",
+      "similarity": 0.6428317
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "andean_relationality",
+      "similarity": 0.48540198
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "neoplatonism",
+      "similarity": 0.40859347
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "stoicism",
+      "similarity": 0.52356565
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "secular_humanism",
+      "similarity": 0.5146991
+    },
+    {
+      "a": "roman_catholic_christianity",
+      "b": "scientific_naturalism",
+      "similarity": 0.01419142
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "advaita_vedanta",
+      "similarity": 0.63068154
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "visishtadvaita",
+      "similarity": 0.40292776
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "dvaita_vedanta",
+      "similarity": 0.28144217
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "samkhya_yoga",
+      "similarity": 0.3651339
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.67163421
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "theravada_buddhism",
+      "similarity": 0.40847794
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "madhyamaka",
+      "similarity": 0.45633547
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "yogacara",
+      "similarity": 0.45241301
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "huayan_buddhism",
+      "similarity": 0.2006288
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "chan_zen",
+      "similarity": 0.47186849
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "pure_land_buddhism",
+      "similarity": 0.45836582
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "jainism",
+      "similarity": 0.76537512
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "sikhism",
+      "similarity": 0.60123992
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "rabbinic_judaism",
+      "similarity": 0.55305016
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "kabbalah",
+      "similarity": 0.38900749
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.30422365
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.49102677
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "protestant_christianity",
+      "similarity": 1.0
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "sunni_islam",
+      "similarity": 0.56364672
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "twelver_shia_islam",
+      "similarity": 0.26039034
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "sufism",
+      "similarity": 0.50234935
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "zoroastrianism",
+      "similarity": 0.42975812
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "bahai_faith",
+      "similarity": 0.41685187
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "philosophical_daoism",
+      "similarity": 0.22620651
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "religious_daoism",
+      "similarity": 0.27250143
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "classical_confucianism",
+      "similarity": 0.53816356
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "neo_confucianism",
+      "similarity": 0.4286989
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "shinto",
+      "similarity": 0.10868281
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "yoruba_ifa",
+      "similarity": 0.50666424
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "ubuntu",
+      "similarity": 0.38235878
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "maori_worldview",
+      "similarity": 0.34717181
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "andean_relationality",
+      "similarity": 0.19532693
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "neoplatonism",
+      "similarity": 0.27027781
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "stoicism",
+      "similarity": 0.49120166
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "secular_humanism",
+      "similarity": 0.6178181
+    },
+    {
+      "a": "protestant_christianity",
+      "b": "scientific_naturalism",
+      "similarity": 0.49016507
+    },
+    {
+      "a": "sunni_islam",
+      "b": "advaita_vedanta",
+      "similarity": 0.32551714
+    },
+    {
+      "a": "sunni_islam",
+      "b": "visishtadvaita",
+      "similarity": 0.61486742
+    },
+    {
+      "a": "sunni_islam",
+      "b": "dvaita_vedanta",
+      "similarity": 0.6807723
+    },
+    {
+      "a": "sunni_islam",
+      "b": "samkhya_yoga",
+      "similarity": 0.20901152
+    },
+    {
+      "a": "sunni_islam",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.58226688
+    },
+    {
+      "a": "sunni_islam",
+      "b": "theravada_buddhism",
+      "similarity": 0.14470462
+    },
+    {
+      "a": "sunni_islam",
+      "b": "madhyamaka",
+      "similarity": 0.27664295
+    },
+    {
+      "a": "sunni_islam",
+      "b": "yogacara",
+      "similarity": 0.17966971
+    },
+    {
+      "a": "sunni_islam",
+      "b": "huayan_buddhism",
+      "similarity": 0.32680224
+    },
+    {
+      "a": "sunni_islam",
+      "b": "chan_zen",
+      "similarity": 0.17355977
+    },
+    {
+      "a": "sunni_islam",
+      "b": "pure_land_buddhism",
+      "similarity": 0.56895409
+    },
+    {
+      "a": "sunni_islam",
+      "b": "jainism",
+      "similarity": 0.30801116
+    },
+    {
+      "a": "sunni_islam",
+      "b": "sikhism",
+      "similarity": 0.66471967
+    },
+    {
+      "a": "sunni_islam",
+      "b": "rabbinic_judaism",
+      "similarity": 0.52067931
+    },
+    {
+      "a": "sunni_islam",
+      "b": "kabbalah",
+      "similarity": 0.48455618
+    },
+    {
+      "a": "sunni_islam",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.57094395
+    },
+    {
+      "a": "sunni_islam",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.5542571
+    },
+    {
+      "a": "sunni_islam",
+      "b": "protestant_christianity",
+      "similarity": 0.56364672
+    },
+    {
+      "a": "sunni_islam",
+      "b": "sunni_islam",
+      "similarity": 1.0
+    },
+    {
+      "a": "sunni_islam",
+      "b": "twelver_shia_islam",
+      "similarity": 0.46699583
+    },
+    {
+      "a": "sunni_islam",
+      "b": "sufism",
+      "similarity": 0.52646164
+    },
+    {
+      "a": "sunni_islam",
+      "b": "zoroastrianism",
+      "similarity": 0.54980466
+    },
+    {
+      "a": "sunni_islam",
+      "b": "bahai_faith",
+      "similarity": 0.32764527
+    },
+    {
+      "a": "sunni_islam",
+      "b": "philosophical_daoism",
+      "similarity": 0.19164769
+    },
+    {
+      "a": "sunni_islam",
+      "b": "religious_daoism",
+      "similarity": 0.27415799
+    },
+    {
+      "a": "sunni_islam",
+      "b": "classical_confucianism",
+      "similarity": 0.56309251
+    },
+    {
+      "a": "sunni_islam",
+      "b": "neo_confucianism",
+      "similarity": 0.34087008
+    },
+    {
+      "a": "sunni_islam",
+      "b": "shinto",
+      "similarity": 0.27882594
+    },
+    {
+      "a": "sunni_islam",
+      "b": "yoruba_ifa",
+      "similarity": 0.5029477
+    },
+    {
+      "a": "sunni_islam",
+      "b": "ubuntu",
+      "similarity": 0.32394372
+    },
+    {
+      "a": "sunni_islam",
+      "b": "maori_worldview",
+      "similarity": 0.38352566
+    },
+    {
+      "a": "sunni_islam",
+      "b": "andean_relationality",
+      "similarity": 0.23788578
+    },
+    {
+      "a": "sunni_islam",
+      "b": "neoplatonism",
+      "similarity": 0.47019647
+    },
+    {
+      "a": "sunni_islam",
+      "b": "stoicism",
+      "similarity": 0.52395806
+    },
+    {
+      "a": "sunni_islam",
+      "b": "secular_humanism",
+      "similarity": 0.36702457
+    },
+    {
+      "a": "sunni_islam",
+      "b": "scientific_naturalism",
+      "similarity": 0.1723613
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "advaita_vedanta",
+      "similarity": 0.09983084
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "visishtadvaita",
+      "similarity": 0.22700195
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "dvaita_vedanta",
+      "similarity": 0.27008948
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "samkhya_yoga",
+      "similarity": 0.03549364
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.36926892
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "theravada_buddhism",
+      "similarity": 0.11893456
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "madhyamaka",
+      "similarity": 0.20890476
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "yogacara",
+      "similarity": 0.22374668
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "huayan_buddhism",
+      "similarity": 0.22443424
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "chan_zen",
+      "similarity": 0.07628394
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "pure_land_buddhism",
+      "similarity": 0.33002636
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "jainism",
+      "similarity": 0.35021896
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "sikhism",
+      "similarity": 0.34767187
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "rabbinic_judaism",
+      "similarity": 0.54352309
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "kabbalah",
+      "similarity": 0.15085714
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.23089474
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.50079091
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "protestant_christianity",
+      "similarity": 0.26039034
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "sunni_islam",
+      "similarity": 0.46699583
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "twelver_shia_islam",
+      "similarity": 1.0
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "sufism",
+      "similarity": 0.3146949
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "zoroastrianism",
+      "similarity": 0.63316647
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "bahai_faith",
+      "similarity": 0.48350837
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "philosophical_daoism",
+      "similarity": 0.34121369
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "religious_daoism",
+      "similarity": 0.39302428
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "classical_confucianism",
+      "similarity": 0.45512628
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "neo_confucianism",
+      "similarity": 0.31187247
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "shinto",
+      "similarity": 0.55658627
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "yoruba_ifa",
+      "similarity": 0.38087754
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "ubuntu",
+      "similarity": 0.33092581
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "maori_worldview",
+      "similarity": 0.76759236
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "andean_relationality",
+      "similarity": 0.35742537
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "neoplatonism",
+      "similarity": 0.1269859
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "stoicism",
+      "similarity": 0.51717771
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "secular_humanism",
+      "similarity": 0.34279789
+    },
+    {
+      "a": "twelver_shia_islam",
+      "b": "scientific_naturalism",
+      "similarity": 0.01341533
+    },
+    {
+      "a": "sufism",
+      "b": "advaita_vedanta",
+      "similarity": 0.67452133
+    },
+    {
+      "a": "sufism",
+      "b": "visishtadvaita",
+      "similarity": 0.73288902
+    },
+    {
+      "a": "sufism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.59817996
+    },
+    {
+      "a": "sufism",
+      "b": "samkhya_yoga",
+      "similarity": 0.48669499
+    },
+    {
+      "a": "sufism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.66409687
+    },
+    {
+      "a": "sufism",
+      "b": "theravada_buddhism",
+      "similarity": 0.45477267
+    },
+    {
+      "a": "sufism",
+      "b": "madhyamaka",
+      "similarity": 0.23377074
+    },
+    {
+      "a": "sufism",
+      "b": "yogacara",
+      "similarity": 0.41367015
+    },
+    {
+      "a": "sufism",
+      "b": "huayan_buddhism",
+      "similarity": 0.12033299
+    },
+    {
+      "a": "sufism",
+      "b": "chan_zen",
+      "similarity": 0.3746275
+    },
+    {
+      "a": "sufism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.55845471
+    },
+    {
+      "a": "sufism",
+      "b": "jainism",
+      "similarity": 0.49718459
+    },
+    {
+      "a": "sufism",
+      "b": "sikhism",
+      "similarity": 0.74609215
+    },
+    {
+      "a": "sufism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.2512208
+    },
+    {
+      "a": "sufism",
+      "b": "kabbalah",
+      "similarity": 0.39690981
+    },
+    {
+      "a": "sufism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.6504925
+    },
+    {
+      "a": "sufism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.78543629
+    },
+    {
+      "a": "sufism",
+      "b": "protestant_christianity",
+      "similarity": 0.50234935
+    },
+    {
+      "a": "sufism",
+      "b": "sunni_islam",
+      "similarity": 0.52646164
+    },
+    {
+      "a": "sufism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.3146949
+    },
+    {
+      "a": "sufism",
+      "b": "sufism",
+      "similarity": 1.0
+    },
+    {
+      "a": "sufism",
+      "b": "zoroastrianism",
+      "similarity": 0.2350455
+    },
+    {
+      "a": "sufism",
+      "b": "bahai_faith",
+      "similarity": 0.16407503
+    },
+    {
+      "a": "sufism",
+      "b": "philosophical_daoism",
+      "similarity": 0.14995543
+    },
+    {
+      "a": "sufism",
+      "b": "religious_daoism",
+      "similarity": 0.49543369
+    },
+    {
+      "a": "sufism",
+      "b": "classical_confucianism",
+      "similarity": 0.31788198
+    },
+    {
+      "a": "sufism",
+      "b": "neo_confucianism",
+      "similarity": 0.36638123
+    },
+    {
+      "a": "sufism",
+      "b": "shinto",
+      "similarity": 0.23129682
+    },
+    {
+      "a": "sufism",
+      "b": "yoruba_ifa",
+      "similarity": 0.39316649
+    },
+    {
+      "a": "sufism",
+      "b": "ubuntu",
+      "similarity": 0.15732679
+    },
+    {
+      "a": "sufism",
+      "b": "maori_worldview",
+      "similarity": 0.31930869
+    },
+    {
+      "a": "sufism",
+      "b": "andean_relationality",
+      "similarity": 0.09822995
+    },
+    {
+      "a": "sufism",
+      "b": "neoplatonism",
+      "similarity": 0.52335411
+    },
+    {
+      "a": "sufism",
+      "b": "stoicism",
+      "similarity": 0.23647338
+    },
+    {
+      "a": "sufism",
+      "b": "secular_humanism",
+      "similarity": 0.21977713
+    },
+    {
+      "a": "sufism",
+      "b": "scientific_naturalism",
+      "similarity": 0.14468246
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "advaita_vedanta",
+      "similarity": 0.22711999
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "visishtadvaita",
+      "similarity": 0.24531568
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.32171278
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "samkhya_yoga",
+      "similarity": 0.20515072
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.45938305
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "theravada_buddhism",
+      "similarity": 0.13681105
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "madhyamaka",
+      "similarity": 0.21126163
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "yogacara",
+      "similarity": 0.15204308
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "huayan_buddhism",
+      "similarity": 0.21877339
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "chan_zen",
+      "similarity": 0.05362489
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.26214324
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "jainism",
+      "similarity": 0.37514886
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "sikhism",
+      "similarity": 0.41315396
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.53624892
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "kabbalah",
+      "similarity": 0.25560093
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.20610891
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.41137043
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "protestant_christianity",
+      "similarity": 0.42975812
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "sunni_islam",
+      "similarity": 0.54980466
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.63316647
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "sufism",
+      "similarity": 0.2350455
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "zoroastrianism",
+      "similarity": 1.0
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "bahai_faith",
+      "similarity": 0.28108976
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "philosophical_daoism",
+      "similarity": 0.58720085
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "religious_daoism",
+      "similarity": 0.26790987
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "classical_confucianism",
+      "similarity": 0.59721677
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "neo_confucianism",
+      "similarity": 0.48109953
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "shinto",
+      "similarity": 0.40202894
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "yoruba_ifa",
+      "similarity": 0.36889081
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "ubuntu",
+      "similarity": 0.30131
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "maori_worldview",
+      "similarity": 0.53359462
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "andean_relationality",
+      "similarity": 0.38480846
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "neoplatonism",
+      "similarity": 0.2777182
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "stoicism",
+      "similarity": 0.82875472
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "secular_humanism",
+      "similarity": 0.40939787
+    },
+    {
+      "a": "zoroastrianism",
+      "b": "scientific_naturalism",
+      "similarity": 0.05448735
+    },
+    {
+      "a": "bahai_faith",
+      "b": "advaita_vedanta",
+      "similarity": 0.22973623
+    },
+    {
+      "a": "bahai_faith",
+      "b": "visishtadvaita",
+      "similarity": 0.21441355
+    },
+    {
+      "a": "bahai_faith",
+      "b": "dvaita_vedanta",
+      "similarity": 0.15538619
+    },
+    {
+      "a": "bahai_faith",
+      "b": "samkhya_yoga",
+      "similarity": 0.14293985
+    },
+    {
+      "a": "bahai_faith",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.28583575
+    },
+    {
+      "a": "bahai_faith",
+      "b": "theravada_buddhism",
+      "similarity": 0.32346216
+    },
+    {
+      "a": "bahai_faith",
+      "b": "madhyamaka",
+      "similarity": 0.55032437
+    },
+    {
+      "a": "bahai_faith",
+      "b": "yogacara",
+      "similarity": 0.39260986
+    },
+    {
+      "a": "bahai_faith",
+      "b": "huayan_buddhism",
+      "similarity": 0.54230444
+    },
+    {
+      "a": "bahai_faith",
+      "b": "chan_zen",
+      "similarity": 0.28526681
+    },
+    {
+      "a": "bahai_faith",
+      "b": "pure_land_buddhism",
+      "similarity": 0.24457663
+    },
+    {
+      "a": "bahai_faith",
+      "b": "jainism",
+      "similarity": 0.46773485
+    },
+    {
+      "a": "bahai_faith",
+      "b": "sikhism",
+      "similarity": 0.37146648
+    },
+    {
+      "a": "bahai_faith",
+      "b": "rabbinic_judaism",
+      "similarity": 0.64733622
+    },
+    {
+      "a": "bahai_faith",
+      "b": "kabbalah",
+      "similarity": 0.39389394
+    },
+    {
+      "a": "bahai_faith",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.28465054
+    },
+    {
+      "a": "bahai_faith",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.49205628
+    },
+    {
+      "a": "bahai_faith",
+      "b": "protestant_christianity",
+      "similarity": 0.41685187
+    },
+    {
+      "a": "bahai_faith",
+      "b": "sunni_islam",
+      "similarity": 0.32764527
+    },
+    {
+      "a": "bahai_faith",
+      "b": "twelver_shia_islam",
+      "similarity": 0.48350837
+    },
+    {
+      "a": "bahai_faith",
+      "b": "sufism",
+      "similarity": 0.16407503
+    },
+    {
+      "a": "bahai_faith",
+      "b": "zoroastrianism",
+      "similarity": 0.28108976
+    },
+    {
+      "a": "bahai_faith",
+      "b": "bahai_faith",
+      "similarity": 1.0
+    },
+    {
+      "a": "bahai_faith",
+      "b": "philosophical_daoism",
+      "similarity": 0.33468381
+    },
+    {
+      "a": "bahai_faith",
+      "b": "religious_daoism",
+      "similarity": 0.21926039
+    },
+    {
+      "a": "bahai_faith",
+      "b": "classical_confucianism",
+      "similarity": 0.47713142
+    },
+    {
+      "a": "bahai_faith",
+      "b": "neo_confucianism",
+      "similarity": 0.26913678
+    },
+    {
+      "a": "bahai_faith",
+      "b": "shinto",
+      "similarity": 0.42890746
+    },
+    {
+      "a": "bahai_faith",
+      "b": "yoruba_ifa",
+      "similarity": 0.59163503
+    },
+    {
+      "a": "bahai_faith",
+      "b": "ubuntu",
+      "similarity": 0.75610507
+    },
+    {
+      "a": "bahai_faith",
+      "b": "maori_worldview",
+      "similarity": 0.65504956
+    },
+    {
+      "a": "bahai_faith",
+      "b": "andean_relationality",
+      "similarity": 0.63356803
+    },
+    {
+      "a": "bahai_faith",
+      "b": "neoplatonism",
+      "similarity": 0.1582896
+    },
+    {
+      "a": "bahai_faith",
+      "b": "stoicism",
+      "similarity": 0.47350364
+    },
+    {
+      "a": "bahai_faith",
+      "b": "secular_humanism",
+      "similarity": 0.68707629
+    },
+    {
+      "a": "bahai_faith",
+      "b": "scientific_naturalism",
+      "similarity": 0.41162808
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "advaita_vedanta",
+      "similarity": 0.33403699
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "visishtadvaita",
+      "similarity": 0.26276727
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.16568337
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "samkhya_yoga",
+      "similarity": 0.30482447
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.54365735
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "theravada_buddhism",
+      "similarity": 0.31268175
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "madhyamaka",
+      "similarity": 0.38734148
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "yogacara",
+      "similarity": 0.35294118
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "huayan_buddhism",
+      "similarity": 0.3493054
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "chan_zen",
+      "similarity": 0.28077319
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.31176471
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "jainism",
+      "similarity": 0.34856354
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "sikhism",
+      "similarity": 0.29379778
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.09024853
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "kabbalah",
+      "similarity": 0.31118394
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.26015473
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.09467621
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "protestant_christianity",
+      "similarity": 0.22620651
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "sunni_islam",
+      "similarity": 0.19164769
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.34121369
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "sufism",
+      "similarity": 0.14995543
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "zoroastrianism",
+      "similarity": 0.58720085
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "bahai_faith",
+      "similarity": 0.33468381
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "philosophical_daoism",
+      "similarity": 1.0
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "religious_daoism",
+      "similarity": 0.44461925
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "classical_confucianism",
+      "similarity": 0.31907672
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "neo_confucianism",
+      "similarity": 0.42362537
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "shinto",
+      "similarity": 0.52624324
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "yoruba_ifa",
+      "similarity": 0.32042752
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "ubuntu",
+      "similarity": 0.13920188
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "maori_worldview",
+      "similarity": 0.24888893
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "andean_relationality",
+      "similarity": 0.41142733
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "neoplatonism",
+      "similarity": 0.36723382
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "stoicism",
+      "similarity": 0.48538842
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "secular_humanism",
+      "similarity": 0.15698736
+    },
+    {
+      "a": "philosophical_daoism",
+      "b": "scientific_naturalism",
+      "similarity": 0.26804615
+    },
+    {
+      "a": "religious_daoism",
+      "b": "advaita_vedanta",
+      "similarity": 0.35357748
+    },
+    {
+      "a": "religious_daoism",
+      "b": "visishtadvaita",
+      "similarity": 0.45326896
+    },
+    {
+      "a": "religious_daoism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.29607217
+    },
+    {
+      "a": "religious_daoism",
+      "b": "samkhya_yoga",
+      "similarity": 0.62915287
+    },
+    {
+      "a": "religious_daoism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.51863576
+    },
+    {
+      "a": "religious_daoism",
+      "b": "theravada_buddhism",
+      "similarity": 0.417607
+    },
+    {
+      "a": "religious_daoism",
+      "b": "madhyamaka",
+      "similarity": 0.19079181
+    },
+    {
+      "a": "religious_daoism",
+      "b": "yogacara",
+      "similarity": 0.37573457
+    },
+    {
+      "a": "religious_daoism",
+      "b": "huayan_buddhism",
+      "similarity": 0.39196475
+    },
+    {
+      "a": "religious_daoism",
+      "b": "chan_zen",
+      "similarity": 0.56044854
+    },
+    {
+      "a": "religious_daoism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.67632223
+    },
+    {
+      "a": "religious_daoism",
+      "b": "jainism",
+      "similarity": 0.25205042
+    },
+    {
+      "a": "religious_daoism",
+      "b": "sikhism",
+      "similarity": 0.5699394
+    },
+    {
+      "a": "religious_daoism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.25086744
+    },
+    {
+      "a": "religious_daoism",
+      "b": "kabbalah",
+      "similarity": 0.344272
+    },
+    {
+      "a": "religious_daoism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.55391171
+    },
+    {
+      "a": "religious_daoism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.45985678
+    },
+    {
+      "a": "religious_daoism",
+      "b": "protestant_christianity",
+      "similarity": 0.27250143
+    },
+    {
+      "a": "religious_daoism",
+      "b": "sunni_islam",
+      "similarity": 0.27415799
+    },
+    {
+      "a": "religious_daoism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.39302428
+    },
+    {
+      "a": "religious_daoism",
+      "b": "sufism",
+      "similarity": 0.49543369
+    },
+    {
+      "a": "religious_daoism",
+      "b": "zoroastrianism",
+      "similarity": 0.26790987
+    },
+    {
+      "a": "religious_daoism",
+      "b": "bahai_faith",
+      "similarity": 0.21926039
+    },
+    {
+      "a": "religious_daoism",
+      "b": "philosophical_daoism",
+      "similarity": 0.44461925
+    },
+    {
+      "a": "religious_daoism",
+      "b": "religious_daoism",
+      "similarity": 1.0
+    },
+    {
+      "a": "religious_daoism",
+      "b": "classical_confucianism",
+      "similarity": 0.39629696
+    },
+    {
+      "a": "religious_daoism",
+      "b": "neo_confucianism",
+      "similarity": 0.59646223
+    },
+    {
+      "a": "religious_daoism",
+      "b": "shinto",
+      "similarity": 0.66312786
+    },
+    {
+      "a": "religious_daoism",
+      "b": "yoruba_ifa",
+      "similarity": 0.56853524
+    },
+    {
+      "a": "religious_daoism",
+      "b": "ubuntu",
+      "similarity": 0.17465452
+    },
+    {
+      "a": "religious_daoism",
+      "b": "maori_worldview",
+      "similarity": 0.35089629
+    },
+    {
+      "a": "religious_daoism",
+      "b": "andean_relationality",
+      "similarity": 0.25955427
+    },
+    {
+      "a": "religious_daoism",
+      "b": "neoplatonism",
+      "similarity": 0.44426166
+    },
+    {
+      "a": "religious_daoism",
+      "b": "stoicism",
+      "similarity": 0.32996359
+    },
+    {
+      "a": "religious_daoism",
+      "b": "secular_humanism",
+      "similarity": 0.10522736
+    },
+    {
+      "a": "religious_daoism",
+      "b": "scientific_naturalism",
+      "similarity": 0.20525673
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "advaita_vedanta",
+      "similarity": 0.14495346
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "visishtadvaita",
+      "similarity": 0.19487557
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.27817432
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "samkhya_yoga",
+      "similarity": 0.2474567
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.60000543
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "theravada_buddhism",
+      "similarity": 0.25698196
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "madhyamaka",
+      "similarity": 0.36585588
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "yogacara",
+      "similarity": 0.24462549
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "huayan_buddhism",
+      "similarity": 0.38406867
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "chan_zen",
+      "similarity": 0.38074981
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.35098439
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "jainism",
+      "similarity": 0.52321664
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "sikhism",
+      "similarity": 0.5784354
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.85215433
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "kabbalah",
+      "similarity": 0.24271268
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.27177865
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.57774666
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "protestant_christianity",
+      "similarity": 0.53816356
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "sunni_islam",
+      "similarity": 0.56309251
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.45512628
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "sufism",
+      "similarity": 0.31788198
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "zoroastrianism",
+      "similarity": 0.59721677
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "bahai_faith",
+      "similarity": 0.47713142
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "philosophical_daoism",
+      "similarity": 0.31907672
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "religious_daoism",
+      "similarity": 0.39629696
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "classical_confucianism",
+      "similarity": 1.0
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "neo_confucianism",
+      "similarity": 0.56829114
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "shinto",
+      "similarity": 0.54371495
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "yoruba_ifa",
+      "similarity": 0.7000666
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "ubuntu",
+      "similarity": 0.62023881
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "maori_worldview",
+      "similarity": 0.58380511
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "andean_relationality",
+      "similarity": 0.47756693
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "neoplatonism",
+      "similarity": 0.12072655
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "stoicism",
+      "similarity": 0.85648374
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "secular_humanism",
+      "similarity": 0.65180156
+    },
+    {
+      "a": "classical_confucianism",
+      "b": "scientific_naturalism",
+      "similarity": 0.17005426
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "advaita_vedanta",
+      "similarity": 0.36915601
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "visishtadvaita",
+      "similarity": 0.1386415
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.25430905
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "samkhya_yoga",
+      "similarity": 0.58529923
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.49206783
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "theravada_buddhism",
+      "similarity": 0.34338584
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "madhyamaka",
+      "similarity": 0.34247476
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "yogacara",
+      "similarity": 0.51245004
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "huayan_buddhism",
+      "similarity": 0.23028309
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "chan_zen",
+      "similarity": 0.55908525
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.25964135
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "jainism",
+      "similarity": 0.49654502
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "sikhism",
+      "similarity": 0.48535014
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.42513774
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "kabbalah",
+      "similarity": 0.29058289
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.22831651
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.35740731
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "protestant_christianity",
+      "similarity": 0.4286989
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "sunni_islam",
+      "similarity": 0.34087008
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.31187247
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "sufism",
+      "similarity": 0.36638123
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "zoroastrianism",
+      "similarity": 0.48109953
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "bahai_faith",
+      "similarity": 0.26913678
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "philosophical_daoism",
+      "similarity": 0.42362537
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "religious_daoism",
+      "similarity": 0.59646223
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "classical_confucianism",
+      "similarity": 0.56829114
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "neo_confucianism",
+      "similarity": 1.0
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "shinto",
+      "similarity": 0.34929122
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "yoruba_ifa",
+      "similarity": 0.60481474
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "ubuntu",
+      "similarity": 0.22521165
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "maori_worldview",
+      "similarity": 0.42973996
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "andean_relationality",
+      "similarity": 0.20059783
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "neoplatonism",
+      "similarity": 0.27144836
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "stoicism",
+      "similarity": 0.59097588
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "secular_humanism",
+      "similarity": 0.3917131
+    },
+    {
+      "a": "neo_confucianism",
+      "b": "scientific_naturalism",
+      "similarity": 0.48614286
+    },
+    {
+      "a": "shinto",
+      "b": "advaita_vedanta",
+      "similarity": 0.05401664
+    },
+    {
+      "a": "shinto",
+      "b": "visishtadvaita",
+      "similarity": 0.35614983
+    },
+    {
+      "a": "shinto",
+      "b": "dvaita_vedanta",
+      "similarity": 0.25387979
+    },
+    {
+      "a": "shinto",
+      "b": "samkhya_yoga",
+      "similarity": 0.24987097
+    },
+    {
+      "a": "shinto",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.40605463
+    },
+    {
+      "a": "shinto",
+      "b": "theravada_buddhism",
+      "similarity": 0.48264984
+    },
+    {
+      "a": "shinto",
+      "b": "madhyamaka",
+      "similarity": 0.45914286
+    },
+    {
+      "a": "shinto",
+      "b": "yogacara",
+      "similarity": 0.1664647
+    },
+    {
+      "a": "shinto",
+      "b": "huayan_buddhism",
+      "similarity": 0.6592868
+    },
+    {
+      "a": "shinto",
+      "b": "chan_zen",
+      "similarity": 0.29750231
+    },
+    {
+      "a": "shinto",
+      "b": "pure_land_buddhism",
+      "similarity": 0.41884666
+    },
+    {
+      "a": "shinto",
+      "b": "jainism",
+      "similarity": 0.15609493
+    },
+    {
+      "a": "shinto",
+      "b": "sikhism",
+      "similarity": 0.35163928
+    },
+    {
+      "a": "shinto",
+      "b": "rabbinic_judaism",
+      "similarity": 0.40277236
+    },
+    {
+      "a": "shinto",
+      "b": "kabbalah",
+      "similarity": 0.28964079
+    },
+    {
+      "a": "shinto",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.5119179
+    },
+    {
+      "a": "shinto",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.40512733
+    },
+    {
+      "a": "shinto",
+      "b": "protestant_christianity",
+      "similarity": 0.10868281
+    },
+    {
+      "a": "shinto",
+      "b": "sunni_islam",
+      "similarity": 0.27882594
+    },
+    {
+      "a": "shinto",
+      "b": "twelver_shia_islam",
+      "similarity": 0.55658627
+    },
+    {
+      "a": "shinto",
+      "b": "sufism",
+      "similarity": 0.23129682
+    },
+    {
+      "a": "shinto",
+      "b": "zoroastrianism",
+      "similarity": 0.40202894
+    },
+    {
+      "a": "shinto",
+      "b": "bahai_faith",
+      "similarity": 0.42890746
+    },
+    {
+      "a": "shinto",
+      "b": "philosophical_daoism",
+      "similarity": 0.52624324
+    },
+    {
+      "a": "shinto",
+      "b": "religious_daoism",
+      "similarity": 0.66312786
+    },
+    {
+      "a": "shinto",
+      "b": "classical_confucianism",
+      "similarity": 0.54371495
+    },
+    {
+      "a": "shinto",
+      "b": "neo_confucianism",
+      "similarity": 0.34929122
+    },
+    {
+      "a": "shinto",
+      "b": "shinto",
+      "similarity": 1.0
+    },
+    {
+      "a": "shinto",
+      "b": "yoruba_ifa",
+      "similarity": 0.47532708
+    },
+    {
+      "a": "shinto",
+      "b": "ubuntu",
+      "similarity": 0.54006172
+    },
+    {
+      "a": "shinto",
+      "b": "maori_worldview",
+      "similarity": 0.50353202
+    },
+    {
+      "a": "shinto",
+      "b": "andean_relationality",
+      "similarity": 0.69551861
+    },
+    {
+      "a": "shinto",
+      "b": "neoplatonism",
+      "similarity": 0.26412619
+    },
+    {
+      "a": "shinto",
+      "b": "stoicism",
+      "similarity": 0.56054437
+    },
+    {
+      "a": "shinto",
+      "b": "secular_humanism",
+      "similarity": 0.19638667
+    },
+    {
+      "a": "shinto",
+      "b": "scientific_naturalism",
+      "similarity": 0.09014951
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "advaita_vedanta",
+      "similarity": 0.29243394
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "visishtadvaita",
+      "similarity": 0.25170167
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "dvaita_vedanta",
+      "similarity": 0.34918995
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "samkhya_yoga",
+      "similarity": 0.451826
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.60094302
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "theravada_buddhism",
+      "similarity": 0.3419426
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "madhyamaka",
+      "similarity": 0.32803993
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "yogacara",
+      "similarity": 0.34712982
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "huayan_buddhism",
+      "similarity": 0.41247896
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "chan_zen",
+      "similarity": 0.43812278
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "pure_land_buddhism",
+      "similarity": 0.44726342
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "jainism",
+      "similarity": 0.52244625
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "sikhism",
+      "similarity": 0.56310202
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "rabbinic_judaism",
+      "similarity": 0.69985846
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "kabbalah",
+      "similarity": 0.29775081
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.4264519
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.58422165
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "protestant_christianity",
+      "similarity": 0.50666424
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "sunni_islam",
+      "similarity": 0.5029477
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "twelver_shia_islam",
+      "similarity": 0.38087754
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "sufism",
+      "similarity": 0.39316649
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "zoroastrianism",
+      "similarity": 0.36889081
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "bahai_faith",
+      "similarity": 0.59163503
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "philosophical_daoism",
+      "similarity": 0.32042752
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "religious_daoism",
+      "similarity": 0.56853524
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "classical_confucianism",
+      "similarity": 0.7000666
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "neo_confucianism",
+      "similarity": 0.60481474
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "shinto",
+      "similarity": 0.47532708
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "yoruba_ifa",
+      "similarity": 1.0
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "ubuntu",
+      "similarity": 0.53597948
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "maori_worldview",
+      "similarity": 0.54200052
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "andean_relationality",
+      "similarity": 0.39197153
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "neoplatonism",
+      "similarity": 0.18943381
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "stoicism",
+      "similarity": 0.60393501
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "secular_humanism",
+      "similarity": 0.59385569
+    },
+    {
+      "a": "yoruba_ifa",
+      "b": "scientific_naturalism",
+      "similarity": 0.2241411
+    },
+    {
+      "a": "ubuntu",
+      "b": "advaita_vedanta",
+      "similarity": 0.1113119
+    },
+    {
+      "a": "ubuntu",
+      "b": "visishtadvaita",
+      "similarity": 0.21379797
+    },
+    {
+      "a": "ubuntu",
+      "b": "dvaita_vedanta",
+      "similarity": 0.12002401
+    },
+    {
+      "a": "ubuntu",
+      "b": "samkhya_yoga",
+      "similarity": 0.09463728
+    },
+    {
+      "a": "ubuntu",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.21481916
+    },
+    {
+      "a": "ubuntu",
+      "b": "theravada_buddhism",
+      "similarity": 0.39399407
+    },
+    {
+      "a": "ubuntu",
+      "b": "madhyamaka",
+      "similarity": 0.52280408
+    },
+    {
+      "a": "ubuntu",
+      "b": "yogacara",
+      "similarity": 0.06462944
+    },
+    {
+      "a": "ubuntu",
+      "b": "huayan_buddhism",
+      "similarity": 0.60639156
+    },
+    {
+      "a": "ubuntu",
+      "b": "chan_zen",
+      "similarity": 0.08898625
+    },
+    {
+      "a": "ubuntu",
+      "b": "pure_land_buddhism",
+      "similarity": 0.17400235
+    },
+    {
+      "a": "ubuntu",
+      "b": "jainism",
+      "similarity": 0.36684787
+    },
+    {
+      "a": "ubuntu",
+      "b": "sikhism",
+      "similarity": 0.33107259
+    },
+    {
+      "a": "ubuntu",
+      "b": "rabbinic_judaism",
+      "similarity": 0.70341509
+    },
+    {
+      "a": "ubuntu",
+      "b": "kabbalah",
+      "similarity": 0.39707606
+    },
+    {
+      "a": "ubuntu",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.28827514
+    },
+    {
+      "a": "ubuntu",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.59011804
+    },
+    {
+      "a": "ubuntu",
+      "b": "protestant_christianity",
+      "similarity": 0.38235878
+    },
+    {
+      "a": "ubuntu",
+      "b": "sunni_islam",
+      "similarity": 0.32394372
+    },
+    {
+      "a": "ubuntu",
+      "b": "twelver_shia_islam",
+      "similarity": 0.33092581
+    },
+    {
+      "a": "ubuntu",
+      "b": "sufism",
+      "similarity": 0.15732679
+    },
+    {
+      "a": "ubuntu",
+      "b": "zoroastrianism",
+      "similarity": 0.30131
+    },
+    {
+      "a": "ubuntu",
+      "b": "bahai_faith",
+      "similarity": 0.75610507
+    },
+    {
+      "a": "ubuntu",
+      "b": "philosophical_daoism",
+      "similarity": 0.13920188
+    },
+    {
+      "a": "ubuntu",
+      "b": "religious_daoism",
+      "similarity": 0.17465452
+    },
+    {
+      "a": "ubuntu",
+      "b": "classical_confucianism",
+      "similarity": 0.62023881
+    },
+    {
+      "a": "ubuntu",
+      "b": "neo_confucianism",
+      "similarity": 0.22521165
+    },
+    {
+      "a": "ubuntu",
+      "b": "shinto",
+      "similarity": 0.54006172
+    },
+    {
+      "a": "ubuntu",
+      "b": "yoruba_ifa",
+      "similarity": 0.53597948
+    },
+    {
+      "a": "ubuntu",
+      "b": "ubuntu",
+      "similarity": 1.0
+    },
+    {
+      "a": "ubuntu",
+      "b": "maori_worldview",
+      "similarity": 0.59693789
+    },
+    {
+      "a": "ubuntu",
+      "b": "andean_relationality",
+      "similarity": 0.82851697
+    },
+    {
+      "a": "ubuntu",
+      "b": "neoplatonism",
+      "similarity": 0.10345641
+    },
+    {
+      "a": "ubuntu",
+      "b": "stoicism",
+      "similarity": 0.61781338
+    },
+    {
+      "a": "ubuntu",
+      "b": "secular_humanism",
+      "similarity": 0.64373659
+    },
+    {
+      "a": "ubuntu",
+      "b": "scientific_naturalism",
+      "similarity": 0.12718054
+    },
+    {
+      "a": "maori_worldview",
+      "b": "advaita_vedanta",
+      "similarity": 0.10477328
+    },
+    {
+      "a": "maori_worldview",
+      "b": "visishtadvaita",
+      "similarity": 0.17825433
+    },
+    {
+      "a": "maori_worldview",
+      "b": "dvaita_vedanta",
+      "similarity": 0.31803253
+    },
+    {
+      "a": "maori_worldview",
+      "b": "samkhya_yoga",
+      "similarity": 0.19918864
+    },
+    {
+      "a": "maori_worldview",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.33910689
+    },
+    {
+      "a": "maori_worldview",
+      "b": "theravada_buddhism",
+      "similarity": 0.25354628
+    },
+    {
+      "a": "maori_worldview",
+      "b": "madhyamaka",
+      "similarity": 0.29088724
+    },
+    {
+      "a": "maori_worldview",
+      "b": "yogacara",
+      "similarity": 0.26234239
+    },
+    {
+      "a": "maori_worldview",
+      "b": "huayan_buddhism",
+      "similarity": 0.32927306
+    },
+    {
+      "a": "maori_worldview",
+      "b": "chan_zen",
+      "similarity": 0.06880209
+    },
+    {
+      "a": "maori_worldview",
+      "b": "pure_land_buddhism",
+      "similarity": 0.19507511
+    },
+    {
+      "a": "maori_worldview",
+      "b": "jainism",
+      "similarity": 0.47380476
+    },
+    {
+      "a": "maori_worldview",
+      "b": "sikhism",
+      "similarity": 0.35836866
+    },
+    {
+      "a": "maori_worldview",
+      "b": "rabbinic_judaism",
+      "similarity": 0.70522144
+    },
+    {
+      "a": "maori_worldview",
+      "b": "kabbalah",
+      "similarity": 0.26514496
+    },
+    {
+      "a": "maori_worldview",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.20494328
+    },
+    {
+      "a": "maori_worldview",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.6428317
+    },
+    {
+      "a": "maori_worldview",
+      "b": "protestant_christianity",
+      "similarity": 0.34717181
+    },
+    {
+      "a": "maori_worldview",
+      "b": "sunni_islam",
+      "similarity": 0.38352566
+    },
+    {
+      "a": "maori_worldview",
+      "b": "twelver_shia_islam",
+      "similarity": 0.76759236
+    },
+    {
+      "a": "maori_worldview",
+      "b": "sufism",
+      "similarity": 0.31930869
+    },
+    {
+      "a": "maori_worldview",
+      "b": "zoroastrianism",
+      "similarity": 0.53359462
+    },
+    {
+      "a": "maori_worldview",
+      "b": "bahai_faith",
+      "similarity": 0.65504956
+    },
+    {
+      "a": "maori_worldview",
+      "b": "philosophical_daoism",
+      "similarity": 0.24888893
+    },
+    {
+      "a": "maori_worldview",
+      "b": "religious_daoism",
+      "similarity": 0.35089629
+    },
+    {
+      "a": "maori_worldview",
+      "b": "classical_confucianism",
+      "similarity": 0.58380511
+    },
+    {
+      "a": "maori_worldview",
+      "b": "neo_confucianism",
+      "similarity": 0.42973996
+    },
+    {
+      "a": "maori_worldview",
+      "b": "shinto",
+      "similarity": 0.50353202
+    },
+    {
+      "a": "maori_worldview",
+      "b": "yoruba_ifa",
+      "similarity": 0.54200052
+    },
+    {
+      "a": "maori_worldview",
+      "b": "ubuntu",
+      "similarity": 0.59693789
+    },
+    {
+      "a": "maori_worldview",
+      "b": "maori_worldview",
+      "similarity": 1.0
+    },
+    {
+      "a": "maori_worldview",
+      "b": "andean_relationality",
+      "similarity": 0.54599511
+    },
+    {
+      "a": "maori_worldview",
+      "b": "neoplatonism",
+      "similarity": 0.08907987
+    },
+    {
+      "a": "maori_worldview",
+      "b": "stoicism",
+      "similarity": 0.65537546
+    },
+    {
+      "a": "maori_worldview",
+      "b": "secular_humanism",
+      "similarity": 0.66489597
+    },
+    {
+      "a": "maori_worldview",
+      "b": "scientific_naturalism",
+      "similarity": 0.04839829
+    },
+    {
+      "a": "andean_relationality",
+      "b": "advaita_vedanta",
+      "similarity": 0.11207854
+    },
+    {
+      "a": "andean_relationality",
+      "b": "visishtadvaita",
+      "similarity": 0.30688749
+    },
+    {
+      "a": "andean_relationality",
+      "b": "dvaita_vedanta",
+      "similarity": 0.1839418
+    },
+    {
+      "a": "andean_relationality",
+      "b": "samkhya_yoga",
+      "similarity": 0.13966389
+    },
+    {
+      "a": "andean_relationality",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.22557621
+    },
+    {
+      "a": "andean_relationality",
+      "b": "theravada_buddhism",
+      "similarity": 0.50072244
+    },
+    {
+      "a": "andean_relationality",
+      "b": "madhyamaka",
+      "similarity": 0.54413009
+    },
+    {
+      "a": "andean_relationality",
+      "b": "yogacara",
+      "similarity": 0.0507935
+    },
+    {
+      "a": "andean_relationality",
+      "b": "huayan_buddhism",
+      "similarity": 0.73774995
+    },
+    {
+      "a": "andean_relationality",
+      "b": "chan_zen",
+      "similarity": 0.03463496
+    },
+    {
+      "a": "andean_relationality",
+      "b": "pure_land_buddhism",
+      "similarity": 0.11174569
+    },
+    {
+      "a": "andean_relationality",
+      "b": "jainism",
+      "similarity": 0.23283431
+    },
+    {
+      "a": "andean_relationality",
+      "b": "sikhism",
+      "similarity": 0.23677853
+    },
+    {
+      "a": "andean_relationality",
+      "b": "rabbinic_judaism",
+      "similarity": 0.49787749
+    },
+    {
+      "a": "andean_relationality",
+      "b": "kabbalah",
+      "similarity": 0.37407818
+    },
+    {
+      "a": "andean_relationality",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.37939346
+    },
+    {
+      "a": "andean_relationality",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.48540198
+    },
+    {
+      "a": "andean_relationality",
+      "b": "protestant_christianity",
+      "similarity": 0.19532693
+    },
+    {
+      "a": "andean_relationality",
+      "b": "sunni_islam",
+      "similarity": 0.23788578
+    },
+    {
+      "a": "andean_relationality",
+      "b": "twelver_shia_islam",
+      "similarity": 0.35742537
+    },
+    {
+      "a": "andean_relationality",
+      "b": "sufism",
+      "similarity": 0.09822995
+    },
+    {
+      "a": "andean_relationality",
+      "b": "zoroastrianism",
+      "similarity": 0.38480846
+    },
+    {
+      "a": "andean_relationality",
+      "b": "bahai_faith",
+      "similarity": 0.63356803
+    },
+    {
+      "a": "andean_relationality",
+      "b": "philosophical_daoism",
+      "similarity": 0.41142733
+    },
+    {
+      "a": "andean_relationality",
+      "b": "religious_daoism",
+      "similarity": 0.25955427
+    },
+    {
+      "a": "andean_relationality",
+      "b": "classical_confucianism",
+      "similarity": 0.47756693
+    },
+    {
+      "a": "andean_relationality",
+      "b": "neo_confucianism",
+      "similarity": 0.20059783
+    },
+    {
+      "a": "andean_relationality",
+      "b": "shinto",
+      "similarity": 0.69551861
+    },
+    {
+      "a": "andean_relationality",
+      "b": "yoruba_ifa",
+      "similarity": 0.39197153
+    },
+    {
+      "a": "andean_relationality",
+      "b": "ubuntu",
+      "similarity": 0.82851697
+    },
+    {
+      "a": "andean_relationality",
+      "b": "maori_worldview",
+      "similarity": 0.54599511
+    },
+    {
+      "a": "andean_relationality",
+      "b": "andean_relationality",
+      "similarity": 1.0
+    },
+    {
+      "a": "andean_relationality",
+      "b": "neoplatonism",
+      "similarity": 0.21140169
+    },
+    {
+      "a": "andean_relationality",
+      "b": "stoicism",
+      "similarity": 0.58071921
+    },
+    {
+      "a": "andean_relationality",
+      "b": "secular_humanism",
+      "similarity": 0.35144389
+    },
+    {
+      "a": "andean_relationality",
+      "b": "scientific_naturalism",
+      "similarity": 0.04060614
+    },
+    {
+      "a": "neoplatonism",
+      "b": "advaita_vedanta",
+      "similarity": 0.65450382
+    },
+    {
+      "a": "neoplatonism",
+      "b": "visishtadvaita",
+      "similarity": 0.84760769
+    },
+    {
+      "a": "neoplatonism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.58210576
+    },
+    {
+      "a": "neoplatonism",
+      "b": "samkhya_yoga",
+      "similarity": 0.49428871
+    },
+    {
+      "a": "neoplatonism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.36732026
+    },
+    {
+      "a": "neoplatonism",
+      "b": "theravada_buddhism",
+      "similarity": 0.39256391
+    },
+    {
+      "a": "neoplatonism",
+      "b": "madhyamaka",
+      "similarity": 0.27342415
+    },
+    {
+      "a": "neoplatonism",
+      "b": "yogacara",
+      "similarity": 0.31715648
+    },
+    {
+      "a": "neoplatonism",
+      "b": "huayan_buddhism",
+      "similarity": 0.54919471
+    },
+    {
+      "a": "neoplatonism",
+      "b": "chan_zen",
+      "similarity": 0.15650536
+    },
+    {
+      "a": "neoplatonism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.62874882
+    },
+    {
+      "a": "neoplatonism",
+      "b": "jainism",
+      "similarity": 0.17418541
+    },
+    {
+      "a": "neoplatonism",
+      "b": "sikhism",
+      "similarity": 0.69167436
+    },
+    {
+      "a": "neoplatonism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.08536656
+    },
+    {
+      "a": "neoplatonism",
+      "b": "kabbalah",
+      "similarity": 0.77339161
+    },
+    {
+      "a": "neoplatonism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.73277672
+    },
+    {
+      "a": "neoplatonism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.40859347
+    },
+    {
+      "a": "neoplatonism",
+      "b": "protestant_christianity",
+      "similarity": 0.27027781
+    },
+    {
+      "a": "neoplatonism",
+      "b": "sunni_islam",
+      "similarity": 0.47019647
+    },
+    {
+      "a": "neoplatonism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.1269859
+    },
+    {
+      "a": "neoplatonism",
+      "b": "sufism",
+      "similarity": 0.52335411
+    },
+    {
+      "a": "neoplatonism",
+      "b": "zoroastrianism",
+      "similarity": 0.2777182
+    },
+    {
+      "a": "neoplatonism",
+      "b": "bahai_faith",
+      "similarity": 0.1582896
+    },
+    {
+      "a": "neoplatonism",
+      "b": "philosophical_daoism",
+      "similarity": 0.36723382
+    },
+    {
+      "a": "neoplatonism",
+      "b": "religious_daoism",
+      "similarity": 0.44426166
+    },
+    {
+      "a": "neoplatonism",
+      "b": "classical_confucianism",
+      "similarity": 0.12072655
+    },
+    {
+      "a": "neoplatonism",
+      "b": "neo_confucianism",
+      "similarity": 0.27144836
+    },
+    {
+      "a": "neoplatonism",
+      "b": "shinto",
+      "similarity": 0.26412619
+    },
+    {
+      "a": "neoplatonism",
+      "b": "yoruba_ifa",
+      "similarity": 0.18943381
+    },
+    {
+      "a": "neoplatonism",
+      "b": "ubuntu",
+      "similarity": 0.10345641
+    },
+    {
+      "a": "neoplatonism",
+      "b": "maori_worldview",
+      "similarity": 0.08907987
+    },
+    {
+      "a": "neoplatonism",
+      "b": "andean_relationality",
+      "similarity": 0.21140169
+    },
+    {
+      "a": "neoplatonism",
+      "b": "neoplatonism",
+      "similarity": 1.0
+    },
+    {
+      "a": "neoplatonism",
+      "b": "stoicism",
+      "similarity": 0.25445841
+    },
+    {
+      "a": "neoplatonism",
+      "b": "secular_humanism",
+      "similarity": 0.02199929
+    },
+    {
+      "a": "neoplatonism",
+      "b": "scientific_naturalism",
+      "similarity": 0.24020174
+    },
+    {
+      "a": "stoicism",
+      "b": "advaita_vedanta",
+      "similarity": 0.17173758
+    },
+    {
+      "a": "stoicism",
+      "b": "visishtadvaita",
+      "similarity": 0.24795194
+    },
+    {
+      "a": "stoicism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.31766904
+    },
+    {
+      "a": "stoicism",
+      "b": "samkhya_yoga",
+      "similarity": 0.21027755
+    },
+    {
+      "a": "stoicism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.51241004
+    },
+    {
+      "a": "stoicism",
+      "b": "theravada_buddhism",
+      "similarity": 0.24303484
+    },
+    {
+      "a": "stoicism",
+      "b": "madhyamaka",
+      "similarity": 0.33335536
+    },
+    {
+      "a": "stoicism",
+      "b": "yogacara",
+      "similarity": 0.15204938
+    },
+    {
+      "a": "stoicism",
+      "b": "huayan_buddhism",
+      "similarity": 0.46458909
+    },
+    {
+      "a": "stoicism",
+      "b": "chan_zen",
+      "similarity": 0.15950629
+    },
+    {
+      "a": "stoicism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.26901045
+    },
+    {
+      "a": "stoicism",
+      "b": "jainism",
+      "similarity": 0.45768256
+    },
+    {
+      "a": "stoicism",
+      "b": "sikhism",
+      "similarity": 0.49978931
+    },
+    {
+      "a": "stoicism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.77260861
+    },
+    {
+      "a": "stoicism",
+      "b": "kabbalah",
+      "similarity": 0.41249258
+    },
+    {
+      "a": "stoicism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.27588029
+    },
+    {
+      "a": "stoicism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.52356565
+    },
+    {
+      "a": "stoicism",
+      "b": "protestant_christianity",
+      "similarity": 0.49120166
+    },
+    {
+      "a": "stoicism",
+      "b": "sunni_islam",
+      "similarity": 0.52395806
+    },
+    {
+      "a": "stoicism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.51717771
+    },
+    {
+      "a": "stoicism",
+      "b": "sufism",
+      "similarity": 0.23647338
+    },
+    {
+      "a": "stoicism",
+      "b": "zoroastrianism",
+      "similarity": 0.82875472
+    },
+    {
+      "a": "stoicism",
+      "b": "bahai_faith",
+      "similarity": 0.47350364
+    },
+    {
+      "a": "stoicism",
+      "b": "philosophical_daoism",
+      "similarity": 0.48538842
+    },
+    {
+      "a": "stoicism",
+      "b": "religious_daoism",
+      "similarity": 0.32996359
+    },
+    {
+      "a": "stoicism",
+      "b": "classical_confucianism",
+      "similarity": 0.85648374
+    },
+    {
+      "a": "stoicism",
+      "b": "neo_confucianism",
+      "similarity": 0.59097588
+    },
+    {
+      "a": "stoicism",
+      "b": "shinto",
+      "similarity": 0.56054437
+    },
+    {
+      "a": "stoicism",
+      "b": "yoruba_ifa",
+      "similarity": 0.60393501
+    },
+    {
+      "a": "stoicism",
+      "b": "ubuntu",
+      "similarity": 0.61781338
+    },
+    {
+      "a": "stoicism",
+      "b": "maori_worldview",
+      "similarity": 0.65537546
+    },
+    {
+      "a": "stoicism",
+      "b": "andean_relationality",
+      "similarity": 0.58071921
+    },
+    {
+      "a": "stoicism",
+      "b": "neoplatonism",
+      "similarity": 0.25445841
+    },
+    {
+      "a": "stoicism",
+      "b": "stoicism",
+      "similarity": 1.0
+    },
+    {
+      "a": "stoicism",
+      "b": "secular_humanism",
+      "similarity": 0.6531901
+    },
+    {
+      "a": "stoicism",
+      "b": "scientific_naturalism",
+      "similarity": 0.12155373
+    },
+    {
+      "a": "secular_humanism",
+      "b": "advaita_vedanta",
+      "similarity": 0.23772612
+    },
+    {
+      "a": "secular_humanism",
+      "b": "visishtadvaita",
+      "similarity": 0.06955465
+    },
+    {
+      "a": "secular_humanism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.24565184
+    },
+    {
+      "a": "secular_humanism",
+      "b": "samkhya_yoga",
+      "similarity": 0.1906186
+    },
+    {
+      "a": "secular_humanism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.41873149
+    },
+    {
+      "a": "secular_humanism",
+      "b": "theravada_buddhism",
+      "similarity": 0.18544009
+    },
+    {
+      "a": "secular_humanism",
+      "b": "madhyamaka",
+      "similarity": 0.32000522
+    },
+    {
+      "a": "secular_humanism",
+      "b": "yogacara",
+      "similarity": 0.23257386
+    },
+    {
+      "a": "secular_humanism",
+      "b": "huayan_buddhism",
+      "similarity": 0.17263352
+    },
+    {
+      "a": "secular_humanism",
+      "b": "chan_zen",
+      "similarity": 0.27752715
+    },
+    {
+      "a": "secular_humanism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.15698736
+    },
+    {
+      "a": "secular_humanism",
+      "b": "jainism",
+      "similarity": 0.62406116
+    },
+    {
+      "a": "secular_humanism",
+      "b": "sikhism",
+      "similarity": 0.40656162
+    },
+    {
+      "a": "secular_humanism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.76319966
+    },
+    {
+      "a": "secular_humanism",
+      "b": "kabbalah",
+      "similarity": 0.31361742
+    },
+    {
+      "a": "secular_humanism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.1371451
+    },
+    {
+      "a": "secular_humanism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.5146991
+    },
+    {
+      "a": "secular_humanism",
+      "b": "protestant_christianity",
+      "similarity": 0.6178181
+    },
+    {
+      "a": "secular_humanism",
+      "b": "sunni_islam",
+      "similarity": 0.36702457
+    },
+    {
+      "a": "secular_humanism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.34279789
+    },
+    {
+      "a": "secular_humanism",
+      "b": "sufism",
+      "similarity": 0.21977713
+    },
+    {
+      "a": "secular_humanism",
+      "b": "zoroastrianism",
+      "similarity": 0.40939787
+    },
+    {
+      "a": "secular_humanism",
+      "b": "bahai_faith",
+      "similarity": 0.68707629
+    },
+    {
+      "a": "secular_humanism",
+      "b": "philosophical_daoism",
+      "similarity": 0.15698736
+    },
+    {
+      "a": "secular_humanism",
+      "b": "religious_daoism",
+      "similarity": 0.10522736
+    },
+    {
+      "a": "secular_humanism",
+      "b": "classical_confucianism",
+      "similarity": 0.65180156
+    },
+    {
+      "a": "secular_humanism",
+      "b": "neo_confucianism",
+      "similarity": 0.3917131
+    },
+    {
+      "a": "secular_humanism",
+      "b": "shinto",
+      "similarity": 0.19638667
+    },
+    {
+      "a": "secular_humanism",
+      "b": "yoruba_ifa",
+      "similarity": 0.59385569
+    },
+    {
+      "a": "secular_humanism",
+      "b": "ubuntu",
+      "similarity": 0.64373659
+    },
+    {
+      "a": "secular_humanism",
+      "b": "maori_worldview",
+      "similarity": 0.66489597
+    },
+    {
+      "a": "secular_humanism",
+      "b": "andean_relationality",
+      "similarity": 0.35144389
+    },
+    {
+      "a": "secular_humanism",
+      "b": "neoplatonism",
+      "similarity": 0.02199929
+    },
+    {
+      "a": "secular_humanism",
+      "b": "stoicism",
+      "similarity": 0.6531901
+    },
+    {
+      "a": "secular_humanism",
+      "b": "secular_humanism",
+      "similarity": 1.0
+    },
+    {
+      "a": "secular_humanism",
+      "b": "scientific_naturalism",
+      "similarity": 0.353263
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "advaita_vedanta",
+      "similarity": 0.4593108
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "visishtadvaita",
+      "similarity": 0.10254049
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "dvaita_vedanta",
+      "similarity": 0.15137513
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "samkhya_yoga",
+      "similarity": 0.45256272
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "gita_integrative_yoga",
+      "similarity": 0.27657585
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "theravada_buddhism",
+      "similarity": 0.40449531
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "madhyamaka",
+      "similarity": 0.46679288
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "yogacara",
+      "similarity": 0.64425128
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "huayan_buddhism",
+      "similarity": 0.1924542
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "chan_zen",
+      "similarity": 0.70143802
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "pure_land_buddhism",
+      "similarity": 0.19280513
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "jainism",
+      "similarity": 0.43112537
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "sikhism",
+      "similarity": 0.34969904
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "rabbinic_judaism",
+      "similarity": 0.14830404
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "kabbalah",
+      "similarity": 0.29267248
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "eastern_orthodox_christianity",
+      "similarity": 0.12940793
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "roman_catholic_christianity",
+      "similarity": 0.01419142
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "protestant_christianity",
+      "similarity": 0.49016507
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "sunni_islam",
+      "similarity": 0.1723613
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "twelver_shia_islam",
+      "similarity": 0.01341533
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "sufism",
+      "similarity": 0.14468246
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "zoroastrianism",
+      "similarity": 0.05448735
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "bahai_faith",
+      "similarity": 0.41162808
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "philosophical_daoism",
+      "similarity": 0.26804615
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "religious_daoism",
+      "similarity": 0.20525673
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "classical_confucianism",
+      "similarity": 0.17005426
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "neo_confucianism",
+      "similarity": 0.48614286
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "shinto",
+      "similarity": 0.09014951
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "yoruba_ifa",
+      "similarity": 0.2241411
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "ubuntu",
+      "similarity": 0.12718054
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "maori_worldview",
+      "similarity": 0.04839829
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "andean_relationality",
+      "similarity": 0.04060614
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "neoplatonism",
+      "similarity": 0.24020174
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "stoicism",
+      "similarity": 0.12155373
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "secular_humanism",
+      "similarity": 0.353263
+    },
+    {
+      "a": "scientific_naturalism",
+      "b": "scientific_naturalism",
+      "similarity": 1.0
+    }
+  ]
+}

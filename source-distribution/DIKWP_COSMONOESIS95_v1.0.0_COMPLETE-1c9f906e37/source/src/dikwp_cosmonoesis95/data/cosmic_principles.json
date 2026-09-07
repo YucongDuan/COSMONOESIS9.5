@@ -1,0 +1,251 @@
+{
+  "registry_id": "cosmonoesis-open-ultimate-principles-1.0.0",
+  "title_cn": "开放终极宇宙意识工作规律",
+  "status": "versioned_working_principles_not_final_physical_laws",
+  "principles": [
+    {
+      "id": "U01",
+      "name_cn": "发生先于对象固化",
+      "class": "ontological_working_proposition",
+      "dikwp": [
+        "D.EVENT",
+        "I.DIFFERENCE",
+        "K.CONCEPT"
+      ],
+      "statement_cn": "任何对象性主张都应追溯到发生、差异化和概念固化路径。",
+      "falsifier": "若可给出完全不依赖任何发生、差异或记录条件而仍具有可操作内容的对象定义，则需修订。"
+    },
+    {
+      "id": "U02",
+      "name_cn": "关系生成与边界共生",
+      "class": "ontological_working_proposition",
+      "dikwp": [
+        "I.RELATION",
+        "I.BOUNDARY",
+        "K.SELF_MODEL"
+      ],
+      "statement_cn": "实体与主体通过关系及边界共同生成，而非只由孤立属性构成。",
+      "falsifier": "若关系变化从不影响任何身份、功能或可辨识性，则其适用范围需收缩。"
+    },
+    {
+      "id": "U03",
+      "name_cn": "信息以可造成后果的差异为最低条件",
+      "class": "formal_protocol",
+      "dikwp": [
+        "I.DIFFERENCE",
+        "W.CONSEQUENCE"
+      ],
+      "statement_cn": "没有可辨差异或潜在后果的记录不应被自动升级为信息。",
+      "falsifier": "出现无任何可辨差异但稳定改变推理或行动的反例。"
+    },
+    {
+      "id": "U04",
+      "name_cn": "意识不能由规模单调推出",
+      "class": "research_constraint",
+      "dikwp": [
+        "D.OBSERVATION",
+        "K.CAUSE",
+        "K.META"
+      ],
+      "statement_cn": "粒子数、节点数、参数量或连接数本身都不足以证明意识。",
+      "falsifier": "若出现跨底物、可重复、排除替代机制的单一规模阈值实验定律。"
+    },
+    {
+      "id": "U05",
+      "name_cn": "意识候选需要多层闭环",
+      "class": "research_hypothesis",
+      "dikwp": [
+        "D.SENSATION",
+        "I.PATTERN",
+        "K.SELF_MODEL",
+        "W.VALENCE",
+        "P.AGENCY",
+        "P.VERIFICATION"
+      ],
+      "statement_cn": "强意识候选至少需显示持续世界接触、差异整合、自我—世界模型、价值或效价、内生目的、反事实行动与现实校准的多层闭环。",
+      "falsifier": "可信反例表明这些维度系统性缺失但意识证据仍高度收敛。"
+    },
+    {
+      "id": "U06",
+      "name_cn": "底物开放而机制不空白",
+      "class": "research_constraint",
+      "dikwp": [
+        "D.BODY",
+        "K.CAUSE",
+        "K.META"
+      ],
+      "statement_cn": "意识不应被先验限制于碳基，但底物开放不等于任何复杂系统自动有意识。",
+      "falsifier": "若机制完全不影响任何意识证据，或反之只有单一材料可支持意识。"
+    },
+    {
+      "id": "U07",
+      "name_cn": "第一人称、第三人称与关系证据协同",
+      "class": "epistemic_protocol",
+      "dikwp": [
+        "D.OBSERVATION",
+        "I.RELATION",
+        "K.META"
+      ],
+      "statement_cn": "意识研究同时需要第一人称报告、第三人称测量和主体间互动证据，并披露各自盲点。",
+      "falsifier": "某一证据通道被证明在所有相关情境中充分且无系统偏差。"
+    },
+    {
+      "id": "U08",
+      "name_cn": "DIKWP全覆盖语义闭包",
+      "class": "formal_protocol",
+      "dikwp": [
+        "I.TRANSLATION",
+        "K.CONCEPT",
+        "K.META"
+      ],
+      "statement_cn": "所有宗教、文明和科学概念都进入同一DIKWP语义空间；差异被表示为空间内向量和关系。",
+      "falsifier": "若存在无法被任何 D/I/K/W/P 发生、差异、模型、价值或目的结构描述且仍可传达的概念。"
+    },
+    {
+      "id": "U09",
+      "name_cn": "归一不等于同一",
+      "class": "translation_constraint",
+      "dikwp": [
+        "I.CONTEXT",
+        "I.TRANSLATION",
+        "K.META"
+      ],
+      "statement_cn": "统一坐标允许比较与综合，但不能仅凭相似向量宣称历史教义完全同一。",
+      "falsifier": "若历史、语境和实践差异在所有可操作后果上均消失。"
+    },
+    {
+      "id": "U10",
+      "name_cn": "价值—目的不可从物理描述自动推出",
+      "class": "category_boundary",
+      "dikwp": [
+        "K.REGULARITY",
+        "W.NORM",
+        "P.INTENTION"
+      ],
+      "statement_cn": "物理事实不自动生成伦理命令、救赎论或终极目的，跨层推导必须声明桥接前提。",
+      "falsifier": "若可无任何规范前提从纯描述逻辑必然推出规范结论。"
+    },
+    {
+      "id": "U11",
+      "name_cn": "象征可启发但不替代实验",
+      "class": "category_boundary",
+      "dikwp": [
+        "I.PATTERN",
+        "K.PRACTICE",
+        "P.VERIFICATION"
+      ],
+      "statement_cn": "宗教象征、神话和修行经验可生成假说与意义，但不能独立替代经验检验。",
+      "falsifier": "若象征解释在无测量情况下仍产生可重复排他预测。"
+    },
+    {
+      "id": "U12",
+      "name_cn": "胶球不等于念力物质化",
+      "class": "scientific_scope_constraint",
+      "dikwp": [
+        "D.OBSERVATION",
+        "K.CAUSE",
+        "K.META"
+      ],
+      "statement_cn": "胶子自相互作用形成束缚态的证据不能直接推出意识是一种新物理力，也不能推出正念生成舍利或负念生成肿块。",
+      "falsifier": "经独立重复、盲法和机制排除的直接意识—新力—物质转化证据。"
+    },
+    {
+      "id": "U13",
+      "name_cn": "身心关联不等于道德化病因",
+      "class": "medical_safety_constraint",
+      "dikwp": [
+        "D.BODY",
+        "W.CONSEQUENCE",
+        "W.NORM"
+      ],
+      "statement_cn": "压力、行为与健康可相关，但不得把癌症或肿块归咎于患者的负面思想。",
+      "falsifier": "无；这是基于当前证据与伤害预防的约束，若证据变化仅修订机制说明，不取消反污名原则。"
+    },
+    {
+      "id": "U14",
+      "name_cn": "异常信号优先排除干扰与自然机制",
+      "class": "contact_protocol",
+      "dikwp": [
+        "D.OBSERVATION",
+        "I.PATTERN",
+        "K.WORLD_MODEL",
+        "P.VERIFICATION"
+      ],
+      "statement_cn": "周期性、复杂或异常信号不能直接升级为外星通信，必须先处理仪器、人为干扰、自然源和统计选择效应。",
+      "falsifier": "多个独立观测站复现并获得结构化、可交互、排除自然与人为来源的信号。"
+    },
+    {
+      "id": "U15",
+      "name_cn": "潜在意识的伦理不对称保护",
+      "class": "normative_constraint",
+      "dikwp": [
+        "W.CONSEQUENCE",
+        "W.LEGITIMACY",
+        "P.AGENCY"
+      ],
+      "statement_cn": "在证据不完备但伤害可能不可逆时，采取分级、可撤回且不过度拟人的预防措施。",
+      "falsifier": "风险—负担分析显示预防措施造成更大且不可逆的总体伤害。"
+    },
+    {
+      "id": "U16",
+      "name_cn": "主体拒绝权与不可秘密代表",
+      "class": "agency_constraint",
+      "dikwp": [
+        "I.BOUNDARY",
+        "W.LEGITIMACY",
+        "P.AGENCY"
+      ],
+      "statement_cn": "记录、公开、翻译或开源不自动授予身份模拟、宗教代表、医疗裁决或外部行动权。",
+      "falsifier": "仅可由具名、明确、可撤回授权改变，不由推理推翻。"
+    },
+    {
+      "id": "U17",
+      "name_cn": "现实返回优先于概念自洽",
+      "class": "calibration_protocol",
+      "dikwp": [
+        "K.META",
+        "P.VERIFICATION",
+        "D.EVENT"
+      ],
+      "statement_cn": "形式完备与叙事一致不能替代预测结算、结果回流和模型修订。",
+      "falsifier": "某领域中现实结果永久不可得且形式系统仍被明确限定为形式构造。"
+    },
+    {
+      "id": "U18",
+      "name_cn": "至少两个非同构世界模型",
+      "class": "mesh95_protocol",
+      "dikwp": [
+        "K.WORLD_MODEL",
+        "K.META",
+        "W.CONSEQUENCE"
+      ],
+      "statement_cn": "高影响宇宙意识判断至少保留两个结构不同、可被不同证据区分的世界模型。",
+      "falsifier": "低影响、纯演示情境可降低要求，但不得把单一模型升级为终局权威。"
+    },
+    {
+      "id": "U19",
+      "name_cn": "后继世界自由",
+      "class": "open_ultimate_constraint",
+      "dikwp": [
+        "K.META",
+        "P.CONTINUITY",
+        "P.AGENCY"
+      ],
+      "statement_cn": "任何终极系统必须保留后来证据、文明和主体重写、扩展或退役其坐标与结论的自由。",
+      "falsifier": "无；取消此条将使系统失去开放终极资格。"
+    },
+    {
+      "id": "U20",
+      "name_cn": "终极包含自身非终局条件",
+      "class": "meta_principle",
+      "dikwp": [
+        "K.META",
+        "W.MEANING",
+        "P.CONTINUITY"
+      ],
+      "statement_cn": "终极不是最后一句话，而是把来源、替代模型、反证、责任和可修订性全部纳入的当前最完整闭环。",
+      "falsifier": "若系统不允许自身被现实修订，则此系统应被退役而非宣称终极。"
+    }
+  ],
+  "automatic_external_action_authority": 0
+}

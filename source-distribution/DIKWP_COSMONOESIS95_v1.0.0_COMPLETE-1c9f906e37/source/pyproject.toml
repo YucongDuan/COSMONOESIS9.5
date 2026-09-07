@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dikwp-cosmonoesis95"
+version = "1.0.0"
+description = "DIKWP-normalized universal consciousness, cross-religious/civilizational mapping, claim audit and reality-contact system"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [
+  {name = "Yucong Duan"},
+  {name = "DIKWP-COSMONOESIS95 Contributors"}
+]
+keywords = ["DIKWP", "Mesh95", "consciousness", "religion", "civilization", "semantic normalization", "SETI", "epistemic audit"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent",
+]
+
+[project.scripts]
+cosmonoesis95 = "dikwp_cosmonoesis95.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"dikwp_cosmonoesis95.data" = ["*.json"]

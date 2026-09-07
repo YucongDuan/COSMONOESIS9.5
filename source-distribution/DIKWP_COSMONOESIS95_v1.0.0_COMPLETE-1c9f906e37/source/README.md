@@ -65,23 +65,3 @@ Automatic external-action authority is always **0**.
 ## License
 
 Apache-2.0 for the code. No rights to third-party texts, traditions, identities, trademarks, representation, endorsement or private data are granted.
-
-
-<!-- DIKWP-SOURCE-VISIBILITY-START -->
-## Browse source / 浏览源码
-
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
-
-原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
-<!-- DIKWP-SOURCE-VISIBILITY-END -->
-
-
-## Related research navigation / 相关研究导航
-
-Research navigation, not verified software dependencies. / 研究导航，不代表已验证的软件依赖关系。
-
-- [DIKWP-OmegaIntent-Studio-OS](https://github.com/YucongDuan/DIKWP-OmegaIntent-Studio-OS)
-- [DIKWP-SemanticClosure-OS](https://github.com/YucongDuan/DIKWP-SemanticClosure-OS)
-- [APEIRON-9.5](https://github.com/YucongDuan/APEIRON-9.5)
-- [Intent-balancing-high-dimensional-rule-active-defense-platform.](https://github.com/YucongDuan/Intent-balancing-high-dimensional-rule-active-defense-platform.)
-- [DIKWP-MESH-5.8--FIDELIS](https://github.com/YucongDuan/DIKWP-MESH-5.8--FIDELIS)

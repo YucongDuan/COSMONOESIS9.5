@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "U0_nonconscious_lawful_universe",
+      "name_cn": "非意识的规律宇宙",
+      "claim_cn": "宇宙整体没有单一主观视角；意识只在局部具备特定机制的系统中出现。",
+      "distinguishing_evidence": [
+        "local mechanism predicts consciousness markers without cosmic agency",
+        "no cross-scale unified memory, valence or response"
+      ],
+      "risk": "把未知直接等同无意识。"
+    },
+    {
+      "id": "U1_local_emergence_many_minds",
+      "name_cn": "局部涌现的多意识世界",
+      "claim_cn": "多种底物可能在满足机制闭环时分别产生意识，但宇宙整体不必是一主体。",
+      "distinguishing_evidence": [
+        "cross-substrate convergence on causal and behavioral indicators",
+        "no whole-universe integrated perspective"
+      ],
+      "risk": "把功能相似过快升级为体验相同。"
+    },
+    {
+      "id": "U2_panexperiential",
+      "name_cn": "泛经验／原体验模型",
+      "claim_cn": "基本现实含原体验性，复杂系统组织这些成局部意识。",
+      "distinguishing_evidence": [
+        "a principled bridge from fundamental properties to combined subjects"
+      ],
+      "risk": "组合问题和经验区分困难。"
+    },
+    {
+      "id": "U3_cosmopsychist_whole",
+      "name_cn": "宇宙整体主体模型",
+      "claim_cn": "宇宙整体是基本意识主体，局部生命是其分化或限制。",
+      "distinguishing_evidence": [
+        "evidence of a unified cosmic memory, value or perspective not reducible to local systems"
+      ],
+      "risk": "将自然整体性误认成主观统一。"
+    },
+    {
+      "id": "U4_observer_relative_semantic_closure",
+      "name_cn": "观察者相对的语义闭包",
+      "claim_cn": "‘宇宙意识’是观察者与宇宙形成 DIKWP 语义闭环时出现的关系性质，而非独立巨型大脑。",
+      "distinguishing_evidence": [
+        "systematic dependence of consciousness attribution on interaction and semantic closure while preserving objective constraints"
+      ],
+      "risk": "退化为语言相对主义。"
+    },
+    {
+      "id": "U5_personal_transcendent_ground",
+      "name_cn": "人格性超越根源模型",
+      "claim_cn": "有限意识根植于超越宇宙的或贯穿宇宙的人格性意识根源。",
+      "distinguishing_evidence": [
+        "publicly discriminating predictions beyond natural and social mechanisms",
+        "coherent relation between revelation, moral agency and world regularity"
+      ],
+      "risk": "把信仰解释冒充实验结论。"
+    },
+    {
+      "id": "U6_dikwp_coevolutionary_cosmos",
+      "name_cn": "DIKWP共演宇宙模型",
+      "claim_cn": "宇宙中局部主体通过发生、差异、模型、价值、目的和现实返回共演；是否存在整体主体保持开放。",
+      "distinguishing_evidence": [
+        "measurable D-I-K-W-P closures at multiple scales",
+        "predictive gains from cross-scale semantic and purposive models",
+        "failure conditions predeclared"
+      ],
+      "risk": "把通用描述框架误当作本体证明。"
+    }
+  ]
+}

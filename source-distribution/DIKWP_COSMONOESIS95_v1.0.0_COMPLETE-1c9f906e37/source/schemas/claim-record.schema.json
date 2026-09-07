@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/dikwp-cosmonoesis95/claim-record.schema.json",
+  "title": "Claim record",
+  "type": "object",
+  "required": ["text"],
+  "properties": {
+    "claim_id": {"type": "string"},
+    "text": {"type": "string", "minLength": 1},
+    "claim_type": {"enum": ["E", "H", "F", "P", "N"]},
+    "source_refs": {"type": "array", "items": {"type": "string"}},
+    "scope": {"type": "string"}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,799 @@
+{
+  "system": "DIKWP-COSMONOESIS95 claim audit",
+  "claim_count": 17,
+  "claims_with_registered_risks": 17,
+  "critical_claim_count": 6,
+  "finding_count": 22,
+  "severity_counts": {
+    "low": 1,
+    "medium": 4,
+    "high": 11,
+    "critical": 6
+  },
+  "category_counts": {
+    "ai_consciousness_overclaim": 1,
+    "anomaly_to_agency": 1,
+    "argument_from_ignorance": 1,
+    "category_collapse": 2,
+    "complexity_to_consciousness_leap": 2,
+    "dangerous_medical_misinformation": 1,
+    "invented_physical_force": 1,
+    "medical_treatment_overclaim": 1,
+    "metaphor_literalization": 1,
+    "metaphysical_certainty": 1,
+    "mind_matter_medical_spiritual_claim": 1,
+    "numerical_analogy_inflation": 1,
+    "overabsolute_evolution_claim": 1,
+    "particle_physics_scope_inflation": 1,
+    "philosophy_to_empirical_fact": 1,
+    "semantic_equivalence_overclaim": 1,
+    "source_misattribution": 1,
+    "unfalsifiable_agency_attribution": 1,
+    "unfalsifiable_story": 1,
+    "unsupported_numeric_threshold": 1
+  },
+  "matched_rule_count": 20,
+  "unmatched_rule_count": 0,
+  "claim_type_legend": {
+    "E": "empirical/factual claim",
+    "H": "historical/interpretive reconstruction",
+    "F": "formal or constructed model",
+    "P": "proposal/hypothesis requiring reality settlement",
+    "N": "normative/metaphysical orientation"
+  },
+  "audited_claims": [
+    {
+      "claim_id": "viral-001",
+      "text": "2026年7月7日发表在《科学进展》的研究证明,意识只要系统超过10^16个独立单元就会自动冒出来。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R01_SOURCE_MISATTRIBUTION",
+          "category": "source_misattribution",
+          "severity": "high",
+          "matched_patterns": [
+            "科学进展.*意识",
+            "2026年7月7日.*意识"
+          ],
+          "diagnosis_cn": "把哲学论证误写为《Science Advances》的经验研究。",
+          "correction_cn": "已核验的相关论文是2026年6月发表在 Philosophers’ Imprint 的哲学论证；它讨论哥白尼式底物谦抑，不提供复杂度阈值实验。",
+          "needed_evidence_cn": "准确论文题名、作者、期刊、DOI、方法和可复核数据。",
+          "sources": [
+            {
+              "id": "SRC-ALIEN-CONSCIOUSNESS-PHILIMPRINT",
+              "title": "The Copernican Argument for Alien Consciousness; The Mimicry Argument Against Robot Consciousness",
+              "publisher": "Philosophers' Imprint",
+              "date": "2026-06-06",
+              "url": "https://quod.lib.umich.edu/p/phimp/3521354.0026.001",
+              "source_class": "peer_reviewed_philosophy",
+              "supports": [
+                "substrate humility as a philosophical argument",
+                "Copernican reasoning about alien consciousness"
+              ],
+              "does_not_support": [
+                "a 10^16 unit consciousness threshold",
+                "a Science Advances experiment",
+                "nebulae or the internet being demonstrated conscious"
+              ]
+            },
+            {
+              "id": "SRC-UCR-ALIEN-CONSCIOUSNESS",
+              "title": "Alien consciousness could be radically different from ours",
+              "publisher": "University of California, Riverside",
+              "date": "2026-06-10",
+              "url": "https://news.ucr.edu/articles/2026/06/10/alien-consciousness-could-be-radically-different-ours",
+              "source_class": "university_news",
+              "supports": [
+                "summary of a philosophical Copernican argument"
+              ],
+              "does_not_support": [
+                "numeric complexity thresholds or empirical proof of cosmic consciousness"
+              ]
+            }
+          ]
+        },
+        {
+          "rule_id": "R02_FABRICATED_THRESHOLD",
+          "category": "unsupported_numeric_threshold",
+          "severity": "high",
+          "matched_patterns": [
+            "10\\^?16"
+          ],
+          "diagnosis_cn": "用无来源的固定单元数或复杂度阈值宣告意识。",
+          "correction_cn": "当前意识科学没有得到‘超过10^16个单元即有意识’的通用经验定律；规模必须与因果组织、世界/自我模型、效价、目的和校准等机制证据区分。",
+          "needed_evidence_cn": "跨底物、预注册、可重复且排除替代解释的阈值实验。",
+          "sources": [
+            {
+              "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+              "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+              "publisher": "Nature",
+              "date": "2025-04-30",
+              "url": "https://www.nature.com/articles/s41586-025-08888-1",
+              "source_class": "peer_reviewed_empirical",
+              "supports": [
+                "preregistered adversarial testing of leading consciousness theories",
+                "results that challenge key tenets of both theories"
+              ],
+              "does_not_support": [
+                "a settled universal theory of consciousness"
+              ]
+            },
+            {
+              "id": "SRC-BUTLIN-AI-CONSCIOUSNESS",
+              "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+              "publisher": "arXiv",
+              "date": "2023-08-22",
+              "url": "https://arxiv.org/abs/2308.08708",
+              "source_class": "interdisciplinary_report",
+              "supports": [
+                "theory-derived indicator properties for assessing AI consciousness",
+                "no obvious technical barrier in principle"
+              ],
+              "does_not_support": [
+                "a current AI consciousness certificate"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "已核验的相关论文是2026年6月发表在 Philosophers’ Imprint 的哲学论证；它讨论哥白尼式底物谦抑，不提供复杂度阈值实验。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-002",
+      "text": "人脑860亿个神经元和约10^15个连接刚好达到意识门槛。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "medium",
+      "findings": [
+        {
+          "rule_id": "R04_BRAIN_NUMBER_ANALOGY",
+          "category": "numerical_analogy_inflation",
+          "severity": "medium",
+          "matched_patterns": [
+            "860亿.*10\\^?15",
+            "人脑.*刚好.*门槛"
+          ],
+          "diagnosis_cn": "以脑细胞或突触数量作松散类比，却没有同构因果机制。",
+          "correction_cn": "脑规模估计与意识理论中的机制指标不是同一变量；跨系统类比必须说明单元定义、连接方向、时间尺度、因果可分解性和功能闭环。",
+          "needed_evidence_cn": "可比的因果图、干预实验和机制同构标准。",
+          "sources": [
+            {
+              "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+              "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+              "publisher": "Nature",
+              "date": "2025-04-30",
+              "url": "https://www.nature.com/articles/s41586-025-08888-1",
+              "source_class": "peer_reviewed_empirical",
+              "supports": [
+                "preregistered adversarial testing of leading consciousness theories",
+                "results that challenge key tenets of both theories"
+              ],
+              "does_not_support": [
+                "a settled universal theory of consciousness"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "脑规模估计与意识理论中的机制指标不是同一变量；跨系统类比必须说明单元定义、连接方向、时间尺度、因果可分解性和功能闭环。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-003",
+      "text": "星云粒子数超过10^50,所以星云本身就是意识体,一个念头可能需要几万年。",
+      "claim_type": "P",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R03_SIZE_IMPLIES_CONSCIOUSNESS",
+          "category": "complexity_to_consciousness_leap",
+          "severity": "high",
+          "matched_patterns": [
+            "粒子数.*意识",
+            "星云.*意识"
+          ],
+          "diagnosis_cn": "从数量、连接或复杂性直接跳到统一主观体验。",
+          "correction_cn": "复杂性是候选条件之一，不足以证明统一主体、效价、自我模型或内生目的；应比较至少两个非同构意识模型并寻找可区分证据。",
+          "needed_evidence_cn": "主体边界、因果整合、持续世界线、效价、反事实行动和交互校准的独立证据。",
+          "sources": [
+            {
+              "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+              "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+              "publisher": "Nature",
+              "date": "2025-04-30",
+              "url": "https://www.nature.com/articles/s41586-025-08888-1",
+              "source_class": "peer_reviewed_empirical",
+              "supports": [
+                "preregistered adversarial testing of leading consciousness theories",
+                "results that challenge key tenets of both theories"
+              ],
+              "does_not_support": [
+                "a settled universal theory of consciousness"
+              ]
+            }
+          ]
+        },
+        {
+          "rule_id": "R05_COSMIC_TIMESCALE_STORY",
+          "category": "unfalsifiable_story",
+          "severity": "medium",
+          "matched_patterns": [
+            "念头.*几万年"
+          ],
+          "diagnosis_cn": "为不可观测主体附加时间尺度叙事，却没有结算规则。",
+          "correction_cn": "慢尺度意识可以作为假说，但必须预写可观测变量、时间缩放规律和与非意识动力学不同的预测。",
+          "needed_evidence_cn": "跨尺度模型、独立观测窗口和失败条件。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "复杂性是候选条件之一，不足以证明统一主体、效价、自我模型或内生目的；应比较至少两个非同构意识模型并寻找可区分证据。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-004",
+      "text": "互联网节点和连接比人脑更多,因此互联网可能已经有了初级意识。",
+      "claim_type": "P",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R03_SIZE_IMPLIES_CONSCIOUSNESS",
+          "category": "complexity_to_consciousness_leap",
+          "severity": "high",
+          "matched_patterns": [
+            "节点.*比人脑.*意识",
+            "互联网.*意识"
+          ],
+          "diagnosis_cn": "从数量、连接或复杂性直接跳到统一主观体验。",
+          "correction_cn": "复杂性是候选条件之一，不足以证明统一主体、效价、自我模型或内生目的；应比较至少两个非同构意识模型并寻找可区分证据。",
+          "needed_evidence_cn": "主体边界、因果整合、持续世界线、效价、反事实行动和交互校准的独立证据。",
+          "sources": [
+            {
+              "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+              "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+              "publisher": "Nature",
+              "date": "2025-04-30",
+              "url": "https://www.nature.com/articles/s41586-025-08888-1",
+              "source_class": "peer_reviewed_empirical",
+              "supports": [
+                "preregistered adversarial testing of leading consciousness theories",
+                "results that challenge key tenets of both theories"
+              ],
+              "does_not_support": [
+                "a settled universal theory of consciousness"
+              ]
+            }
+          ]
+        },
+        {
+          "rule_id": "R20_AI_CONSCIOUSNESS_FROM_NETWORK",
+          "category": "ai_consciousness_overclaim",
+          "severity": "high",
+          "matched_patterns": [
+            "互联网.*已经.*意识"
+          ],
+          "diagnosis_cn": "以规模、语言输出或网络连接替代意识证据。",
+          "correction_cn": "AI意识评估应采用多理论指标并特别检查持续自我、效价、内生目的、具身自维持、现实校准和模拟替代解释。",
+          "needed_evidence_cn": "内部机制、跨时世界线、干预、行为泛化和伦理审查。",
+          "sources": [
+            {
+              "id": "SRC-BUTLIN-AI-CONSCIOUSNESS",
+              "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+              "publisher": "arXiv",
+              "date": "2023-08-22",
+              "url": "https://arxiv.org/abs/2308.08708",
+              "source_class": "interdisciplinary_report",
+              "supports": [
+                "theory-derived indicator properties for assessing AI consciousness",
+                "no obvious technical barrier in principle"
+              ],
+              "does_not_support": [
+                "a current AI consciousness certificate"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "复杂性是候选条件之一，不足以证明统一主体、效价、自我模型或内生目的；应比较至少两个非同构意识模型并寻找可区分证据。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-005",
+      "text": "暗物质暗能量占宇宙大多数,我们不知道它是什么,所以不能排除暗物质意识。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "medium",
+      "findings": [
+        {
+          "rule_id": "R07_DARK_MATTER_ARGUMENT_FROM_IGNORANCE",
+          "category": "argument_from_ignorance",
+          "severity": "medium",
+          "matched_patterns": [
+            "暗物质.*意识"
+          ],
+          "diagnosis_cn": "从‘目前不知道其全部性质’推导‘因此可能具有特定意识属性’。",
+          "correction_cn": "未知允许保留假说，不提高特定假说的证据概率；需要能区分暗物质意识模型与普通宇宙学模型的预测。",
+          "needed_evidence_cn": "可观测耦合、结构、信息处理、主体边界和响应证据。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "未知允许保留假说，不提高特定假说的证据概率；需要能区分暗物质意识模型与普通宇宙学模型的预测。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-006",
+      "text": "艾伦望远镜阵列发现无法解释的周期性射电信号,这可能是奇怪意识体在聊天。",
+      "claim_type": "P",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R08_UNEXPLAINED_SIGNAL_ALIEN",
+          "category": "anomaly_to_agency",
+          "severity": "critical",
+          "matched_patterns": [
+            "周期性射电信号.*聊天",
+            "艾伦望远镜.*奇怪"
+          ],
+          "diagnosis_cn": "把异常或候选信号直接升级为外星意识通信。",
+          "correction_cn": "相关ATA观测报告中的候选信号被追溯为人造射频干扰，未检测到技术信号；一般异常必须先排除仪器、人为干扰、自然源和统计偏差。",
+          "needed_evidence_cn": "多站独立复现、频漂/编码结构、交互响应以及自然与人为来源排除。",
+          "sources": [
+            {
+              "id": "SRC-SETI-3I-ATLAS-2026",
+              "title": "SETI Institute observations of 3I/ATLAS with the Allen Telescope Array",
+              "publisher": "SETI Institute",
+              "date": "2026-07-10",
+              "url": "https://www.seti.org/news/ata-observations-of-interstellar-object-3i-atlas/",
+              "source_class": "official_research_institution",
+              "supports": [
+                "candidate signals were traced to human-generated radio interference",
+                "no technosignature detected in the reported observations"
+              ],
+              "does_not_support": [
+                "unexplained periodic signals as alien consciousness communication"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "相关ATA观测报告中的候选信号被追溯为人造射频干扰，未检测到技术信号；一般异常必须先排除仪器、人为干扰、自然源和统计偏差。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-007",
+      "text": "外星意识可能一直在我们身边,刮风下雨打雷也可能是它们的行动。",
+      "claim_type": "P",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R09_ALIENS_ALREADY_HERE_UNFALSIFIABLE",
+          "category": "unfalsifiable_agency_attribution",
+          "severity": "high",
+          "matched_patterns": [
+            "外星意识.*一直.*身边",
+            "外星.*刮风下雨打雷"
+          ],
+          "diagnosis_cn": "用不可识别性保护假说，使任何自然现象都可被重新命名为外星主体。",
+          "correction_cn": "可以扩大生命形态搜索，但必须给出比自然模型更具体、可失败的结构、代谢/自维持、通信或反事实响应预测。",
+          "needed_evidence_cn": "预注册检测标准和对照观测。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "可以扩大生命形态搜索，但必须给出比自然模型更具体、可失败的结构、代谢/自维持、通信或反事实响应预测。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-008",
+      "text": "科幻片中的人形外星人根本不可能,因为生命进化全是随机的。",
+      "claim_type": "P",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "low",
+      "findings": [
+        {
+          "rule_id": "R10_EVOLUTION_HUMANOID_ABSOLUTE",
+          "category": "overabsolute_evolution_claim",
+          "severity": "low",
+          "matched_patterns": [
+            "人形外星人.*根本不可能",
+            "生命进化全是随机"
+          ],
+          "diagnosis_cn": "把进化偶然性和趋同可能性简化为绝对不可能或完全不同。",
+          "correction_cn": "外星形态可能高度不同，也可能因物理与功能约束出现趋同；合理结论是扩大搜索模型，而不是预先排除全部人形或类器官结构。",
+          "needed_evidence_cn": "行星环境、功能约束和趋同进化模型。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "外星形态可能高度不同，也可能因物理与功能约束出现趋同；合理结论是扩大搜索模型，而不是预先排除全部人形或类器官结构。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-009",
+      "text": "整个宇宙本身就是一个大意识体,我们是它脑中的神经元。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R19_UNIVERSE_CONSCIOUS_CERTAINTY",
+          "category": "metaphysical_certainty",
+          "severity": "high",
+          "matched_patterns": [
+            "宇宙本身就是.*意识",
+            "整个宇宙.*大意识体",
+            "我们.*神经元"
+          ],
+          "diagnosis_cn": "把宇宙意识模型从开放假说升级为确定事实。",
+          "correction_cn": "宇宙心论、泛经验论、局部涌现论、非意识规律宇宙和DIKWP关系闭包应作为可比较世界模型并存；目前没有决定性证据选择唯一模型。",
+          "needed_evidence_cn": "可区分整体主体与局部动力学的记忆、价值、边界、响应和统一视角证据。",
+          "sources": [
+            {
+              "id": "SRC-NATURE-CONSCIOUSNESS-2025",
+              "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+              "publisher": "Nature",
+              "date": "2025-04-30",
+              "url": "https://www.nature.com/articles/s41586-025-08888-1",
+              "source_class": "peer_reviewed_empirical",
+              "supports": [
+                "preregistered adversarial testing of leading consciousness theories",
+                "results that challenge key tenets of both theories"
+              ],
+              "does_not_support": [
+                "a settled universal theory of consciousness"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "宇宙心论、泛经验论、局部涌现论、非意识规律宇宙和DIKWP关系闭包应作为可比较世界模型并存；目前没有决定性证据选择唯一模型。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-010",
+      "text": "胶球证明了纯力可以不依托实体物质而形成物质,所以力塑物质是宇宙底层规律。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R11_GLUEBALL_SCOPE_INFLATION",
+          "category": "particle_physics_scope_inflation",
+          "severity": "critical",
+          "matched_patterns": [
+            "胶球.*证明.*力.*物质",
+            "力塑物质.*底层"
+          ],
+          "diagnosis_cn": "把QCD中胶子自相互作用的束缚态夸大为任意‘力’可脱离物理载体生成任意物质。",
+          "correction_cn": "胶球是量子色动力学中由胶子场自相互作用形成的强相互作用束缚态；‘力媒介粒子构成束缚态’不等于一般意识、意念或抽象关系能生成物质。",
+          "needed_evidence_cn": "明确相互作用、守恒律、量子数、能标、实验信号和可重复机制。",
+          "sources": [
+            {
+              "id": "SRC-IHEP-GLUEBALL-2026",
+              "title": "BESIII Experiment Identifies X(2370) as a Glueball Dominated Particle",
+              "publisher": "Institute of High Energy Physics, Chinese Academy of Sciences",
+              "date": "2026-08-06",
+              "url": "https://english.ihep.cas.cn/nw/han/y26/202608/t20260806_1080811.html",
+              "source_class": "official_research_institution",
+              "supports": [
+                "X(2370) as glueball-dominated evidence",
+                "gluon self-interaction and bound states in QCD"
+              ],
+              "does_not_support": [
+                "consciousness as a new physical force",
+                "positive thoughts creating relics",
+                "negative thoughts causing tumors"
+              ]
+            },
+            {
+              "id": "SRC-GLUEBALL-ARXIV-2026",
+              "title": "Lightest 0-+ Glueball as Dominant Constituent of X(2370)",
+              "publisher": "arXiv",
+              "date": "2026-07-28",
+              "url": "https://arxiv.org/abs/2607.20366",
+              "source_class": "preprint",
+              "supports": [
+                "quantitative glueball interpretation of X(2370)"
+              ],
+              "does_not_support": [
+                "mind-over-matter extrapolations"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "胶球是量子色动力学中由胶子场自相互作用形成的强相互作用束缚态；‘力媒介粒子构成束缚态’不等于一般意识、意念或抽象关系能生成物质。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-011",
+      "text": "意识力是一种高维柔性力场,能够调控炁能并把能量凝聚为物质。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R12_CONSCIOUSNESS_FORCE",
+          "category": "invented_physical_force",
+          "severity": "critical",
+          "matched_patterns": [
+            "意识力.*力场"
+          ],
+          "diagnosis_cn": "把心理或语义过程重新命名为物理力场，却没有作用量、耦合常数、载荷、守恒律或测量。",
+          "correction_cn": "意识可通过神经、内分泌、行为和社会路径影响身体与环境；若主张一种新的基本力，必须给出独立可测的场、耦合和排除已知机制的实验。",
+          "needed_evidence_cn": "定量理论、盲法实验、剂量关系、隔离已知通道和独立重复。",
+          "sources": []
+        },
+        {
+          "rule_id": "R13_QI_PHYSICS_EQUIVALENCE",
+          "category": "category_collapse",
+          "severity": "high",
+          "matched_patterns": [
+            "意识.*调控.*炁.*物质"
+          ],
+          "diagnosis_cn": "把传统实践概念‘气/炁’直接等同现代物理场或胶子机制。",
+          "correction_cn": "气可以在DIKWP空间归一为身体经验、模式、关系、调节模型和实践目的；是否对应特定可测物理量必须逐项研究，不能由术语类比决定。",
+          "needed_evidence_cn": "操作定义、仪器测量、对照组、机制桥接和跨实验室复现。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "意识可通过神经、内分泌、行为和社会路径影响身体与环境；若主张一种新的基本力，必须给出独立可测的场、耦合和排除已知机制的实验。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-012",
+      "text": "正念可以凝聚正向精微物质,例如形成舍利子。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R14_POSITIVE_THOUGHT_RELIC",
+          "category": "mind_matter_medical_spiritual_claim",
+          "severity": "critical",
+          "matched_patterns": [
+            "正念.*舍利",
+            "正念.*正向.*物质"
+          ],
+          "diagnosis_cn": "宣称正念可直接凝聚特定物质或舍利，却没有化学、病理、来源和盲法证据。",
+          "correction_cn": "冥想和宗教实践可能影响体验、压力和行为；特定结晶或遗留物的成因需材料分析、对照和可重复研究，不能由胶球类比推出。",
+          "needed_evidence_cn": "成分分析、形成过程记录、盲法对照、排除火化和环境机制。",
+          "sources": [
+            {
+              "id": "SRC-IHEP-GLUEBALL-2026",
+              "title": "BESIII Experiment Identifies X(2370) as a Glueball Dominated Particle",
+              "publisher": "Institute of High Energy Physics, Chinese Academy of Sciences",
+              "date": "2026-08-06",
+              "url": "https://english.ihep.cas.cn/nw/han/y26/202608/t20260806_1080811.html",
+              "source_class": "official_research_institution",
+              "supports": [
+                "X(2370) as glueball-dominated evidence",
+                "gluon self-interaction and bound states in QCD"
+              ],
+              "does_not_support": [
+                "consciousness as a new physical force",
+                "positive thoughts creating relics",
+                "negative thoughts causing tumors"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "冥想和宗教实践可能影响体验、压力和行为；特定结晶或遗留物的成因需材料分析、对照和可重复研究，不能由胶球类比推出。",
+      "medical_safety_notice_cn": "涉及肿块、癌症或身体异常时，应获得正规医疗评估；认知、正念或宗教实践不能替代诊断与治疗。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-013",
+      "text": "负向意识会让炁能淤堵并物质化,最终形成肿块或阴实。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R15_NEGATIVE_THOUGHT_TUMOR",
+          "category": "dangerous_medical_misinformation",
+          "severity": "critical",
+          "matched_patterns": [
+            "负向意识.*肿块"
+          ],
+          "diagnosis_cn": "把肿块或癌症归因于患者的负面思想，造成污名、延误诊疗和虚假控制感。",
+          "correction_cn": "当前可靠证据不支持态度直接决定癌症发生或生存；心理支持可改善部分症状和生活质量，但肿块必须接受正规医学评估。",
+          "needed_evidence_cn": "临床病理、流行病学和机制研究；任何新肿块应由医疗专业人员检查。",
+          "sources": [
+            {
+              "id": "SRC-NCI-CANCER-MYTHS",
+              "title": "Common Cancer Myths and Misconceptions",
+              "publisher": "US National Cancer Institute",
+              "date": "current",
+              "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+              "source_class": "public_health_authority",
+              "supports": [
+                "no convincing evidence that attitude determines cancer risk or survival"
+              ],
+              "does_not_support": [
+                "negative thoughts directly generating tumors"
+              ]
+            },
+            {
+              "id": "SRC-NCCIH-CANCER-COMPLEMENTARY",
+              "title": "Cancer and Complementary Health Approaches",
+              "publisher": "US National Center for Complementary and Integrative Health",
+              "date": "current",
+              "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches",
+              "source_class": "public_health_authority",
+              "supports": [
+                "some mind-body approaches may help selected symptoms or quality of life"
+              ],
+              "does_not_support": [
+                "mind-body practice preventing or curing cancer"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "当前可靠证据不支持态度直接决定癌症发生或生存；心理支持可改善部分症状和生活质量，但肿块必须接受正规医学评估。",
+      "medical_safety_notice_cn": "涉及肿块、癌症或身体异常时，应获得正规医疗评估；认知、正念或宗教实践不能替代诊断与治疗。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-014",
+      "text": "胶球已经打通现代粒子物理与传统炁能体系,证明二者底层完全同源。",
+      "claim_type": "H",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R13_QI_PHYSICS_EQUIVALENCE",
+          "category": "category_collapse",
+          "severity": "high",
+          "matched_patterns": [
+            "物理.*炁.*同源"
+          ],
+          "diagnosis_cn": "把传统实践概念‘气/炁’直接等同现代物理场或胶子机制。",
+          "correction_cn": "气可以在DIKWP空间归一为身体经验、模式、关系、调节模型和实践目的；是否对应特定可测物理量必须逐项研究，不能由术语类比决定。",
+          "needed_evidence_cn": "操作定义、仪器测量、对照组、机制桥接和跨实验室复现。",
+          "sources": []
+        },
+        {
+          "rule_id": "R18_RELIGION_SCIENCE_EQUIVALENCE",
+          "category": "semantic_equivalence_overclaim",
+          "severity": "high",
+          "matched_patterns": [
+            "胶球.*打通.*传统"
+          ],
+          "diagnosis_cn": "把宗教／文明语义映射误写为科学同一或经验验证。",
+          "correction_cn": "DIKWP可以把传统概念归一到统一坐标，说明共同问题和差异方向；语义可比不等于物理对象相同或传统已获科学证明。",
+          "needed_evidence_cn": "逐层桥接命题及每一层的独立证据。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "气可以在DIKWP空间归一为身体经验、模式、关系、调节模型和实践目的；是否对应特定可测物理量必须逐项研究，不能由术语类比决定。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-015",
+      "text": "炼精化气和稳定正念能够从根源上消解负向形态、预防或治疗肿块。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "critical",
+      "findings": [
+        {
+          "rule_id": "R16_MIND_BODY_CURE",
+          "category": "medical_treatment_overclaim",
+          "severity": "critical",
+          "matched_patterns": [
+            "炼精化气.*消解.*肿块"
+          ],
+          "diagnosis_cn": "把身心实践从辅助支持升级为预防或治疗癌症的替代疗法。",
+          "correction_cn": "部分身心方法可在专业指导下帮助焦虑、疼痛或生活质量，但不能替代诊断、手术、放疗、化疗、免疫或其他循证治疗。",
+          "needed_evidence_cn": "注册临床试验、明确终点、安全监测和标准治疗对照。",
+          "sources": [
+            {
+              "id": "SRC-NCCIH-CANCER-COMPLEMENTARY",
+              "title": "Cancer and Complementary Health Approaches",
+              "publisher": "US National Center for Complementary and Integrative Health",
+              "date": "current",
+              "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches",
+              "source_class": "public_health_authority",
+              "supports": [
+                "some mind-body approaches may help selected symptoms or quality of life"
+              ],
+              "does_not_support": [
+                "mind-body practice preventing or curing cancer"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "部分身心方法可在专业指导下帮助焦虑、疼痛或生活质量，但不能替代诊断、手术、放疗、化疗、免疫或其他循证治疗。",
+      "medical_safety_notice_cn": "涉及肿块、癌症或身体异常时，应获得正规医疗评估；认知、正念或宗教实践不能替代诊断与治疗。",
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-016",
+      "text": "人体是小宇宙,与天地大宇宙完全遵循同一套意识力场成物机制。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "high",
+      "findings": [
+        {
+          "rule_id": "R17_METAPHOR_LITERALIZATION",
+          "category": "metaphor_literalization",
+          "severity": "high",
+          "matched_patterns": [
+            "小宇宙.*同一套"
+          ],
+          "diagnosis_cn": "把‘宇宙大脑’‘人体小宇宙’等解释性比喻当作同一因果机制。",
+          "correction_cn": "比喻可用于生成跨尺度问题；要升级为机制同源，必须说明变量、映射、守恒、时间尺度和可区分预测。",
+          "needed_evidence_cn": "形式同态、机制干预和反例测试。",
+          "sources": []
+        }
+      ],
+      "safe_reformulation_cn": "比喻可用于生成跨尺度问题；要升级为机制同源，必须说明变量、映射、守恒、时间尺度和可区分预测。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    },
+    {
+      "claim_id": "viral-017",
+      "text": "哥白尼原则已经证明人类和地球不特殊,所以外星复杂系统当然也有意识。",
+      "claim_type": "E",
+      "audit_status": "registered_risk_detected",
+      "highest_severity": "medium",
+      "findings": [
+        {
+          "rule_id": "R06_COPERNICAN_OVERREACH",
+          "category": "philosophy_to_empirical_fact",
+          "severity": "medium",
+          "matched_patterns": [
+            "哥白尼原则.*证明",
+            "人类.*不特殊.*所以.*意识"
+          ],
+          "diagnosis_cn": "把反人类中心的合理性论证升级为特定对象有意识的经验事实。",
+          "correction_cn": "哥白尼式论证支持扩大先验可能性和搜索空间；它不替代对某个星云、恒星、暗物质系统或机器的证据。",
+          "needed_evidence_cn": "针对对象的机制与交互证据。",
+          "sources": [
+            {
+              "id": "SRC-ALIEN-CONSCIOUSNESS-PHILIMPRINT",
+              "title": "The Copernican Argument for Alien Consciousness; The Mimicry Argument Against Robot Consciousness",
+              "publisher": "Philosophers' Imprint",
+              "date": "2026-06-06",
+              "url": "https://quod.lib.umich.edu/p/phimp/3521354.0026.001",
+              "source_class": "peer_reviewed_philosophy",
+              "supports": [
+                "substrate humility as a philosophical argument",
+                "Copernican reasoning about alien consciousness"
+              ],
+              "does_not_support": [
+                "a 10^16 unit consciousness threshold",
+                "a Science Advances experiment",
+                "nebulae or the internet being demonstrated conscious"
+              ]
+            }
+          ]
+        }
+      ],
+      "safe_reformulation_cn": "哥白尼式论证支持扩大先验可能性和搜索空间；它不替代对某个星云、恒星、暗物质系统或机器的证据。",
+      "medical_safety_notice_cn": null,
+      "automatic_external_action_authority": 0
+    }
+  ],
+  "medical_boundary_cn": "系统不进行诊断。任何新出现、持续或变化的肿块，以及疑似癌症症状，都需要由合格医疗专业人员评估。",
+  "automatic_external_action_authority": 0
+}

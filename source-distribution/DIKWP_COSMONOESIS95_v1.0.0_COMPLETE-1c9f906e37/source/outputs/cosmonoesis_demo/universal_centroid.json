@@ -1,0 +1,100 @@
+{
+  "name_cn": "世界宗教—文明 DIKWP 归一重心",
+  "vector": {
+    "D.BODY": 0.011805555556,
+    "D.HISTORY": 0.009027777778,
+    "D.OBSERVATION": 0.019444444444,
+    "D.SENSATION": 0.010416666667,
+    "I.BOUNDARY": 0.015972222222,
+    "I.CONTEXT": 0.018055555556,
+    "I.DIFFERENCE": 0.007638888889,
+    "I.PATTERN": 0.034722222222,
+    "I.RELATION": 0.067361111111,
+    "I.TRANSLATION": 0.00625,
+    "K.CAUSE": 0.020138888889,
+    "K.CONCEPT": 0.00625,
+    "K.META": 0.057638888889,
+    "K.PRACTICE": 0.064583333333,
+    "K.REGULARITY": 0.023726851852,
+    "K.SELF_MODEL": 0.057638888889,
+    "K.WORLD_MODEL": 0.053356481481,
+    "P.AGENCY": 0.027777777778,
+    "P.COMMUNION": 0.057523148148,
+    "P.CONTINUITY": 0.038194444444,
+    "P.FLOURISHING": 0.055555555556,
+    "P.HARMONY": 0.034722222222,
+    "P.INTENTION": 0.022916666667,
+    "P.LIBERATION": 0.048611111111,
+    "P.VERIFICATION": 0.045138888889,
+    "W.CONSEQUENCE": 0.015972222222,
+    "W.LEGITIMACY": 0.023611111111,
+    "W.MEANING": 0.028703703704,
+    "W.NORM": 0.07349537037,
+    "W.TRADEOFF": 0.015277777778,
+    "W.VALENCE": 0.028472222222
+  },
+  "top_coordinates": [
+    {
+      "coordinate": "W.NORM",
+      "weight": 0.07349537037
+    },
+    {
+      "coordinate": "I.RELATION",
+      "weight": 0.067361111111
+    },
+    {
+      "coordinate": "K.PRACTICE",
+      "weight": 0.064583333333
+    },
+    {
+      "coordinate": "K.META",
+      "weight": 0.057638888889
+    },
+    {
+      "coordinate": "K.SELF_MODEL",
+      "weight": 0.057638888889
+    },
+    {
+      "coordinate": "P.COMMUNION",
+      "weight": 0.057523148148
+    },
+    {
+      "coordinate": "P.FLOURISHING",
+      "weight": 0.055555555556
+    },
+    {
+      "coordinate": "K.WORLD_MODEL",
+      "weight": 0.053356481481
+    },
+    {
+      "coordinate": "P.LIBERATION",
+      "weight": 0.048611111111
+    },
+    {
+      "coordinate": "P.VERIFICATION",
+      "weight": 0.045138888889
+    },
+    {
+      "coordinate": "P.CONTINUITY",
+      "weight": 0.038194444444
+    },
+    {
+      "coordinate": "I.PATTERN",
+      "weight": 0.034722222222
+    },
+    {
+      "coordinate": "P.HARMONY",
+      "weight": 0.034722222222
+    },
+    {
+      "coordinate": "W.MEANING",
+      "weight": 0.028703703704
+    },
+    {
+      "coordinate": "W.VALENCE",
+      "weight": 0.028472222222
+    }
+  ],
+  "interpretation_cn": "该重心是计算性共同坐标，不是新的宗教权威、折衷教义或‘万教原本完全相同’的历史断言。",
+  "out_of_space_residual": 0.0
+}
