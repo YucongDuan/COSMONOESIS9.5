@@ -1,5 +1,11 @@
 from __future__ import annotations
 
+if __package__:
+    from ._ui_presentation import localize_html as _ui_localize_html
+else:
+    from _ui_presentation import localize_html as _ui_localize_html
+
+
 import json
 from typing import Any
 
@@ -268,7 +274,7 @@ def render_report(bundle: dict[str, Any]) -> str:
 
 def render_dashboard(bundle: dict[str, Any]) -> str:
     payload = json.dumps(bundle, ensure_ascii=False, separators=(",", ":")).replace("</script>", "<\\/script>")
-    return f'''<!doctype html>
+    return _ui_localize_html(f'''<!doctype html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
@@ -324,4 +330,4 @@ document.getElementById('cosmicGrid').innerHTML=B.registries.consciousness.cosmi
 document.getElementById('contactStages').innerHTML=B.contact_demo.dikwp_contact_protocol.map(s=>`<div class="card"><h3>${{s.stage}} · ${{s.name_cn}}</h3><ul>${{s.requirements.map(x=>`<li>${{x}}</li>`).join('')}}</ul></div>`).join('');document.getElementById('contactModels').innerHTML=B.contact_demo.competing_models.map(m=>`<div><code>${{m.id}}</code> ${{m.name_cn}} · ${{(m.compatibility*100).toFixed(1)}}%</div><div class="bar"><i style="width:${{m.compatibility*100}}%"></i></div>`).join('');
 document.getElementById('lawGrid').innerHTML=B.registries.principles.principles.map(l=>`<div class="card"><h3>${{l.id}} · ${{l.name_cn}}</h3><p>${{l.statement_cn}}</p><p class="muted">反证／退役：${{l.falsifier}}</p></div>`).join('');
 </script>
-</body></html>'''
+</body></html>''')

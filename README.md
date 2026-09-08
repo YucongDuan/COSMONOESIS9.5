@@ -1,5 +1,7 @@
 # DIKWP-COSMONOESIS 9.5
 
+Created by Yucong Duan (段玉聪).
+
 ## Universal Consciousness, DIKWP Religious-Civilizational Normalization, Claim Audit, and Reality-Contact System
 
 DIKWP-COSMONOESIS 9.5 is an open-source, standard-library Python system for four connected tasks:
@@ -13,11 +15,11 @@ DIKWP-COSMONOESIS 9.5 is an open-source, standard-library Python system for four
 
 Every concept is placed inside the same DIKWP space:
 
-- **D** — occurrences, sensation, embodiment, testimony and history;
-- **I** — differences, relations, patterns, boundaries, context and translation;
-- **K** — concepts, causes, self/world models, regularities, practices and revision;
-- **W** — valence, ethics, consequences, trade-offs, meaning and legitimacy;
-- **P** — intention, liberation, harmony, communion, flourishing, agency, verification and continuity.
+- D — occurrences, sensation, embodiment, testimony and history;
+- I — differences, relations, patterns, boundaries, context and translation;
+- K — concepts, causes, self/world models, regularities, practices and revision;
+- W — valence, ethics, consequences, trade-offs, meaning and legitimacy;
+- P — intention, liberation, harmony, communion, flourishing, agency, verification and continuity.
 
 Normalization means coordinate unification, not historical identity. Original terms remain provenance and review keys. Difference, ambiguity and novelty are represented as vectors, relations, contexts or versioned extensions *inside* DIKWP. The system has no permanent extra-semantic “untranslatable residue” zone.
 
@@ -60,7 +62,7 @@ python run.py contact examples/nonstandard_material/contact_observation.json
 
 The system does not certify that the universe, stars, galaxies, the internet, AI systems or religious beings are conscious. It does not equate qi with a quantum field, glueballs with “mind force,” or negative thoughts with tumors. It performs no medical diagnosis and authorizes no transmission or external action.
 
-Automatic external-action authority is always **0**.
+Automatic external-action authority is always 0.
 
 ## License
 
@@ -70,7 +72,7 @@ Apache-2.0 for the code. No rights to third-party texts, traditions, identities,
 <!-- DIKWP-SOURCE-VISIBILITY-START -->
 ## Browse source / 浏览源码
 
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
+[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: NOT_RUN.
 
 原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
 <!-- DIKWP-SOURCE-VISIBILITY-END -->
@@ -85,3 +87,7 @@ Research navigation, not verified software dependencies. / 研究导航，不代
 - [APEIRON-9.5](https://github.com/YucongDuan/APEIRON-9.5)
 - [Intent-balancing-high-dimensional-rule-active-defense-platform.](https://github.com/YucongDuan/Intent-balancing-high-dimensional-rule-active-defense-platform.)
 - [DIKWP-MESH-5.8--FIDELIS](https://github.com/YucongDuan/DIKWP-MESH-5.8--FIDELIS)
+
+## Current interface presentation
+
+[Open the interface source](source-distribution/DIKWP_COSMONOESIS95_v1.0.0_COMPLETE-1c9f906e37/source/outputs/cosmonoesis_demo/dashboard.html) from the current repository download. See [interface and authorship notes](INTERFACE_NOTES.md) for English coverage, report generation and validation scope.
